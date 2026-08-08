@@ -1,0 +1,99 @@
+{
+  "generated_at": "2026-08-08T23:55:00Z",
+  "research_question": "Are top 20 six-Pokemon Pokemon Champions / VGC 2026 Regulation M-B team combos by win rate publicly available? If not, collect best alternatives.",
+  "bottom_line": {
+    "exact_top20_by_win_rate_publicly_available": false,
+    "best_public_alternative": "LabMaus /api/top_teams exposes six-Pokemon Regulation M-B team compositions with aggregate wins, losses, score, count of example teams, and example tournament finishes. It appears sorted by LabMaus score, not pure win rate, so it is not a definitive top-20-by-win-rate list.",
+    "smogon_showdown_caveat": "Pokemon Showdown/Smogon public monthly stats expose usage and pairwise teammates in chaos JSON, not full six-Pokemon team frequency or team win-rate tables. August 2026 stats directory returned 404 at collection time; July 2026 is the latest available Smogon month found."
+  },
+  "sources": [
+    {
+      "name": "LabMaus top_teams API",
+      "url": "https://labmaus.net/api/top_teams?language=en",
+      "reliability": "High for aggregated online tournament team composition performance available to LabMaus; best source found for public six-mon combo wins/losses/records.",
+      "caveats": ["No explicit date-range/filter metadata in response captured here.", "Sorted by score, not win rate.", "Tournament ecosystem may overweight online community tours and duplicate teams/pastes.", "Not necessarily Pokemon Showdown ladder data."]
+    },
+    {
+      "name": "Smogon Pokemon Showdown July 2026 Reg M-B BO3 stats",
+      "url": "https://www.smogon.com/stats/2026-07/gen9championsvgc2026regmbbo3-1760.txt",
+      "reliability": "High for ladder weighted usage at 1760 cutoff across 200850 BO3 battles.",
+      "caveats": ["Usage only; no public full-team win-rate table found.", "Chaos JSON has pairwise teammate data, items, moves, spreads, checks/counters, but not six-mon compositions."]
+    },
+    {
+      "name": "Smogon Pokemon Showdown July 2026 Reg M-B BO3 chaos JSON",
+      "url": "https://www.smogon.com/stats/2026-07/chaos/gen9championsvgc2026regmbbo3-1760.json",
+      "reliability": "High for Showdown ladder teammate/item/move/ability distributions.",
+      "caveats": ["Pairwise teammate weights are not equivalent to team win rates.", "Can support cores/shells, not exact top six combos."]
+    },
+    {
+      "name": "Limitless completed VGC tournaments search",
+      "url": "https://play.limitlesstcg.com/tournaments/completed?game=VGC",
+      "reliability": "Medium-high for individual public tournament winners/standings/teamlists.",
+      "caveats": ["Requires filtering event names for Champions/Reg M-B manually.", "Provides event-level records and teamlists, not aggregate ladder win rates."]
+    },
+    {
+      "name": "Smogon August 2026 stats directory",
+      "url": "https://www.smogon.com/stats/2026-08/",
+      "reliability": "N/A",
+      "caveats": ["Returned 404 at collection time on 2026-08-08, so July stats were used."]
+    }
+  ],
+  "labmaus_top20_six_pokemon_combos_by_score_with_observed_win_rate": [
+    {"rank_by_score":1,"pokemon":["Gholdengo","Sinistcha","Tyranitar","Milotic","Staraptor","Excadrill"],"score":1227,"wins":891,"losses":433,"win_rate_percent":67.30,"teams_count":178,"examples":[{"player":"Daredevilzz26","placement":1,"record":"11-1-0","team_url":"https://pokepast.es/9cd069ccd073816a","tournament":"Sitrus-Series Champions-MB #67"},{"player":"Philip9804","placement":1,"record":"11-1-0","team_url":"https://pokepast.es/a5c1698cfde19916","tournament":"Regulation M-B: Open League #3"}]},
+    {"rank_by_score":2,"pokemon":["Venusaur","Charizard","Archaludon","Pelipper","Grimmsnarl","Basculegion "],"score":1162,"wins":785,"losses":381,"win_rate_percent":67.32,"teams_count":164,"examples":[{"player":"B3rtani","placement":2,"record":"12-2-0","team_url":"https://pokepast.es/005a1a2eba7c95ad","tournament":"Free entry! $250 Global VGC Welcome Tour!"},{"player":"QuantumSlack","placement":4,"record":"9-2-0","team_url":"https://pokepast.es/a3abfec9b0a0ee40","tournament":"Sitrus-Series Champions-MB #67"}]},
+    {"rank_by_score":3,"pokemon":["Charizard","Aerodactyl","Garchomp","Sylveon","Farigiraf","Kingambit"],"score":904,"wins":662,"losses":316,"win_rate_percent":67.69,"teams_count":138,"examples":[{"player":"Glibunkel","placement":2,"record":"12-1-0","team_url":"https://pokepast.es/5315b776ab3a9705","tournament":"Nikita Vlasenko Memorial Tournament"},{"player":"ToniTheBest","placement":1,"record":"11-0-0","team_url":"https://pokepast.es/7d75d7a97aa302ce","tournament":"Champions Collective #14"}]},
+    {"rank_by_score":4,"pokemon":["Charizard","Garchomp","Whimsicott","Floette","Basculegion ","Kingambit"],"score":869,"wins":595,"losses":269,"win_rate_percent":68.87,"teams_count":120,"examples":[{"player":"dialghite","placement":4,"record":"7-3-0","team_url":"https://pokepast.es/9adf5a2bd245d204","tournament":"CROWN FIGHT Bo3 TOUR #79"},{"player":"CalcVGC","placement":1,"record":"9-1-0","team_url":"https://pokepast.es/0adc4c2b5b31402e","tournament":"Le Laly League #1"}]},
+    {"rank_by_score":5,"pokemon":["Froslass","Lycanroc-Dusk","Basculegion ","Sneasler","Scovillain","Kingambit"],"score":646,"wins":337,"losses":133,"win_rate_percent":71.70,"teams_count":61,"examples":[{"player":"Codeanish19","placement":1,"record":"12-1-0","team_url":"https://pokepast.es/1baf0465cebcb50f","tournament":"VGC Trainer School champions M/B #2"},{"player":"Esquie","placement":1,"record":"12-0-0","team_url":"https://pokepast.es/4c95e57e71a2ab37","tournament":"Sitrus-Series Champions-MB #69"}]},
+    {"rank_by_score":6,"pokemon":["Blastoise","Sinistcha","Delphox","Incineroar","Sneasler","Kingambit"],"score":529,"wins":422,"losses":207,"win_rate_percent":67.09,"teams_count":88},
+    {"rank_by_score":7,"pokemon":["Arcanine-Hisui","Dragonite","Whimsicott","Floette","Basculegion ","Kingambit"],"score":494,"wins":276,"losses":89,"win_rate_percent":75.62,"teams_count":45},
+    {"rank_by_score":8,"pokemon":["Staraptor","Garchomp","Whimsicott","Delphox","Glimmora","Kingambit"],"score":457,"wins":364,"losses":191,"win_rate_percent":65.59,"teams_count":79},
+    {"rank_by_score":9,"pokemon":["Venusaur","Charizard","Garchomp","Incineroar","Toxapex","Annihilape"],"score":379,"wins":308,"losses":166,"win_rate_percent":64.98,"teams_count":68},
+    {"rank_by_score":10,"pokemon":["Venusaur","Charizard","Archaludon","Swampert","Pelipper","Grimmsnarl"],"score":370,"wins":171,"losses":77,"win_rate_percent":68.95,"teams_count":30},
+    {"rank_by_score":11,"pokemon":["Gengar","Archaludon","Politoed","Swampert","Vivillon","Incineroar"],"score":360,"wins":241,"losses":112,"win_rate_percent":68.27,"teams_count":47},
+    {"rank_by_score":12,"pokemon":["Raichu","Arcanine-Hisui","Staraptor","Sylveon","Farigiraf","Kingambit"],"score":295,"wins":223,"losses":106,"win_rate_percent":67.78,"teams_count":46},
+    {"rank_by_score":13,"pokemon":["Charizard","Aerodactyl","Garchomp","Sylveon","Incineroar","Kingambit"],"score":273,"wins":213,"losses":117,"win_rate_percent":64.55,"teams_count":46},
+    {"rank_by_score":14,"pokemon":["Charizard","Ninetales-Alola","Whimsicott","Kommo-o","Glimmora","Kingambit"],"score":259,"wins":155,"losses":61,"win_rate_percent":71.76,"teams_count":27},
+    {"rank_by_score":15,"pokemon":["Charizard","Garchomp","Whimsicott","Floette","Incineroar","Basculegion "],"score":194,"wins":75,"losses":27,"win_rate_percent":73.53,"teams_count":12},
+    {"rank_by_score":16,"pokemon":["Dragonite","Blaziken","Froslass","Toxapex","Sneasler","Kingambit"],"score":189,"wins":160,"losses":86,"win_rate_percent":65.04,"teams_count":34},
+    {"rank_by_score":17,"pokemon":["Sinistcha","Delphox","Floette","Incineroar","Sneasler","Kingambit"],"score":166,"wins":128,"losses":52,"win_rate_percent":71.11,"teams_count":23},
+    {"rank_by_score":18,"pokemon":["Venusaur","Charizard","Sinistcha","Garchomp","Floette","Incineroar"],"score":162,"wins":49,"losses":11,"win_rate_percent":81.67,"teams_count":7},
+    {"rank_by_score":19,"pokemon":["Raichu","Sinistcha","Milotic","Floette","Incineroar","Ceruledge"],"score":154,"wins":77,"losses":30,"win_rate_percent":71.96,"teams_count":14},
+    {"rank_by_score":20,"pokemon":["Ninetales-Alola","Metagross","Hydreigon","Talonflame","Floette","Ceruledge"],"score":148,"wins":101,"losses":45,"win_rate_percent":69.18,"teams_count":18}
+  ],
+  "same_labmaus_top20_sorted_by_observed_win_rate_warning_not_global": [
+    {"rank_within_score_top20_by_win_rate":1,"score_rank":18,"pokemon":["Venusaur","Charizard","Sinistcha","Garchomp","Floette","Incineroar"],"win_rate_percent":81.67,"wins":49,"losses":11,"teams_count":7},
+    {"rank_within_score_top20_by_win_rate":2,"score_rank":7,"pokemon":["Arcanine-Hisui","Dragonite","Whimsicott","Floette","Basculegion ","Kingambit"],"win_rate_percent":75.62,"wins":276,"losses":89,"teams_count":45},
+    {"rank_within_score_top20_by_win_rate":3,"score_rank":15,"pokemon":["Charizard","Garchomp","Whimsicott","Floette","Incineroar","Basculegion "],"win_rate_percent":73.53,"wins":75,"losses":27,"teams_count":12},
+    {"rank_within_score_top20_by_win_rate":4,"score_rank":19,"pokemon":["Raichu","Sinistcha","Milotic","Floette","Incineroar","Ceruledge"],"win_rate_percent":71.96,"wins":77,"losses":30,"teams_count":14},
+    {"rank_within_score_top20_by_win_rate":5,"score_rank":14,"pokemon":["Charizard","Ninetales-Alola","Whimsicott","Kommo-o","Glimmora","Kingambit"],"win_rate_percent":71.76,"wins":155,"losses":61,"teams_count":27}
+  ],
+  "smogon_july_2026_bo3_1760_top_usage": [
+    {"rank":1,"pokemon":"Kingambit","usage_percent":49.23769},
+    {"rank":2,"pokemon":"Incineroar","usage_percent":45.45541},
+    {"rank":3,"pokemon":"Charizard-Mega-Y","usage_percent":40.57728},
+    {"rank":4,"pokemon":"Garchomp","usage_percent":37.01186},
+    {"rank":5,"pokemon":"Basculegion","usage_percent":31.87054},
+    {"rank":6,"pokemon":"Sinistcha","usage_percent":29.03739},
+    {"rank":7,"pokemon":"Sneasler","usage_percent":28.11025},
+    {"rank":8,"pokemon":"Floette-Mega","usage_percent":23.90983},
+    {"rank":9,"pokemon":"Whimsicott","usage_percent":22.16061},
+    {"rank":10,"pokemon":"Sylveon","usage_percent":16.08323},
+    {"rank":11,"pokemon":"Farigiraf","usage_percent":14.77487},
+    {"rank":12,"pokemon":"Venusaur","usage_percent":14.14615},
+    {"rank":13,"pokemon":"Delphox-Mega","usage_percent":13.35150},
+    {"rank":14,"pokemon":"Archaludon","usage_percent":13.13106},
+    {"rank":15,"pokemon":"Grimmsnarl","usage_percent":11.55386},
+    {"rank":16,"pokemon":"Pelipper","usage_percent":11.27218},
+    {"rank":17,"pokemon":"Blastoise-Mega","usage_percent":11.20449},
+    {"rank":18,"pokemon":"Staraptor-Mega","usage_percent":11.18333},
+    {"rank":19,"pokemon":"Gholdengo","usage_percent":10.90166},
+    {"rank":20,"pokemon":"Toxapex","usage_percent":9.95285}
+  ],
+  "defensible_team_shells": [
+    {"shell":"Sand balance","pokemon":["Gholdengo","Sinistcha","Tyranitar","Milotic","Staraptor","Excadrill"],"evidence":"LabMaus rank #1 by score; 178 teams; 891-433 aggregate; multiple first-place 11-1 examples."},
+    {"shell":"Sun/rain hybrid offense","pokemon":["Venusaur","Charizard","Archaludon","Pelipper","Grimmsnarl","Basculegion"],"evidence":"LabMaus rank #2 by score; 164 teams; overlaps Smogon high usage for Charizard, Basculegion, Archaludon, Pelipper, Grimmsnarl."},
+    {"shell":"Charizard/Garchomp/Kingambit goodstuffs","pokemon":["Charizard","Garchomp","Whimsicott/Farigiraf/Floette","Basculegion/Sylveon/Aerodactyl","Kingambit"],"evidence":"Multiple LabMaus top-5 score shells and Smogon top usage: Kingambit #1, Charizard-Mega-Y #3, Garchomp #4, Basculegion #5, Whimsicott #9."},
+    {"shell":"Mega Froslass hyper offense","pokemon":["Froslass","Lycanroc-Dusk","Basculegion","Sneasler","Scovillain","Kingambit"],"evidence":"LabMaus score rank #5 with 71.70% observed aggregate win rate; example 12-0 and 12-1 event wins."},
+    {"shell":"Floette/Incineroar/Sinistcha balance","pokemon":["Floette","Incineroar","Sinistcha","Sneasler/Kingambit/Delphox/Charizard/Garchomp"],"evidence":"Floette/Incineroar/Sinistcha appear in several high win-rate LabMaus shells; all are top-8/ top-2 / top-6 in Smogon usage respectively except Delphox at #13."}
+  ]
+}

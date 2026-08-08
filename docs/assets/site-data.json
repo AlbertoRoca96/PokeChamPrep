@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T23:44:19.178Z",
+  "generatedAt": "2026-08-08T23:57:24.071Z",
   "sources": {
     "smogonDex": "https://www.smogon.com/dex/champions/pokemon/",
     "bo3Usage": "https://www.smogon.com/stats/2026-07/gen9championsvgc2026regmbbo3-1760.txt",
@@ -72771,6 +72771,625 @@
         "Gholdengo"
       ],
       "plan": "Respect its Speed/item variance. Dark pressure, redirection, priority denial, and not donating free KOs are the big lessons."
+    }
+  ],
+  "topTeamCombos": [
+    {
+      "rank": 1,
+      "pokemon": [
+        "Gholdengo",
+        "Sinistcha",
+        "Tyranitar",
+        "Milotic",
+        "Staraptor",
+        "Excadrill"
+      ],
+      "score": 1227,
+      "wins": 891,
+      "losses": 433,
+      "winRatePercent": 67.3,
+      "teamsCount": 178,
+      "examples": [
+        {
+          "player": "Daredevilzz26",
+          "placement": 1,
+          "record": "11-1-0",
+          "team_url": "https://pokepast.es/9cd069ccd073816a",
+          "tournament": "Sitrus-Series Champions-MB #67"
+        },
+        {
+          "player": "Philip9804",
+          "placement": 1,
+          "record": "11-1-0",
+          "team_url": "https://pokepast.es/a5c1698cfde19916",
+          "tournament": "Regulation M-B: Open League #3"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "pokemon": [
+        "Venusaur",
+        "Charizard",
+        "Archaludon",
+        "Pelipper",
+        "Grimmsnarl",
+        "Basculegion"
+      ],
+      "score": 1162,
+      "wins": 785,
+      "losses": 381,
+      "winRatePercent": 67.32,
+      "teamsCount": 164,
+      "examples": [
+        {
+          "player": "B3rtani",
+          "placement": 2,
+          "record": "12-2-0",
+          "team_url": "https://pokepast.es/005a1a2eba7c95ad",
+          "tournament": "Free entry! $250 Global VGC Welcome Tour!"
+        },
+        {
+          "player": "QuantumSlack",
+          "placement": 4,
+          "record": "9-2-0",
+          "team_url": "https://pokepast.es/a3abfec9b0a0ee40",
+          "tournament": "Sitrus-Series Champions-MB #67"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "pokemon": [
+        "Charizard",
+        "Aerodactyl",
+        "Garchomp",
+        "Sylveon",
+        "Farigiraf",
+        "Kingambit"
+      ],
+      "score": 904,
+      "wins": 662,
+      "losses": 316,
+      "winRatePercent": 67.69,
+      "teamsCount": 138,
+      "examples": [
+        {
+          "player": "Glibunkel",
+          "placement": 2,
+          "record": "12-1-0",
+          "team_url": "https://pokepast.es/5315b776ab3a9705",
+          "tournament": "Nikita Vlasenko Memorial Tournament"
+        },
+        {
+          "player": "ToniTheBest",
+          "placement": 1,
+          "record": "11-0-0",
+          "team_url": "https://pokepast.es/7d75d7a97aa302ce",
+          "tournament": "Champions Collective #14"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "pokemon": [
+        "Charizard",
+        "Garchomp",
+        "Whimsicott",
+        "Floette",
+        "Basculegion",
+        "Kingambit"
+      ],
+      "score": 869,
+      "wins": 595,
+      "losses": 269,
+      "winRatePercent": 68.87,
+      "teamsCount": 120,
+      "examples": [
+        {
+          "player": "dialghite",
+          "placement": 4,
+          "record": "7-3-0",
+          "team_url": "https://pokepast.es/9adf5a2bd245d204",
+          "tournament": "CROWN FIGHT Bo3 TOUR #79"
+        },
+        {
+          "player": "CalcVGC",
+          "placement": 1,
+          "record": "9-1-0",
+          "team_url": "https://pokepast.es/0adc4c2b5b31402e",
+          "tournament": "Le Laly League #1"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "pokemon": [
+        "Froslass",
+        "Lycanroc-Dusk",
+        "Basculegion",
+        "Sneasler",
+        "Scovillain",
+        "Kingambit"
+      ],
+      "score": 646,
+      "wins": 337,
+      "losses": 133,
+      "winRatePercent": 71.7,
+      "teamsCount": 61,
+      "examples": [
+        {
+          "player": "Codeanish19",
+          "placement": 1,
+          "record": "12-1-0",
+          "team_url": "https://pokepast.es/1baf0465cebcb50f",
+          "tournament": "VGC Trainer School champions M/B #2"
+        },
+        {
+          "player": "Esquie",
+          "placement": 1,
+          "record": "12-0-0",
+          "team_url": "https://pokepast.es/4c95e57e71a2ab37",
+          "tournament": "Sitrus-Series Champions-MB #69"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "pokemon": [
+        "Blastoise",
+        "Sinistcha",
+        "Delphox",
+        "Incineroar",
+        "Sneasler",
+        "Kingambit"
+      ],
+      "score": 529,
+      "wins": 422,
+      "losses": 207,
+      "winRatePercent": 67.09,
+      "teamsCount": 88,
+      "examples": []
+    },
+    {
+      "rank": 7,
+      "pokemon": [
+        "Arcanine-Hisui",
+        "Dragonite",
+        "Whimsicott",
+        "Floette",
+        "Basculegion",
+        "Kingambit"
+      ],
+      "score": 494,
+      "wins": 276,
+      "losses": 89,
+      "winRatePercent": 75.62,
+      "teamsCount": 45,
+      "examples": []
+    },
+    {
+      "rank": 8,
+      "pokemon": [
+        "Staraptor",
+        "Garchomp",
+        "Whimsicott",
+        "Delphox",
+        "Glimmora",
+        "Kingambit"
+      ],
+      "score": 457,
+      "wins": 364,
+      "losses": 191,
+      "winRatePercent": 65.59,
+      "teamsCount": 79,
+      "examples": []
+    },
+    {
+      "rank": 9,
+      "pokemon": [
+        "Venusaur",
+        "Charizard",
+        "Garchomp",
+        "Incineroar",
+        "Toxapex",
+        "Annihilape"
+      ],
+      "score": 379,
+      "wins": 308,
+      "losses": 166,
+      "winRatePercent": 64.98,
+      "teamsCount": 68,
+      "examples": []
+    },
+    {
+      "rank": 10,
+      "pokemon": [
+        "Venusaur",
+        "Charizard",
+        "Archaludon",
+        "Swampert",
+        "Pelipper",
+        "Grimmsnarl"
+      ],
+      "score": 370,
+      "wins": 171,
+      "losses": 77,
+      "winRatePercent": 68.95,
+      "teamsCount": 30,
+      "examples": []
+    },
+    {
+      "rank": 11,
+      "pokemon": [
+        "Gengar",
+        "Archaludon",
+        "Politoed",
+        "Swampert",
+        "Vivillon",
+        "Incineroar"
+      ],
+      "score": 360,
+      "wins": 241,
+      "losses": 112,
+      "winRatePercent": 68.27,
+      "teamsCount": 47,
+      "examples": []
+    },
+    {
+      "rank": 12,
+      "pokemon": [
+        "Raichu",
+        "Arcanine-Hisui",
+        "Staraptor",
+        "Sylveon",
+        "Farigiraf",
+        "Kingambit"
+      ],
+      "score": 295,
+      "wins": 223,
+      "losses": 106,
+      "winRatePercent": 67.78,
+      "teamsCount": 46,
+      "examples": []
+    },
+    {
+      "rank": 13,
+      "pokemon": [
+        "Charizard",
+        "Aerodactyl",
+        "Garchomp",
+        "Sylveon",
+        "Incineroar",
+        "Kingambit"
+      ],
+      "score": 273,
+      "wins": 213,
+      "losses": 117,
+      "winRatePercent": 64.55,
+      "teamsCount": 46,
+      "examples": []
+    },
+    {
+      "rank": 14,
+      "pokemon": [
+        "Charizard",
+        "Ninetales-Alola",
+        "Whimsicott",
+        "Kommo-o",
+        "Glimmora",
+        "Kingambit"
+      ],
+      "score": 259,
+      "wins": 155,
+      "losses": 61,
+      "winRatePercent": 71.76,
+      "teamsCount": 27,
+      "examples": []
+    },
+    {
+      "rank": 15,
+      "pokemon": [
+        "Charizard",
+        "Garchomp",
+        "Whimsicott",
+        "Floette",
+        "Incineroar",
+        "Basculegion"
+      ],
+      "score": 194,
+      "wins": 75,
+      "losses": 27,
+      "winRatePercent": 73.53,
+      "teamsCount": 12,
+      "examples": []
+    },
+    {
+      "rank": 16,
+      "pokemon": [
+        "Dragonite",
+        "Blaziken",
+        "Froslass",
+        "Toxapex",
+        "Sneasler",
+        "Kingambit"
+      ],
+      "score": 189,
+      "wins": 160,
+      "losses": 86,
+      "winRatePercent": 65.04,
+      "teamsCount": 34,
+      "examples": []
+    },
+    {
+      "rank": 17,
+      "pokemon": [
+        "Sinistcha",
+        "Delphox",
+        "Floette",
+        "Incineroar",
+        "Sneasler",
+        "Kingambit"
+      ],
+      "score": 166,
+      "wins": 128,
+      "losses": 52,
+      "winRatePercent": 71.11,
+      "teamsCount": 23,
+      "examples": []
+    },
+    {
+      "rank": 18,
+      "pokemon": [
+        "Venusaur",
+        "Charizard",
+        "Sinistcha",
+        "Garchomp",
+        "Floette",
+        "Incineroar"
+      ],
+      "score": 162,
+      "wins": 49,
+      "losses": 11,
+      "winRatePercent": 81.67,
+      "teamsCount": 7,
+      "examples": []
+    },
+    {
+      "rank": 19,
+      "pokemon": [
+        "Raichu",
+        "Sinistcha",
+        "Milotic",
+        "Floette",
+        "Incineroar",
+        "Ceruledge"
+      ],
+      "score": 154,
+      "wins": 77,
+      "losses": 30,
+      "winRatePercent": 71.96,
+      "teamsCount": 14,
+      "examples": []
+    },
+    {
+      "rank": 20,
+      "pokemon": [
+        "Ninetales-Alola",
+        "Metagross",
+        "Hydreigon",
+        "Talonflame",
+        "Floette",
+        "Ceruledge"
+      ],
+      "score": 148,
+      "wins": 101,
+      "losses": 45,
+      "winRatePercent": 69.18,
+      "teamsCount": 18,
+      "examples": []
+    }
+  ],
+  "topTeamCombosByWinRate": [
+    {
+      "rank": 18,
+      "pokemon": [
+        "Venusaur",
+        "Charizard",
+        "Sinistcha",
+        "Garchomp",
+        "Floette",
+        "Incineroar"
+      ],
+      "score": 162,
+      "wins": 49,
+      "losses": 11,
+      "winRatePercent": 81.67,
+      "teamsCount": 7,
+      "examples": []
+    },
+    {
+      "rank": 7,
+      "pokemon": [
+        "Arcanine-Hisui",
+        "Dragonite",
+        "Whimsicott",
+        "Floette",
+        "Basculegion",
+        "Kingambit"
+      ],
+      "score": 494,
+      "wins": 276,
+      "losses": 89,
+      "winRatePercent": 75.62,
+      "teamsCount": 45,
+      "examples": []
+    },
+    {
+      "rank": 15,
+      "pokemon": [
+        "Charizard",
+        "Garchomp",
+        "Whimsicott",
+        "Floette",
+        "Incineroar",
+        "Basculegion"
+      ],
+      "score": 194,
+      "wins": 75,
+      "losses": 27,
+      "winRatePercent": 73.53,
+      "teamsCount": 12,
+      "examples": []
+    },
+    {
+      "rank": 19,
+      "pokemon": [
+        "Raichu",
+        "Sinistcha",
+        "Milotic",
+        "Floette",
+        "Incineroar",
+        "Ceruledge"
+      ],
+      "score": 154,
+      "wins": 77,
+      "losses": 30,
+      "winRatePercent": 71.96,
+      "teamsCount": 14,
+      "examples": []
+    },
+    {
+      "rank": 14,
+      "pokemon": [
+        "Charizard",
+        "Ninetales-Alola",
+        "Whimsicott",
+        "Kommo-o",
+        "Glimmora",
+        "Kingambit"
+      ],
+      "score": 259,
+      "wins": 155,
+      "losses": 61,
+      "winRatePercent": 71.76,
+      "teamsCount": 27,
+      "examples": []
+    },
+    {
+      "rank": 5,
+      "pokemon": [
+        "Froslass",
+        "Lycanroc-Dusk",
+        "Basculegion",
+        "Sneasler",
+        "Scovillain",
+        "Kingambit"
+      ],
+      "score": 646,
+      "wins": 337,
+      "losses": 133,
+      "winRatePercent": 71.7,
+      "teamsCount": 61,
+      "examples": [
+        {
+          "player": "Codeanish19",
+          "placement": 1,
+          "record": "12-1-0",
+          "team_url": "https://pokepast.es/1baf0465cebcb50f",
+          "tournament": "VGC Trainer School champions M/B #2"
+        },
+        {
+          "player": "Esquie",
+          "placement": 1,
+          "record": "12-0-0",
+          "team_url": "https://pokepast.es/4c95e57e71a2ab37",
+          "tournament": "Sitrus-Series Champions-MB #69"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "pokemon": [
+        "Sinistcha",
+        "Delphox",
+        "Floette",
+        "Incineroar",
+        "Sneasler",
+        "Kingambit"
+      ],
+      "score": 166,
+      "wins": 128,
+      "losses": 52,
+      "winRatePercent": 71.11,
+      "teamsCount": 23,
+      "examples": []
+    },
+    {
+      "rank": 20,
+      "pokemon": [
+        "Ninetales-Alola",
+        "Metagross",
+        "Hydreigon",
+        "Talonflame",
+        "Floette",
+        "Ceruledge"
+      ],
+      "score": 148,
+      "wins": 101,
+      "losses": 45,
+      "winRatePercent": 69.18,
+      "teamsCount": 18,
+      "examples": []
+    },
+    {
+      "rank": 10,
+      "pokemon": [
+        "Venusaur",
+        "Charizard",
+        "Archaludon",
+        "Swampert",
+        "Pelipper",
+        "Grimmsnarl"
+      ],
+      "score": 370,
+      "wins": 171,
+      "losses": 77,
+      "winRatePercent": 68.95,
+      "teamsCount": 30,
+      "examples": []
+    },
+    {
+      "rank": 4,
+      "pokemon": [
+        "Charizard",
+        "Garchomp",
+        "Whimsicott",
+        "Floette",
+        "Basculegion",
+        "Kingambit"
+      ],
+      "score": 869,
+      "wins": 595,
+      "losses": 269,
+      "winRatePercent": 68.87,
+      "teamsCount": 120,
+      "examples": [
+        {
+          "player": "dialghite",
+          "placement": 4,
+          "record": "7-3-0",
+          "team_url": "https://pokepast.es/9adf5a2bd245d204",
+          "tournament": "CROWN FIGHT Bo3 TOUR #79"
+        },
+        {
+          "player": "CalcVGC",
+          "placement": 1,
+          "record": "9-1-0",
+          "team_url": "https://pokepast.es/0adc4c2b5b31402e",
+          "tournament": "Le Laly League #1"
+        }
+      ]
     }
   ],
   "teamShells": [

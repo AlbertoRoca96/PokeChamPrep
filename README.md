@@ -13,7 +13,7 @@ https://albertoroca96.github.io/PokeChamPrep/
 - Pulls Smogon Champions Pokémon index data.
 - Pulls July 2026 Reg M-B Showdown usage + chaos summaries when available.
 - Builds a static dashboard in `docs/`.
-- Highlights top meta Pokémon, weighted type pressure, archetypes, anti-meta angles, and a Gholdengo lab.
+- Highlights top meta Pokémon, weighted type pressure, archetypes, anti-meta angles, top LabMaus team combos, and a Gholdengo lab.
 
 > Note: August 2026 Smogon stats were 404 during the initial research pass, so July 2026 is the latest verified hard usage snapshot for now.
 
@@ -39,6 +39,7 @@ You can force a port with `PORT=4173 npm run serve` if your shell supports that 
 - Smogon July 2026 `gen9championsvgc2026regmb` usage stats
 - Smogon July 2026 `gen9championsvgc2026regmbbo3` usage stats
 - Smogon chaos stats summaries
+- LabMaus top team-combo aggregate W/L data
 
 ## Current Gholdengo lab focus
 

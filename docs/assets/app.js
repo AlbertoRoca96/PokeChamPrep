@@ -10,8 +10,24 @@ const el = (tag, className, html = '') => {
 const pct = value => `${Number(value || 0).toFixed(2)}%`;
 const chips = values => `<div class="chips">${(values || []).map(v => `<span class="badge type">${v}</span>`).join('')}</div>`;
 const byName = new Map(data.pokemon.map(mon => [mon.name, mon]));
+const aliases = new Map([
+  ['Charizard', 'Charizard-Mega-Y'],
+  ['Floette', 'Floette-Mega'],
+  ['Staraptor', 'Staraptor-Mega'],
+  ['Tyranitar', 'Tyranitar-Mega'],
+  ['Swampert', 'Swampert-Mega'],
+  ['Gengar', 'Gengar-Mega'],
+  ['Blastoise', 'Blastoise-Mega'],
+  ['Delphox', 'Delphox-Mega'],
+  ['Froslass', 'Froslass-Mega'],
+  ['Aerodactyl', 'Aerodactyl-Mega'],
+  ['Raichu', 'Raichu-Mega-Y'],
+  ['Metagross', 'Metagross-Mega'],
+  ['Blaziken', 'Blaziken-Mega'],
+]);
+const findMon = name => byName.get(name) || byName.get(aliases.get(name));
 const sprite = name => {
-  const mon = byName.get(name);
+  const mon = findMon(name);
   if (!mon?.spriteUrl) return '';
   return `<img class="sprite" src="${mon.spriteUrl}" alt="${name}" loading="lazy" onerror="this.remove()" />`;
 };
@@ -74,6 +90,31 @@ function renderTypeChart() {
       <div class="bar-track"><div class="bar-fill" style="width:${(t.weightedUsage / max) * 100}%"></div></div>
     </div>
   `).join('');
+}
+
+function renderTopTeams() {
+  const root = $('#topTeams');
+  root.innerHTML = '';
+  for (const team of data.topTeamCombos || []) {
+    const examples = (team.examples || []).slice(0, 2).map(example => `
+      <a href="${example.team_url}" target="_blank" rel="noreferrer">${example.player} · ${example.record}</a>
+    `).join('');
+    root.append(el('article', 'team-combo-card', `
+      <div class="team-combo-head">
+        <span class="badge">Score #${team.rank}</span>
+        <strong>${team.winRatePercent.toFixed(2)}% win</strong>
+      </div>
+      <div class="team-six">
+        ${team.pokemon.map(name => `<div class="team-mon">${sprite(name)}<span>${name}</span></div>`).join('')}
+      </div>
+      <div class="team-metrics">
+        <span><strong>${team.wins}-${team.losses}</strong> W-L</span>
+        <span><strong>${team.score}</strong> score</span>
+        <span><strong>${team.teamsCount}</strong> teams</span>
+      </div>
+      ${examples ? `<div class="examples">${examples}</div>` : ''}
+    `));
+  }
 }
 
 function renderGholdengoLab() {
@@ -292,6 +333,7 @@ function boot() {
   renderHeader();
   renderTopMeta();
   renderTypeChart();
+  renderTopTeams();
   renderTeamBuilder();
   renderAntiMeta();
   renderGholdengoLab();

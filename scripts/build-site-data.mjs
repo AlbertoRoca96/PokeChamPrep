@@ -18,6 +18,7 @@ const usageBo1 = await readJson('smogon_usage_july2026_gen9championsvgc2026regmb
 const chaosBo3 = await readJson('smogon_chaos_summary_july2026_gen9championsvgc2026regmbbo3-1760.json');
 const chaosBo1 = await readJson('smogon_chaos_summary_july2026_gen9championsvgc2026regmb-1760.json');
 const strategies = await readJson('smogon_strategy_high_priority_full.json');
+const teamResearch = await readJson('pokemon_champions_regmb_team_combo_research_2026-08-08.json');
 
 const strategyByName = new Map(strategies.pokemon.map(p => [p.name, p]));
 const usageBo3ByName = new Map(usageBo3.rows.map(row => [row.pokemon, row]));
@@ -221,6 +222,21 @@ const teamShells = [
   { style: 'Anti-Meta Cheese But Not Stupid', mons: ['Gholdengo', 'Grimmsnarl', 'Milotic', 'Annihilape', 'Alolan Ninetales', 'Mega Staraptor'], notes: 'Screens/Veil, anti-Intimidate, Fighting pressure, and nonstandard damage lines. Spicy, but not clown college.' },
 ];
 
+const topTeamCombos = teamResearch.labmaus_top20_six_pokemon_combos_by_score_with_observed_win_rate.map(team => ({
+  rank: team.rank_by_score,
+  pokemon: team.pokemon.map(name => name.trim()),
+  score: team.score,
+  wins: team.wins,
+  losses: team.losses,
+  winRatePercent: team.win_rate_percent,
+  teamsCount: team.teams_count,
+  examples: team.examples || [],
+}));
+
+const topTeamCombosByWinRate = [...topTeamCombos]
+  .sort((a, b) => b.winRatePercent - a.winRatePercent)
+  .slice(0, 10);
+
 const ladderNotes = [
   { title: 'Common bad assumption: Gholdengo is always Life Orb', note: 'Use non-recoil items and bulk shifts to make their damage math wrong. People anchor hard on first-order calcs.' },
   { title: 'Overused lead: Incineroar + obvious sweeper', note: 'Expect Fake Out or pivot. Protecting the obvious target is often correct, but punishing the partner can be better.' },
@@ -242,6 +258,8 @@ const siteData = {
   types,
   archetypes,
   antiMeta,
+  topTeamCombos,
+  topTeamCombosByWinRate,
   teamShells,
   ladderNotes,
   gholdengoLab,

@@ -41,8 +41,8 @@ main { display: grid; gap: 18px; padding-bottom: 48px; }
 .panel { border-radius: 24px; padding: 20px; overflow: hidden; }
 .section-head { display: flex; justify-content: space-between; gap: 18px; align-items: center; margin-bottom: 12px; }
 input, select { width: min(420px, 100%); border: 1px solid var(--border); background: #0f0c1d; color: var(--text); border-radius: 999px; padding: 13px 16px; font-size: 1rem; }
-.rank-list, .cards, .pokemon-grid, .team-slots, .mini-list, .analysis-box { display: grid; gap: 10px; }
-.rank-row, .card, .mon-card, .slot, .mini-row, .analysis-card { background: var(--panel-2); border: 1px solid var(--border); border-radius: 16px; padding: 12px; }
+.rank-list, .cards, .pokemon-grid, .team-slots, .mini-list, .analysis-box, .team-combos { display: grid; gap: 10px; }
+.rank-row, .card, .mon-card, .slot, .mini-row, .analysis-card, .team-combo-card { background: var(--panel-2); border: 1px solid var(--border); border-radius: 16px; padding: 12px; }
 .rank-row { display: grid; grid-template-columns: 42px 1fr auto; align-items: center; gap: 10px; }
 .mon-line { display: flex; gap: 10px; align-items: center; }
 .mon-line.big { align-items: center; }
@@ -55,6 +55,16 @@ input, select { width: min(420px, 100%); border: 1px solid var(--border); backgr
 .bar-track { height: 10px; background: rgba(255,255,255,.08); border-radius: 99px; overflow: hidden; }
 .bar-fill { height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent-2)); border-radius: inherit; }
 .cards { grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); }
+.team-combos { grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); }
+.highlight-panel { border-color: rgba(255, 209, 102, .25); }
+.team-combo-card { display: grid; gap: 12px; }
+.team-combo-head, .team-metrics, .examples { display: flex; flex-wrap: wrap; gap: 8px; justify-content: space-between; align-items: center; }
+.team-combo-head strong { color: var(--ok); font-size: 1.15rem; }
+.team-six { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.team-mon { min-height: 74px; display: grid; place-items: center; text-align: center; gap: 2px; border-radius: 14px; background: rgba(255,255,255,.045); padding: 6px; font-size: .78rem; color: var(--muted); }
+.team-mon .sprite { width: 44px; height: 44px; }
+.team-metrics span { background: rgba(0,0,0,.18); border-radius: 999px; padding: 6px 9px; color: var(--muted); }
+.examples { justify-content: flex-start; font-size: .85rem; }
 .team-slots { grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); margin-bottom: 14px; }
 .slot { min-height: 78px; display: flex; justify-content: space-between; gap: 8px; align-items: start; }
 .slot.empty { color: var(--muted); border-style: dashed; }
