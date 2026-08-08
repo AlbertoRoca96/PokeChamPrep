@@ -157,6 +157,66 @@ const types = Object.entries(typeCounts)
   .map(([type, weightedUsage]) => ({ type, weightedUsage: +weightedUsage.toFixed(2) }))
   .sort((a, b) => b.weightedUsage - a.weightedUsage);
 
+const antiMeta = [
+  {
+    target: 'Kingambit',
+    whyItWins: 'Dark/Steel bulk, priority Sucker Punch, and scary endgame pressure make lazy offense fold.',
+    answers: ['Sneasler', 'Mega Staraptor', 'Incineroar', 'Garchomp', 'Kommo-o'],
+    plan: 'Do not feed it endgame. Bring Fighting pressure, Intimidate, burns/chip, and avoid obvious Sucker Punch turns with Protect/setup/pivots.',
+  },
+  {
+    target: 'Incineroar',
+    whyItWins: 'Fake Out, Intimidate, pivoting, Fire/Dark coverage, and pure emotional terrorism.',
+    answers: ['Garchomp', 'Basculegion', 'Mega Swampert', 'Milotic', 'Sneasler'],
+    plan: 'Punish switch cycles. Competitive/Defiant-style punishers, strong Water/Ground/Fighting pressure, and Good as Gold pivots all help.',
+  },
+  {
+    target: 'Mega Charizard Y',
+    whyItWins: 'Sun-boosted spread Fire damage plus speed-control partners forces ugly Protect turns.',
+    answers: ['Garchomp', 'Mega Aerodactyl', 'Tyranitar-Mega', 'Pelipper', 'Blastoise-Mega'],
+    plan: 'Change weather, threaten Rock damage, or pressure its speed-control partner. Do not let it freely Heat Wave twice. That is how teams become toast.',
+  },
+  {
+    target: 'Garchomp',
+    whyItWins: 'Fast-ish Ground spread pressure, good bulk, and flexible item/spread choices.',
+    answers: ['Alolan Ninetales', 'Sinistcha', 'Whimsicott', 'Sylveon', 'Basculegion'],
+    plan: 'Use Ice/Fairy pressure, redirection, speed control, and Ground immunities/resists. Shuca/Protect bait lines are legitimate.',
+  },
+  {
+    target: 'Basculegion',
+    whyItWins: 'Ghost/Water pressure punishes weakened teams and forces awkward late-game math.',
+    answers: ['Kingambit', 'Hydreigon', 'Grimmsnarl', 'Sinistcha', 'Gholdengo'],
+    plan: 'Respect its Speed/item variance. Dark pressure, redirection, priority denial, and not donating free KOs are the big lessons.',
+  },
+];
+
+const gholdengoMatchups = [
+  { foe: 'Kingambit', read: 'Bad if you play straight. It threatens Dark priority and resists Make It Rain.', spellTag: 'Shadow Ball chip is okay but not the plan; use Protect/Nasty Plot to punish Sucker Punch reads.', metalCoat: 'Metal Coat does not solve Kingambit. Bring Fighting/Ground partners.' },
+  { foe: 'Incineroar', read: 'Annoying because it resists both STABs and threatens Fire/Dark.', spellTag: 'Better for non-dropping chip, but you still need partner pressure.', metalCoat: 'Usually worse here; boosted Make It Rain into resist is still sad confetti.' },
+  { foe: 'Garchomp', read: 'Ground pressure is one of the main reasons Gholdengo needs careful positioning.', spellTag: 'Works if your spread lives and you can punish with +2 neutral damage later.', metalCoat: 'Does not fix Ground weakness; pair with redirection, Ice/Fairy pressure, or Shuca tech.' },
+  { foe: 'Basculegion', read: 'Speed/item guessing game. Smogon spreads care about Basculegion benchmarks for a reason.', spellTag: 'Best of the two: boosted Shadow Ball directly pressures it.', metalCoat: 'Less direct; relies on Make It Rain neutral pressure and partner support.' },
+  { foe: 'Sinistcha', read: 'Gholdengo likes ignoring disruption and threatening Ghost damage.', spellTag: 'Excellent. Repeated Shadow Ball pressure fits the matchup.', metalCoat: 'Fine for spread pressure, but Spell Tag is cleaner into Sinistcha itself.' },
+  { foe: 'Charizard-Mega-Y', read: 'Do not be brave into sun Fire damage. Bravery is just misplayed math with a cape.', spellTag: 'Only good if Charizard is controlled/chipped; otherwise preserve Gholdengo.', metalCoat: 'Can punish Fairy partners, not Charizard itself. Bring weather/Rock help.' },
+];
+
+gholdengoLab.matchups = gholdengoMatchups;
+
+const teamShells = [
+  { style: 'Bulky Balance', mons: ['Incineroar', 'Sinistcha', 'Gholdengo', 'Sneasler', 'Farigiraf', 'Milotic'], notes: 'Pivot, redirection, anti-Intimidate punishment, and two setup/control lanes. Boring? No. Boring wins rent money.' },
+  { style: 'Anti-Sun', mons: ['Pelipper', 'Basculegion', 'Garchomp', 'Gholdengo', 'Grimmsnarl', 'Blastoise-Mega'], notes: 'Weather denial plus Water/Rock/Ground pressure into Charizard/Incineroar shells.' },
+  { style: 'Anti-Rain', mons: ['Sinistcha', 'Alolan Ninetales', 'Kingambit', 'Gholdengo', 'Whimsicott', 'Hydreigon'], notes: 'Grass/Ice/Dark pressure into Swampert/Basculegion/Archaludon while preserving speed-control options.' },
+  { style: 'Gholdengo-Centered', mons: ['Gholdengo', 'Sinistcha', 'Incineroar', 'Sneasler', 'Whimsicott', 'Garchomp'], notes: 'Fake Out/redirection/speed control open Nasty Plot turns; Sneasler/Garchomp handle Dark/Fire problems.' },
+  { style: 'Anti-Meta Cheese But Not Stupid', mons: ['Gholdengo', 'Grimmsnarl', 'Milotic', 'Annihilape', 'Alolan Ninetales', 'Mega Staraptor'], notes: 'Screens/Veil, anti-Intimidate, Fighting pressure, and nonstandard damage lines. Spicy, but not clown college.' },
+];
+
+const ladderNotes = [
+  { title: 'Common bad assumption: Gholdengo is always Life Orb', note: 'Use non-recoil items and bulk shifts to make their damage math wrong. People anchor hard on first-order calcs.' },
+  { title: 'Overused lead: Incineroar + obvious sweeper', note: 'Expect Fake Out or pivot. Protecting the obvious target is often correct, but punishing the partner can be better.' },
+  { title: 'Panic button: Sucker Punch', note: 'Kingambit players click it when scared. Nasty Plot, Protect, switch, or double the partner if the board supports it.' },
+  { title: 'Panic button: spread move spam', note: 'Heat Wave, Earthquake, Rock Slide, Make It Rain. Wide positioning and Protect sequencing wins games versus autopilot spread damage.' },
+  { title: 'Not everyone is rational', note: 'Ladder opponents often choose comfort lines, not optimal lines. Build teams that punish common habits, not just perfect play.' },
+];
+
 const siteData = {
   generatedAt: new Date().toISOString(),
   sources: {
@@ -169,6 +229,9 @@ const siteData = {
   topMeta,
   types,
   archetypes,
+  antiMeta,
+  teamShells,
+  ladderNotes,
   gholdengoLab,
 };
 

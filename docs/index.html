@@ -35,11 +35,54 @@
       <section class="panel">
         <div class="section-head">
           <div>
+            <h2>Team Builder Board</h2>
+            <p class="muted">Pick 6. We’ll flag shared weaknesses and missing VGC roles. Drag/drop later; click-to-add now because shipping beats daydreaming.</p>
+          </div>
+          <input id="teamSearch" type="search" placeholder="Find Pokémon to add..." />
+        </div>
+        <div id="teamSlots" class="team-slots"></div>
+        <div class="grid two compact">
+          <div id="teamCandidates" class="mini-list"></div>
+          <div id="teamAnalysis" class="analysis-box"></div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <div>
+            <h2>Anti-Meta Section</h2>
+            <p class="muted">What beats the big ugly core pieces: Kingambit, Incineroar, Charizard, Garchomp, Basculegion.</p>
+          </div>
+        </div>
+        <div id="antiMeta" class="cards"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <div>
             <h2>Gholdengo Lab</h2>
             <p class="muted">Standard moves, spicy assumptions, mathematically annoying behavior.</p>
           </div>
         </div>
         <div id="gholdengoLab" class="cards"></div>
+        <h3 class="subhead">Matchup Calculator Lite</h3>
+        <div id="gholdengoMatchups" class="cards"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <div>
+            <h2>Team Shell Generator</h2>
+            <p class="muted">Pick a style. Get a six-mon skeleton and why it exists.</p>
+          </div>
+          <select id="shellStyle"></select>
+        </div>
+        <div id="shellOutput" class="cards"></div>
+      </section>
+
+      <section class="panel">
+        <h2>Master Ball Ladder Notes</h2>
+        <div id="ladderNotes" class="cards"></div>
       </section>
 
       <section class="panel">
