@@ -1,0 +1,33 @@
+{
+  "2026-08": {
+    "index": {
+      "ok": false,
+      "status": 404
+    },
+    "available_files": []
+  },
+  "2026-07": {
+    "index": {
+      "ok": true,
+      "status": 200
+    },
+    "available_files": [
+      "gen9championsvgc2026regmb-0.txt",
+      "gen9championsvgc2026regmb-0.txt.gz",
+      "gen9championsvgc2026regmb-1500.txt",
+      "gen9championsvgc2026regmb-1500.txt.gz",
+      "gen9championsvgc2026regmb-1630.txt",
+      "gen9championsvgc2026regmb-1630.txt.gz",
+      "gen9championsvgc2026regmb-1760.txt",
+      "gen9championsvgc2026regmb-1760.txt.gz",
+      "gen9championsvgc2026regmbbo3-0.txt",
+      "gen9championsvgc2026regmbbo3-0.txt.gz",
+      "gen9championsvgc2026regmbbo3-1500.txt",
+      "gen9championsvgc2026regmbbo3-1500.txt.gz",
+      "gen9championsvgc2026regmbbo3-1630.txt",
+      "gen9championsvgc2026regmbbo3-1630.txt.gz",
+      "gen9championsvgc2026regmbbo3-1760.txt",
+      "gen9championsvgc2026regmbbo3-1760.txt.gz"
+    ]
+  }
+}

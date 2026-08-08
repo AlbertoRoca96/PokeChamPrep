@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>PokeChamPrep</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Pokemon Champions · VGC 2026 Reg M-B</p>
+        <h1>PokeChamPrep</h1>
+        <p class="subtitle">A local prep dashboard for meta reads, viable cores, anti-meta ideas, and Gholdengo crimes.</p>
+      </div>
+      <div class="hero-card">
+        <span id="generatedAt">Loading data...</span>
+        <strong id="monCount">0 Pokémon</strong>
+      </div>
+    </header>
+
+    <main>
+      <section class="grid two">
+        <article class="panel">
+          <h2>Top BO3 Meta</h2>
+          <div id="topMeta" class="rank-list"></div>
+        </article>
+        <article class="panel">
+          <h2>Weighted Type Pressure</h2>
+          <p class="muted">Top-40 BO3 usage weighted by Pokémon typing.</p>
+          <div id="typeChart" class="bars"></div>
+        </article>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <div>
+            <h2>Gholdengo Lab</h2>
+            <p class="muted">Standard moves, spicy assumptions, mathematically annoying behavior.</p>
+          </div>
+        </div>
+        <div id="gholdengoLab" class="cards"></div>
+      </section>
+
+      <section class="panel">
+        <h2>Team Archetypes</h2>
+        <div id="archetypes" class="cards"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <div>
+            <h2>Pokémon Explorer</h2>
+            <p class="muted">Search, sort mentally, click details. Tiny database, no bloated IDE goblin required.</p>
+          </div>
+          <input id="search" type="search" placeholder="Search name, type, ability..." />
+        </div>
+        <div id="pokemonGrid" class="pokemon-grid"></div>
+      </section>
+    </main>
+
+    <dialog id="detailsDialog">
+      <button id="closeDialog" class="close" aria-label="Close">×</button>
+      <div id="details"></div>
+    </dialog>
+
+    <script src="assets/site-data.js"></script>
+    <script src="assets/app.js"></script>
+  </body>
+</html>

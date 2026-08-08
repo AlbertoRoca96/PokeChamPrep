@@ -1,0 +1,12 @@
+{
+  "name": "poke-cham-prep",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local Pokemon Champions prep knowledge base and meta dashboard.",
+  "scripts": {
+    "refresh:data": "node data/raw/collect_pokemon_champions_smogon_data.mjs",
+    "build": "node scripts/build-site-data.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}

@@ -1,0 +1,2797 @@
+{
+  "source": "https://www.smogon.com/stats/2026-07/gen9championsvgc2026regmb-1760.txt",
+  "ok": true,
+  "status": 200,
+  "rows": [
+    {
+      "rank": 1,
+      "pokemon": "Kingambit",
+      "usage_percent": 36.79345,
+      "raw": 825864,
+      "raw_percent": 23.4,
+      "real": 338140,
+      "real_percent": 20.955
+    },
+    {
+      "rank": 2,
+      "pokemon": "Incineroar",
+      "usage_percent": 33.94993,
+      "raw": 955512,
+      "raw_percent": 27.073,
+      "real": 517237,
+      "real_percent": 32.053
+    },
+    {
+      "rank": 3,
+      "pokemon": "Garchomp",
+      "usage_percent": 33.19131,
+      "raw": 908866,
+      "raw_percent": 25.751,
+      "real": 444333,
+      "real_percent": 27.535
+    },
+    {
+      "rank": 4,
+      "pokemon": "Charizard-Mega-Y",
+      "usage_percent": 30.5778,
+      "raw": 553713,
+      "raw_percent": 15.689,
+      "real": 262488,
+      "real_percent": 16.266
+    },
+    {
+      "rank": 5,
+      "pokemon": "Basculegion",
+      "usage_percent": 30.21983,
+      "raw": 748205,
+      "raw_percent": 21.199,
+      "real": 404646,
+      "real_percent": 25.076
+    },
+    {
+      "rank": 6,
+      "pokemon": "Sinistcha",
+      "usage_percent": 26.1061,
+      "raw": 970094,
+      "raw_percent": 27.486,
+      "real": 436247,
+      "real_percent": 27.034
+    },
+    {
+      "rank": 7,
+      "pokemon": "Whimsicott",
+      "usage_percent": 22.49493,
+      "raw": 819356,
+      "raw_percent": 23.215,
+      "real": 342676,
+      "real_percent": 21.236
+    },
+    {
+      "rank": 8,
+      "pokemon": "Sneasler",
+      "usage_percent": 20.89837,
+      "raw": 592070,
+      "raw_percent": 16.776,
+      "real": 283968,
+      "real_percent": 17.598
+    },
+    {
+      "rank": 9,
+      "pokemon": "Farigiraf",
+      "usage_percent": 20.19575,
+      "raw": 708628,
+      "raw_percent": 20.078,
+      "real": 292757,
+      "real_percent": 18.142
+    },
+    {
+      "rank": 10,
+      "pokemon": "Sylveon",
+      "usage_percent": 17.47064,
+      "raw": 448663,
+      "raw_percent": 12.712,
+      "real": 228537,
+      "real_percent": 14.162
+    },
+    {
+      "rank": 11,
+      "pokemon": "Floette-Mega",
+      "usage_percent": 15.0202,
+      "raw": 286016,
+      "raw_percent": 8.104,
+      "real": 102616,
+      "real_percent": 6.359
+    },
+    {
+      "rank": 12,
+      "pokemon": "Archaludon",
+      "usage_percent": 14.27214,
+      "raw": 427272,
+      "raw_percent": 12.106,
+      "real": 229386,
+      "real_percent": 14.215
+    },
+    {
+      "rank": 13,
+      "pokemon": "Pelipper",
+      "usage_percent": 12.88006,
+      "raw": 483142,
+      "raw_percent": 13.689,
+      "real": 268461,
+      "real_percent": 16.637
+    },
+    {
+      "rank": 14,
+      "pokemon": "Staraptor-Mega",
+      "usage_percent": 11.34295,
+      "raw": 372471,
+      "raw_percent": 10.553,
+      "real": 154776,
+      "real_percent": 9.591
+    },
+    {
+      "rank": 15,
+      "pokemon": "Grimmsnarl",
+      "usage_percent": 10.36318,
+      "raw": 405504,
+      "raw_percent": 11.489,
+      "real": 208151,
+      "real_percent": 12.899
+    },
+    {
+      "rank": 16,
+      "pokemon": "Aerodactyl-Mega",
+      "usage_percent": 9.89876,
+      "raw": 180898,
+      "raw_percent": 5.126,
+      "real": 53779,
+      "real_percent": 3.333
+    },
+    {
+      "rank": 17,
+      "pokemon": "Gholdengo",
+      "usage_percent": 9.22402,
+      "raw": 325296,
+      "raw_percent": 9.217,
+      "real": 140735,
+      "real_percent": 8.721
+    },
+    {
+      "rank": 18,
+      "pokemon": "Delphox-Mega",
+      "usage_percent": 8.64754,
+      "raw": 222155,
+      "raw_percent": 6.294,
+      "real": 74380,
+      "real_percent": 4.609
+    },
+    {
+      "rank": 19,
+      "pokemon": "Blastoise-Mega",
+      "usage_percent": 8.51419,
+      "raw": 182774,
+      "raw_percent": 5.179,
+      "real": 75889,
+      "real_percent": 4.703
+    },
+    {
+      "rank": 20,
+      "pokemon": "Swampert-Mega",
+      "usage_percent": 8.45405,
+      "raw": 274352,
+      "raw_percent": 7.773,
+      "real": 133379,
+      "real_percent": 8.266
+    },
+    {
+      "rank": 21,
+      "pokemon": "Venusaur",
+      "usage_percent": 7.36677,
+      "raw": 160537,
+      "raw_percent": 4.549,
+      "real": 74430,
+      "real_percent": 4.612
+    },
+    {
+      "rank": 22,
+      "pokemon": "Milotic",
+      "usage_percent": 7.11819,
+      "raw": 293268,
+      "raw_percent": 8.309,
+      "real": 123594,
+      "real_percent": 7.659
+    },
+    {
+      "rank": 23,
+      "pokemon": "Metagross-Mega",
+      "usage_percent": 7.01025,
+      "raw": 254985,
+      "raw_percent": 7.225,
+      "real": 86689,
+      "real_percent": 5.372
+    },
+    {
+      "rank": 24,
+      "pokemon": "Raichu-Mega-Y",
+      "usage_percent": 6.96928,
+      "raw": 286174,
+      "raw_percent": 8.108,
+      "real": 120406,
+      "real_percent": 7.462
+    },
+    {
+      "rank": 25,
+      "pokemon": "Ninetales-Alola",
+      "usage_percent": 6.53078,
+      "raw": 209459,
+      "raw_percent": 5.935,
+      "real": 96827,
+      "real_percent": 6
+    },
+    {
+      "rank": 26,
+      "pokemon": "Maushold",
+      "usage_percent": 6.25121,
+      "raw": 266063,
+      "raw_percent": 7.539,
+      "real": 118733,
+      "real_percent": 7.358
+    },
+    {
+      "rank": 27,
+      "pokemon": "Torkoal",
+      "usage_percent": 6.07265,
+      "raw": 297293,
+      "raw_percent": 8.423,
+      "real": 161974,
+      "real_percent": 10.038
+    },
+    {
+      "rank": 28,
+      "pokemon": "Mawile-Mega",
+      "usage_percent": 5.21483,
+      "raw": 210479,
+      "raw_percent": 5.964,
+      "real": 94251,
+      "real_percent": 5.841
+    },
+    {
+      "rank": 29,
+      "pokemon": "Toxapex",
+      "usage_percent": 5.06799,
+      "raw": 135500,
+      "raw_percent": 3.839,
+      "real": 69684,
+      "real_percent": 4.318
+    },
+    {
+      "rank": 30,
+      "pokemon": "Gengar-Mega",
+      "usage_percent": 4.94353,
+      "raw": 161668,
+      "raw_percent": 4.581,
+      "real": 70118,
+      "real_percent": 4.345
+    },
+    {
+      "rank": 31,
+      "pokemon": "Tyranitar-Mega",
+      "usage_percent": 4.8895,
+      "raw": 192944,
+      "raw_percent": 5.467,
+      "real": 104478,
+      "real_percent": 6.475
+    },
+    {
+      "rank": 32,
+      "pokemon": "Annihilape",
+      "usage_percent": 4.81156,
+      "raw": 151924,
+      "raw_percent": 4.305,
+      "real": 65457,
+      "real_percent": 4.056
+    },
+    {
+      "rank": 33,
+      "pokemon": "Venusaur-Mega",
+      "usage_percent": 4.76558,
+      "raw": 136873,
+      "raw_percent": 3.878,
+      "real": 56883,
+      "real_percent": 3.525
+    },
+    {
+      "rank": 34,
+      "pokemon": "Ceruledge",
+      "usage_percent": 4.52387,
+      "raw": 154549,
+      "raw_percent": 4.379,
+      "real": 71721,
+      "real_percent": 4.445
+    },
+    {
+      "rank": 35,
+      "pokemon": "Hydreigon",
+      "usage_percent": 4.49466,
+      "raw": 152253,
+      "raw_percent": 4.314,
+      "real": 73833,
+      "real_percent": 4.575
+    },
+    {
+      "rank": 36,
+      "pokemon": "Excadrill",
+      "usage_percent": 4.06067,
+      "raw": 151261,
+      "raw_percent": 4.286,
+      "real": 78414,
+      "real_percent": 4.859
+    },
+    {
+      "rank": 37,
+      "pokemon": "Politoed",
+      "usage_percent": 3.86483,
+      "raw": 109887,
+      "raw_percent": 3.114,
+      "real": 59870,
+      "real_percent": 3.71
+    },
+    {
+      "rank": 38,
+      "pokemon": "Rotom-Wash",
+      "usage_percent": 3.78239,
+      "raw": 207811,
+      "raw_percent": 5.888,
+      "real": 101459,
+      "real_percent": 6.287
+    },
+    {
+      "rank": 39,
+      "pokemon": "Froslass-Mega",
+      "usage_percent": 3.70315,
+      "raw": 143695,
+      "raw_percent": 4.071,
+      "real": 59804,
+      "real_percent": 3.706
+    },
+    {
+      "rank": 40,
+      "pokemon": "Glimmora",
+      "usage_percent": 3.69498,
+      "raw": 80587,
+      "raw_percent": 2.283,
+      "real": 39409,
+      "real_percent": 2.442
+    },
+    {
+      "rank": 41,
+      "pokemon": "Talonflame",
+      "usage_percent": 3.48282,
+      "raw": 193987,
+      "raw_percent": 5.496,
+      "real": 73744,
+      "real_percent": 4.57
+    },
+    {
+      "rank": 42,
+      "pokemon": "Kommo-o",
+      "usage_percent": 3.42734,
+      "raw": 73648,
+      "raw_percent": 2.087,
+      "real": 29910,
+      "real_percent": 1.854
+    },
+    {
+      "rank": 43,
+      "pokemon": "Sableye",
+      "usage_percent": 3.35598,
+      "raw": 230173,
+      "raw_percent": 6.522,
+      "real": 100632,
+      "real_percent": 6.236
+    },
+    {
+      "rank": 44,
+      "pokemon": "Aerodactyl",
+      "usage_percent": 3.15967,
+      "raw": 162450,
+      "raw_percent": 4.603,
+      "real": 58846,
+      "real_percent": 3.647
+    },
+    {
+      "rank": 45,
+      "pokemon": "Scovillain-Mega",
+      "usage_percent": 3.13586,
+      "raw": 82443,
+      "raw_percent": 2.336,
+      "real": 28746,
+      "real_percent": 1.781
+    },
+    {
+      "rank": 46,
+      "pokemon": "Vivillon",
+      "usage_percent": 3.10694,
+      "raw": 83615,
+      "raw_percent": 2.369,
+      "real": 34947,
+      "real_percent": 2.166
+    },
+    {
+      "rank": 47,
+      "pokemon": "Blaziken-Mega",
+      "usage_percent": 3.07993,
+      "raw": 117114,
+      "raw_percent": 3.318,
+      "real": 49332,
+      "real_percent": 3.057
+    },
+    {
+      "rank": 48,
+      "pokemon": "Mamoswine",
+      "usage_percent": 2.91094,
+      "raw": 93709,
+      "raw_percent": 2.655,
+      "real": 43713,
+      "real_percent": 2.709
+    },
+    {
+      "rank": 49,
+      "pokemon": "Meowscarada",
+      "usage_percent": 2.7894,
+      "raw": 75013,
+      "raw_percent": 2.125,
+      "real": 36006,
+      "real_percent": 2.231
+    },
+    {
+      "rank": 50,
+      "pokemon": "Lycanroc-Dusk",
+      "usage_percent": 2.69376,
+      "raw": 54586,
+      "raw_percent": 1.547,
+      "real": 21310,
+      "real_percent": 1.321
+    },
+    {
+      "rank": 51,
+      "pokemon": "Dragonite",
+      "usage_percent": 2.54449,
+      "raw": 77823,
+      "raw_percent": 2.205,
+      "real": 30670,
+      "real_percent": 1.901
+    },
+    {
+      "rank": 52,
+      "pokemon": "Tyranitar",
+      "usage_percent": 2.43056,
+      "raw": 109143,
+      "raw_percent": 3.092,
+      "real": 61965,
+      "real_percent": 3.84
+    },
+    {
+      "rank": 53,
+      "pokemon": "Gallade",
+      "usage_percent": 2.41814,
+      "raw": 68351,
+      "raw_percent": 1.937,
+      "real": 31235,
+      "real_percent": 1.936
+    },
+    {
+      "rank": 54,
+      "pokemon": "Dragonite-Mega",
+      "usage_percent": 2.36427,
+      "raw": 87076,
+      "raw_percent": 2.467,
+      "real": 33352,
+      "real_percent": 2.067
+    },
+    {
+      "rank": 55,
+      "pokemon": "Gardevoir-Mega",
+      "usage_percent": 2.34437,
+      "raw": 93487,
+      "raw_percent": 2.649,
+      "real": 45330,
+      "real_percent": 2.809
+    },
+    {
+      "rank": 56,
+      "pokemon": "Camerupt-Mega",
+      "usage_percent": 2.0581,
+      "raw": 79256,
+      "raw_percent": 2.246,
+      "real": 41891,
+      "real_percent": 2.596
+    },
+    {
+      "rank": 57,
+      "pokemon": "Corviknight",
+      "usage_percent": 2.0362,
+      "raw": 96828,
+      "raw_percent": 2.743,
+      "real": 37498,
+      "real_percent": 2.324
+    },
+    {
+      "rank": 58,
+      "pokemon": "Tsareena",
+      "usage_percent": 1.99096,
+      "raw": 120556,
+      "raw_percent": 3.416,
+      "real": 55105,
+      "real_percent": 3.415
+    },
+    {
+      "rank": 59,
+      "pokemon": "Kangaskhan-Mega",
+      "usage_percent": 1.98542,
+      "raw": 49548,
+      "raw_percent": 1.404,
+      "real": 23196,
+      "real_percent": 1.437
+    },
+    {
+      "rank": 60,
+      "pokemon": "Scrafty-Mega",
+      "usage_percent": 1.97103,
+      "raw": 99703,
+      "raw_percent": 2.825,
+      "real": 46692,
+      "real_percent": 2.894
+    },
+    {
+      "rank": 61,
+      "pokemon": "Glimmora-Mega",
+      "usage_percent": 1.83236,
+      "raw": 59726,
+      "raw_percent": 1.692,
+      "real": 26530,
+      "real_percent": 1.644
+    },
+    {
+      "rank": 62,
+      "pokemon": "Primarina",
+      "usage_percent": 1.6972,
+      "raw": 109670,
+      "raw_percent": 3.107,
+      "real": 55004,
+      "real_percent": 3.409
+    },
+    {
+      "rank": 63,
+      "pokemon": "Staraptor",
+      "usage_percent": 1.59879,
+      "raw": 74024,
+      "raw_percent": 2.097,
+      "real": 30545,
+      "real_percent": 1.893
+    },
+    {
+      "rank": 64,
+      "pokemon": "Pyroar-Mega",
+      "usage_percent": 1.59123,
+      "raw": 71046,
+      "raw_percent": 2.013,
+      "real": 29156,
+      "real_percent": 1.807
+    },
+    {
+      "rank": 65,
+      "pokemon": "Kangaskhan",
+      "usage_percent": 1.53127,
+      "raw": 65481,
+      "raw_percent": 1.855,
+      "real": 31154,
+      "real_percent": 1.931
+    },
+    {
+      "rank": 66,
+      "pokemon": "Vileplume",
+      "usage_percent": 1.40494,
+      "raw": 66787,
+      "raw_percent": 1.892,
+      "real": 21562,
+      "real_percent": 1.336
+    },
+    {
+      "rank": 67,
+      "pokemon": "Houndstone",
+      "usage_percent": 1.38075,
+      "raw": 49988,
+      "raw_percent": 1.416,
+      "real": 22050,
+      "real_percent": 1.366
+    },
+    {
+      "rank": 68,
+      "pokemon": "Chandelure",
+      "usage_percent": 1.20192,
+      "raw": 36195,
+      "raw_percent": 1.026,
+      "real": 14866,
+      "real_percent": 0.921
+    },
+    {
+      "rank": 69,
+      "pokemon": "Arcanine-Hisui",
+      "usage_percent": 1.19649,
+      "raw": 49163,
+      "raw_percent": 1.393,
+      "real": 23290,
+      "real_percent": 1.443
+    },
+    {
+      "rank": 70,
+      "pokemon": "Volcarona",
+      "usage_percent": 1.18999,
+      "raw": 59159,
+      "raw_percent": 1.676,
+      "real": 24142,
+      "real_percent": 1.496
+    },
+    {
+      "rank": 71,
+      "pokemon": "Garchomp-Mega",
+      "usage_percent": 1.0925,
+      "raw": 45500,
+      "raw_percent": 1.289,
+      "real": 25018,
+      "real_percent": 1.55
+    },
+    {
+      "rank": 72,
+      "pokemon": "Meganium-Mega",
+      "usage_percent": 0.90745,
+      "raw": 66808,
+      "raw_percent": 1.893,
+      "real": 26255,
+      "real_percent": 1.627
+    },
+    {
+      "rank": 73,
+      "pokemon": "Lopunny-Mega",
+      "usage_percent": 0.86484,
+      "raw": 36827,
+      "raw_percent": 1.043,
+      "real": 16223,
+      "real_percent": 1.005
+    },
+    {
+      "rank": 74,
+      "pokemon": "Sceptile-Mega",
+      "usage_percent": 0.85275,
+      "raw": 89477,
+      "raw_percent": 2.535,
+      "real": 37670,
+      "real_percent": 2.334
+    },
+    {
+      "rank": 75,
+      "pokemon": "Vanilluxe",
+      "usage_percent": 0.84201,
+      "raw": 39919,
+      "raw_percent": 1.131,
+      "real": 20366,
+      "real_percent": 1.262
+    },
+    {
+      "rank": 76,
+      "pokemon": "Aegislash",
+      "usage_percent": 0.81936,
+      "raw": 56392,
+      "raw_percent": 1.598,
+      "real": 22377,
+      "real_percent": 1.387
+    },
+    {
+      "rank": 77,
+      "pokemon": "Rotom-Heat",
+      "usage_percent": 0.80297,
+      "raw": 65475,
+      "raw_percent": 1.855,
+      "real": 36866,
+      "real_percent": 2.285
+    },
+    {
+      "rank": 78,
+      "pokemon": "Charizard-Mega-X",
+      "usage_percent": 0.79075,
+      "raw": 35483,
+      "raw_percent": 1.005,
+      "real": 14435,
+      "real_percent": 0.895
+    },
+    {
+      "rank": 79,
+      "pokemon": "Tinkaton",
+      "usage_percent": 0.78544,
+      "raw": 56250,
+      "raw_percent": 1.594,
+      "real": 24224,
+      "real_percent": 1.501
+    },
+    {
+      "rank": 80,
+      "pokemon": "Raichu-Mega-X",
+      "usage_percent": 0.78074,
+      "raw": 63365,
+      "raw_percent": 1.795,
+      "real": 25199,
+      "real_percent": 1.562
+    },
+    {
+      "rank": 81,
+      "pokemon": "Meowstic",
+      "usage_percent": 0.77212,
+      "raw": 58040,
+      "raw_percent": 1.644,
+      "real": 26603,
+      "real_percent": 1.649
+    },
+    {
+      "rank": 82,
+      "pokemon": "Eelektross-Mega",
+      "usage_percent": 0.77139,
+      "raw": 75579,
+      "raw_percent": 2.141,
+      "real": 34509,
+      "real_percent": 2.139
+    },
+    {
+      "rank": 83,
+      "pokemon": "Scizor-Mega",
+      "usage_percent": 0.74153,
+      "raw": 48133,
+      "raw_percent": 1.364,
+      "real": 17664,
+      "real_percent": 1.095
+    },
+    {
+      "rank": 84,
+      "pokemon": "Dragapult",
+      "usage_percent": 0.73437,
+      "raw": 63158,
+      "raw_percent": 1.789,
+      "real": 27666,
+      "real_percent": 1.714
+    },
+    {
+      "rank": 85,
+      "pokemon": "Typhlosion-Hisui",
+      "usage_percent": 0.73278,
+      "raw": 57353,
+      "raw_percent": 1.625,
+      "real": 26215,
+      "real_percent": 1.625
+    },
+    {
+      "rank": 86,
+      "pokemon": "Armarouge",
+      "usage_percent": 0.69925,
+      "raw": 34415,
+      "raw_percent": 0.975,
+      "real": 15897,
+      "real_percent": 0.985
+    },
+    {
+      "rank": 87,
+      "pokemon": "Zoroark-Hisui",
+      "usage_percent": 0.68275,
+      "raw": 66032,
+      "raw_percent": 1.871,
+      "real": 20883,
+      "real_percent": 1.294
+    },
+    {
+      "rank": 88,
+      "pokemon": "Hatterene",
+      "usage_percent": 0.67174,
+      "raw": 68584,
+      "raw_percent": 1.943,
+      "real": 28487,
+      "real_percent": 1.765
+    },
+    {
+      "rank": 89,
+      "pokemon": "Altaria",
+      "usage_percent": 0.65226,
+      "raw": 28955,
+      "raw_percent": 0.82,
+      "real": 11251,
+      "real_percent": 0.697
+    },
+    {
+      "rank": 90,
+      "pokemon": "Abomasnow-Mega",
+      "usage_percent": 0.63778,
+      "raw": 21176,
+      "raw_percent": 0.6,
+      "real": 9481,
+      "real_percent": 0.588
+    },
+    {
+      "rank": 91,
+      "pokemon": "Araquanid",
+      "usage_percent": 0.63115,
+      "raw": 54417,
+      "raw_percent": 1.542,
+      "real": 24723,
+      "real_percent": 1.532
+    },
+    {
+      "rank": 92,
+      "pokemon": "Mudsdale",
+      "usage_percent": 0.62768,
+      "raw": 19704,
+      "raw_percent": 0.558,
+      "real": 8684,
+      "real_percent": 0.538
+    },
+    {
+      "rank": 93,
+      "pokemon": "Overqwil",
+      "usage_percent": 0.62127,
+      "raw": 51009,
+      "raw_percent": 1.445,
+      "real": 25991,
+      "real_percent": 1.611
+    },
+    {
+      "rank": 94,
+      "pokemon": "Weavile",
+      "usage_percent": 0.60435,
+      "raw": 47460,
+      "raw_percent": 1.345,
+      "real": 22396,
+      "real_percent": 1.388
+    },
+    {
+      "rank": 95,
+      "pokemon": "Mimikyu",
+      "usage_percent": 0.56641,
+      "raw": 35682,
+      "raw_percent": 1.011,
+      "real": 14485,
+      "real_percent": 0.898
+    },
+    {
+      "rank": 96,
+      "pokemon": "Clefable",
+      "usage_percent": 0.55838,
+      "raw": 66440,
+      "raw_percent": 1.882,
+      "real": 28175,
+      "real_percent": 1.746
+    },
+    {
+      "rank": 97,
+      "pokemon": "Kleavor",
+      "usage_percent": 0.50888,
+      "raw": 30496,
+      "raw_percent": 0.864,
+      "real": 13306,
+      "real_percent": 0.825
+    },
+    {
+      "rank": 98,
+      "pokemon": "Snorlax",
+      "usage_percent": 0.50122,
+      "raw": 38573,
+      "raw_percent": 1.093,
+      "real": 17486,
+      "real_percent": 1.084
+    },
+    {
+      "rank": 99,
+      "pokemon": "Samurott-Hisui",
+      "usage_percent": 0.48205,
+      "raw": 33235,
+      "raw_percent": 0.942,
+      "real": 16621,
+      "real_percent": 1.03
+    },
+    {
+      "rank": 100,
+      "pokemon": "Palafin",
+      "usage_percent": 0.48156,
+      "raw": 49966,
+      "raw_percent": 1.416,
+      "real": 27093,
+      "real_percent": 1.679
+    },
+    {
+      "rank": 101,
+      "pokemon": "Gyarados-Mega",
+      "usage_percent": 0.47845,
+      "raw": 31589,
+      "raw_percent": 0.895,
+      "real": 13562,
+      "real_percent": 0.84
+    },
+    {
+      "rank": 102,
+      "pokemon": "Drampa",
+      "usage_percent": 0.47726,
+      "raw": 15016,
+      "raw_percent": 0.425,
+      "real": 5964,
+      "real_percent": 0.37
+    },
+    {
+      "rank": 103,
+      "pokemon": "Starmie-Mega",
+      "usage_percent": 0.46484,
+      "raw": 34638,
+      "raw_percent": 0.981,
+      "real": 14857,
+      "real_percent": 0.921
+    },
+    {
+      "rank": 104,
+      "pokemon": "Scrafty",
+      "usage_percent": 0.45994,
+      "raw": 21015,
+      "raw_percent": 0.595,
+      "real": 10446,
+      "real_percent": 0.647
+    },
+    {
+      "rank": 105,
+      "pokemon": "Scizor",
+      "usage_percent": 0.44753,
+      "raw": 35912,
+      "raw_percent": 1.018,
+      "real": 14192,
+      "real_percent": 0.879
+    },
+    {
+      "rank": 106,
+      "pokemon": "Klefki",
+      "usage_percent": 0.43371,
+      "raw": 36464,
+      "raw_percent": 1.033,
+      "real": 16467,
+      "real_percent": 1.02
+    },
+    {
+      "rank": 107,
+      "pokemon": "Oranguru",
+      "usage_percent": 0.42792,
+      "raw": 59640,
+      "raw_percent": 1.69,
+      "real": 26117,
+      "real_percent": 1.618
+    },
+    {
+      "rank": 108,
+      "pokemon": "Drampa-Mega",
+      "usage_percent": 0.42277,
+      "raw": 36046,
+      "raw_percent": 1.021,
+      "real": 16835,
+      "real_percent": 1.043
+    },
+    {
+      "rank": 109,
+      "pokemon": "Malamar-Mega",
+      "usage_percent": 0.42247,
+      "raw": 50130,
+      "raw_percent": 1.42,
+      "real": 21916,
+      "real_percent": 1.358
+    },
+    {
+      "rank": 110,
+      "pokemon": "Dragalge-Mega",
+      "usage_percent": 0.42219,
+      "raw": 44412,
+      "raw_percent": 1.258,
+      "real": 21491,
+      "real_percent": 1.332
+    },
+    {
+      "rank": 111,
+      "pokemon": "Blaziken",
+      "usage_percent": 0.41449,
+      "raw": 28476,
+      "raw_percent": 0.807,
+      "real": 12862,
+      "real_percent": 0.797
+    },
+    {
+      "rank": 112,
+      "pokemon": "Chandelure-Mega",
+      "usage_percent": 0.41299,
+      "raw": 31973,
+      "raw_percent": 0.906,
+      "real": 15579,
+      "real_percent": 0.965
+    },
+    {
+      "rank": 113,
+      "pokemon": "Espathra",
+      "usage_percent": 0.38239,
+      "raw": 35530,
+      "raw_percent": 1.007,
+      "real": 16600,
+      "real_percent": 1.029
+    },
+    {
+      "rank": 114,
+      "pokemon": "Basculegion-F",
+      "usage_percent": 0.36062,
+      "raw": 23567,
+      "raw_percent": 0.668,
+      "real": 13012,
+      "real_percent": 0.806
+    },
+    {
+      "rank": 115,
+      "pokemon": "Azumarill",
+      "usage_percent": 0.34944,
+      "raw": 23059,
+      "raw_percent": 0.653,
+      "real": 11164,
+      "real_percent": 0.692
+    },
+    {
+      "rank": 116,
+      "pokemon": "Raichu",
+      "usage_percent": 0.32889,
+      "raw": 36792,
+      "raw_percent": 1.042,
+      "real": 15920,
+      "real_percent": 0.987
+    },
+    {
+      "rank": 117,
+      "pokemon": "Decidueye-Hisui",
+      "usage_percent": 0.32495,
+      "raw": 29432,
+      "raw_percent": 0.834,
+      "real": 13228,
+      "real_percent": 0.82
+    },
+    {
+      "rank": 118,
+      "pokemon": "Ninetales",
+      "usage_percent": 0.32271,
+      "raw": 26403,
+      "raw_percent": 0.748,
+      "real": 12911,
+      "real_percent": 0.8
+    },
+    {
+      "rank": 119,
+      "pokemon": "Metagross",
+      "usage_percent": 0.32173,
+      "raw": 19557,
+      "raw_percent": 0.554,
+      "real": 7996,
+      "real_percent": 0.496
+    },
+    {
+      "rank": 120,
+      "pokemon": "Slowking-Galar",
+      "usage_percent": 0.31532,
+      "raw": 29054,
+      "raw_percent": 0.823,
+      "real": 13648,
+      "real_percent": 0.846
+    },
+    {
+      "rank": 121,
+      "pokemon": "Lucario-Mega",
+      "usage_percent": 0.30614,
+      "raw": 41382,
+      "raw_percent": 1.173,
+      "real": 16616,
+      "real_percent": 1.03
+    },
+    {
+      "rank": 122,
+      "pokemon": "Gyarados",
+      "usage_percent": 0.30209,
+      "raw": 23521,
+      "raw_percent": 0.666,
+      "real": 10340,
+      "real_percent": 0.641
+    },
+    {
+      "rank": 123,
+      "pokemon": "Golurk-Mega",
+      "usage_percent": 0.30095,
+      "raw": 26598,
+      "raw_percent": 0.754,
+      "real": 13396,
+      "real_percent": 0.83
+    },
+    {
+      "rank": 124,
+      "pokemon": "Sableye-Mega",
+      "usage_percent": 0.29496,
+      "raw": 18923,
+      "raw_percent": 0.536,
+      "real": 7532,
+      "real_percent": 0.467
+    },
+    {
+      "rank": 125,
+      "pokemon": "Bellibolt",
+      "usage_percent": 0.29016,
+      "raw": 25866,
+      "raw_percent": 0.733,
+      "real": 13436,
+      "real_percent": 0.833
+    },
+    {
+      "rank": 126,
+      "pokemon": "Gardevoir",
+      "usage_percent": 0.28222,
+      "raw": 13944,
+      "raw_percent": 0.395,
+      "real": 6018,
+      "real_percent": 0.373
+    },
+    {
+      "rank": 127,
+      "pokemon": "Heliolisk",
+      "usage_percent": 0.28185,
+      "raw": 42872,
+      "raw_percent": 1.215,
+      "real": 18884,
+      "real_percent": 1.17
+    },
+    {
+      "rank": 128,
+      "pokemon": "Ditto",
+      "usage_percent": 0.2769,
+      "raw": 29058,
+      "raw_percent": 0.823,
+      "real": 14147,
+      "real_percent": 0.877
+    },
+    {
+      "rank": 129,
+      "pokemon": "Chesnaught-Mega",
+      "usage_percent": 0.26777,
+      "raw": 21760,
+      "raw_percent": 0.617,
+      "real": 9452,
+      "real_percent": 0.586
+    },
+    {
+      "rank": 130,
+      "pokemon": "Arcanine",
+      "usage_percent": 0.2672,
+      "raw": 15815,
+      "raw_percent": 0.448,
+      "real": 7127,
+      "real_percent": 0.442
+    },
+    {
+      "rank": 131,
+      "pokemon": "Umbreon",
+      "usage_percent": 0.25794,
+      "raw": 21214,
+      "raw_percent": 0.601,
+      "real": 9174,
+      "real_percent": 0.569
+    },
+    {
+      "rank": 132,
+      "pokemon": "Tauros-Paldea-Aqua",
+      "usage_percent": 0.25742,
+      "raw": 15957,
+      "raw_percent": 0.452,
+      "real": 7539,
+      "real_percent": 0.467
+    },
+    {
+      "rank": 133,
+      "pokemon": "Skarmory-Mega",
+      "usage_percent": 0.25654,
+      "raw": 18096,
+      "raw_percent": 0.513,
+      "real": 6310,
+      "real_percent": 0.391
+    },
+    {
+      "rank": 134,
+      "pokemon": "Conkeldurr",
+      "usage_percent": 0.25271,
+      "raw": 18480,
+      "raw_percent": 0.524,
+      "real": 8629,
+      "real_percent": 0.535
+    },
+    {
+      "rank": 135,
+      "pokemon": "Noivern",
+      "usage_percent": 0.25025,
+      "raw": 16382,
+      "raw_percent": 0.464,
+      "real": 6394,
+      "real_percent": 0.396
+    },
+    {
+      "rank": 136,
+      "pokemon": "Krookodile",
+      "usage_percent": 0.24429,
+      "raw": 16054,
+      "raw_percent": 0.455,
+      "real": 7920,
+      "real_percent": 0.491
+    },
+    {
+      "rank": 137,
+      "pokemon": "Goodra-Hisui",
+      "usage_percent": 0.22914,
+      "raw": 21315,
+      "raw_percent": 0.604,
+      "real": 9706,
+      "real_percent": 0.601
+    },
+    {
+      "rank": 138,
+      "pokemon": "Mr. Rime",
+      "usage_percent": 0.2291,
+      "raw": 26030,
+      "raw_percent": 0.738,
+      "real": 11917,
+      "real_percent": 0.738
+    },
+    {
+      "rank": 139,
+      "pokemon": "Jolteon",
+      "usage_percent": 0.22684,
+      "raw": 32165,
+      "raw_percent": 0.911,
+      "real": 16079,
+      "real_percent": 0.996
+    },
+    {
+      "rank": 140,
+      "pokemon": "Scolipede-Mega",
+      "usage_percent": 0.22655,
+      "raw": 29116,
+      "raw_percent": 0.825,
+      "real": 9899,
+      "real_percent": 0.613
+    },
+    {
+      "rank": 141,
+      "pokemon": "Malamar",
+      "usage_percent": 0.22285,
+      "raw": 26049,
+      "raw_percent": 0.738,
+      "real": 12563,
+      "real_percent": 0.779
+    },
+    {
+      "rank": 142,
+      "pokemon": "Reuniclus",
+      "usage_percent": 0.21734,
+      "raw": 12405,
+      "raw_percent": 0.351,
+      "real": 5506,
+      "real_percent": 0.341
+    },
+    {
+      "rank": 143,
+      "pokemon": "Crabominable-Mega",
+      "usage_percent": 0.21659,
+      "raw": 27980,
+      "raw_percent": 0.793,
+      "real": 13504,
+      "real_percent": 0.837
+    },
+    {
+      "rank": 144,
+      "pokemon": "Aggron-Mega",
+      "usage_percent": 0.21452,
+      "raw": 28858,
+      "raw_percent": 0.818,
+      "real": 11588,
+      "real_percent": 0.718
+    },
+    {
+      "rank": 145,
+      "pokemon": "Barbaracle-Mega",
+      "usage_percent": 0.2121,
+      "raw": 13754,
+      "raw_percent": 0.39,
+      "real": 6112,
+      "real_percent": 0.379
+    },
+    {
+      "rank": 146,
+      "pokemon": "Feraligatr-Mega",
+      "usage_percent": 0.21208,
+      "raw": 20199,
+      "raw_percent": 0.572,
+      "real": 9290,
+      "real_percent": 0.576
+    },
+    {
+      "rank": 147,
+      "pokemon": "Cofagrigus",
+      "usage_percent": 0.20815,
+      "raw": 20483,
+      "raw_percent": 0.58,
+      "real": 8128,
+      "real_percent": 0.504
+    },
+    {
+      "rank": 148,
+      "pokemon": "Ampharos-Mega",
+      "usage_percent": 0.20364,
+      "raw": 20323,
+      "raw_percent": 0.576,
+      "real": 9718,
+      "real_percent": 0.602
+    },
+    {
+      "rank": 149,
+      "pokemon": "Banette-Mega",
+      "usage_percent": 0.19795,
+      "raw": 16355,
+      "raw_percent": 0.463,
+      "real": 6080,
+      "real_percent": 0.377
+    },
+    {
+      "rank": 150,
+      "pokemon": "Heracross-Mega",
+      "usage_percent": 0.19069,
+      "raw": 14341,
+      "raw_percent": 0.406,
+      "real": 7097,
+      "real_percent": 0.44
+    },
+    {
+      "rank": 151,
+      "pokemon": "Rotom-Mow",
+      "usage_percent": 0.1861,
+      "raw": 14775,
+      "raw_percent": 0.419,
+      "real": 5918,
+      "real_percent": 0.367
+    },
+    {
+      "rank": 152,
+      "pokemon": "Wyrdeer",
+      "usage_percent": 0.1848,
+      "raw": 20569,
+      "raw_percent": 0.583,
+      "real": 9201,
+      "real_percent": 0.57
+    },
+    {
+      "rank": 153,
+      "pokemon": "Greninja",
+      "usage_percent": 0.18433,
+      "raw": 14985,
+      "raw_percent": 0.425,
+      "real": 7209,
+      "real_percent": 0.447
+    },
+    {
+      "rank": 154,
+      "pokemon": "Empoleon",
+      "usage_percent": 0.18003,
+      "raw": 23346,
+      "raw_percent": 0.661,
+      "real": 9945,
+      "real_percent": 0.616
+    },
+    {
+      "rank": 155,
+      "pokemon": "Manectric-Mega",
+      "usage_percent": 0.17927,
+      "raw": 11205,
+      "raw_percent": 0.317,
+      "real": 5230,
+      "real_percent": 0.324
+    },
+    {
+      "rank": 156,
+      "pokemon": "Audino",
+      "usage_percent": 0.17889,
+      "raw": 18551,
+      "raw_percent": 0.526,
+      "real": 8997,
+      "real_percent": 0.558
+    },
+    {
+      "rank": 157,
+      "pokemon": "Hydrapple",
+      "usage_percent": 0.16981,
+      "raw": 16102,
+      "raw_percent": 0.456,
+      "real": 7361,
+      "real_percent": 0.456
+    },
+    {
+      "rank": 158,
+      "pokemon": "Hawlucha-Mega",
+      "usage_percent": 0.16804,
+      "raw": 21206,
+      "raw_percent": 0.601,
+      "real": 9427,
+      "real_percent": 0.584
+    },
+    {
+      "rank": 159,
+      "pokemon": "Serperior",
+      "usage_percent": 0.16556,
+      "raw": 19135,
+      "raw_percent": 0.542,
+      "real": 6807,
+      "real_percent": 0.422
+    },
+    {
+      "rank": 160,
+      "pokemon": "Glaceon",
+      "usage_percent": 0.16443,
+      "raw": 11961,
+      "raw_percent": 0.339,
+      "real": 5610,
+      "real_percent": 0.348
+    },
+    {
+      "rank": 161,
+      "pokemon": "Greninja-Mega",
+      "usage_percent": 0.16421,
+      "raw": 29297,
+      "raw_percent": 0.83,
+      "real": 13839,
+      "real_percent": 0.858
+    },
+    {
+      "rank": 162,
+      "pokemon": "Alakazam-Mega",
+      "usage_percent": 0.16006,
+      "raw": 15506,
+      "raw_percent": 0.439,
+      "real": 7343,
+      "real_percent": 0.455
+    },
+    {
+      "rank": 163,
+      "pokemon": "Excadrill-Mega",
+      "usage_percent": 0.15754,
+      "raw": 15176,
+      "raw_percent": 0.43,
+      "real": 7102,
+      "real_percent": 0.44
+    },
+    {
+      "rank": 164,
+      "pokemon": "Beedrill-Mega",
+      "usage_percent": 0.15582,
+      "raw": 16138,
+      "raw_percent": 0.457,
+      "real": 7499,
+      "real_percent": 0.465
+    },
+    {
+      "rank": 165,
+      "pokemon": "Alcremie",
+      "usage_percent": 0.15414,
+      "raw": 21287,
+      "raw_percent": 0.603,
+      "real": 10708,
+      "real_percent": 0.664
+    },
+    {
+      "rank": 166,
+      "pokemon": "Gengar",
+      "usage_percent": 0.15265,
+      "raw": 15677,
+      "raw_percent": 0.444,
+      "real": 6329,
+      "real_percent": 0.392
+    },
+    {
+      "rank": 167,
+      "pokemon": "Blastoise",
+      "usage_percent": 0.15134,
+      "raw": 11625,
+      "raw_percent": 0.329,
+      "real": 5448,
+      "real_percent": 0.338
+    },
+    {
+      "rank": 168,
+      "pokemon": "Liepard",
+      "usage_percent": 0.14617,
+      "raw": 20797,
+      "raw_percent": 0.589,
+      "real": 9226,
+      "real_percent": 0.572
+    },
+    {
+      "rank": 169,
+      "pokemon": "Aromatisse",
+      "usage_percent": 0.14424,
+      "raw": 11487,
+      "raw_percent": 0.325,
+      "real": 4699,
+      "real_percent": 0.291
+    },
+    {
+      "rank": 170,
+      "pokemon": "Altaria-Mega",
+      "usage_percent": 0.13322,
+      "raw": 17956,
+      "raw_percent": 0.509,
+      "real": 7911,
+      "real_percent": 0.49
+    },
+    {
+      "rank": 171,
+      "pokemon": "Avalugg-Hisui",
+      "usage_percent": 0.13249,
+      "raw": 7892,
+      "raw_percent": 0.224,
+      "real": 3805,
+      "real_percent": 0.236
+    },
+    {
+      "rank": 172,
+      "pokemon": "Vaporeon",
+      "usage_percent": 0.13221,
+      "raw": 10088,
+      "raw_percent": 0.286,
+      "real": 4950,
+      "real_percent": 0.307
+    },
+    {
+      "rank": 173,
+      "pokemon": "Victreebel-Mega",
+      "usage_percent": 0.13178,
+      "raw": 7895,
+      "raw_percent": 0.224,
+      "real": 3022,
+      "real_percent": 0.187
+    },
+    {
+      "rank": 174,
+      "pokemon": "Rotom-Frost",
+      "usage_percent": 0.12526,
+      "raw": 9909,
+      "raw_percent": 0.281,
+      "real": 4654,
+      "real_percent": 0.288
+    },
+    {
+      "rank": 175,
+      "pokemon": "Salazzle",
+      "usage_percent": 0.12277,
+      "raw": 14758,
+      "raw_percent": 0.418,
+      "real": 6229,
+      "real_percent": 0.386
+    },
+    {
+      "rank": 176,
+      "pokemon": "Rhyperior",
+      "usage_percent": 0.12217,
+      "raw": 24399,
+      "raw_percent": 0.691,
+      "real": 9173,
+      "real_percent": 0.568
+    },
+    {
+      "rank": 177,
+      "pokemon": "Pidgeot-Mega",
+      "usage_percent": 0.12085,
+      "raw": 9501,
+      "raw_percent": 0.269,
+      "real": 3884,
+      "real_percent": 0.241
+    },
+    {
+      "rank": 178,
+      "pokemon": "Lucario",
+      "usage_percent": 0.12071,
+      "raw": 15339,
+      "raw_percent": 0.435,
+      "real": 6199,
+      "real_percent": 0.384
+    },
+    {
+      "rank": 179,
+      "pokemon": "Houndoom-Mega",
+      "usage_percent": 0.11989,
+      "raw": 12514,
+      "raw_percent": 0.355,
+      "real": 5901,
+      "real_percent": 0.366
+    },
+    {
+      "rank": 180,
+      "pokemon": "Steelix-Mega",
+      "usage_percent": 0.11946,
+      "raw": 16473,
+      "raw_percent": 0.467,
+      "real": 8094,
+      "real_percent": 0.502
+    },
+    {
+      "rank": 181,
+      "pokemon": "Falinks-Mega",
+      "usage_percent": 0.11529,
+      "raw": 17780,
+      "raw_percent": 0.504,
+      "real": 5813,
+      "real_percent": 0.36
+    },
+    {
+      "rank": 182,
+      "pokemon": "Gallade-Mega",
+      "usage_percent": 0.11435,
+      "raw": 14478,
+      "raw_percent": 0.41,
+      "real": 6817,
+      "real_percent": 0.422
+    },
+    {
+      "rank": 183,
+      "pokemon": "Hippowdon",
+      "usage_percent": 0.1135,
+      "raw": 12953,
+      "raw_percent": 0.367,
+      "real": 6598,
+      "real_percent": 0.409
+    },
+    {
+      "rank": 184,
+      "pokemon": "Feraligatr",
+      "usage_percent": 0.1122,
+      "raw": 10515,
+      "raw_percent": 0.298,
+      "real": 5429,
+      "real_percent": 0.336
+    },
+    {
+      "rank": 185,
+      "pokemon": "Clefable-Mega",
+      "usage_percent": 0.11141,
+      "raw": 17847,
+      "raw_percent": 0.506,
+      "real": 7404,
+      "real_percent": 0.459
+    },
+    {
+      "rank": 186,
+      "pokemon": "Pinsir-Mega",
+      "usage_percent": 0.10994,
+      "raw": 9347,
+      "raw_percent": 0.265,
+      "real": 4418,
+      "real_percent": 0.274
+    },
+    {
+      "rank": 187,
+      "pokemon": "Skeledirge",
+      "usage_percent": 0.10975,
+      "raw": 13277,
+      "raw_percent": 0.376,
+      "real": 5734,
+      "real_percent": 0.355
+    },
+    {
+      "rank": 188,
+      "pokemon": "Orthworm",
+      "usage_percent": 0.10768,
+      "raw": 17493,
+      "raw_percent": 0.496,
+      "real": 8908,
+      "real_percent": 0.552
+    },
+    {
+      "rank": 189,
+      "pokemon": "Slowbro-Mega",
+      "usage_percent": 0.10746,
+      "raw": 15132,
+      "raw_percent": 0.429,
+      "real": 6623,
+      "real_percent": 0.41
+    },
+    {
+      "rank": 190,
+      "pokemon": "Houndoom",
+      "usage_percent": 0.10713,
+      "raw": 5751,
+      "raw_percent": 0.163,
+      "real": 2578,
+      "real_percent": 0.16
+    },
+    {
+      "rank": 191,
+      "pokemon": "Slowking",
+      "usage_percent": 0.10561,
+      "raw": 9560,
+      "raw_percent": 0.271,
+      "real": 4526,
+      "real_percent": 0.28
+    },
+    {
+      "rank": 192,
+      "pokemon": "Medicham",
+      "usage_percent": 0.10282,
+      "raw": 9951,
+      "raw_percent": 0.282,
+      "real": 5322,
+      "real_percent": 0.33
+    },
+    {
+      "rank": 193,
+      "pokemon": "Espeon",
+      "usage_percent": 0.09827,
+      "raw": 8351,
+      "raw_percent": 0.237,
+      "real": 3369,
+      "real_percent": 0.209
+    },
+    {
+      "rank": 194,
+      "pokemon": "Gliscor",
+      "usage_percent": 0.09657,
+      "raw": 22837,
+      "raw_percent": 0.647,
+      "real": 10436,
+      "real_percent": 0.647
+    },
+    {
+      "rank": 195,
+      "pokemon": "Rampardos",
+      "usage_percent": 0.09555,
+      "raw": 9462,
+      "raw_percent": 0.268,
+      "real": 4900,
+      "real_percent": 0.304
+    },
+    {
+      "rank": 196,
+      "pokemon": "Typhlosion",
+      "usage_percent": 0.09123,
+      "raw": 10047,
+      "raw_percent": 0.285,
+      "real": 4424,
+      "real_percent": 0.274
+    },
+    {
+      "rank": 197,
+      "pokemon": "Audino-Mega",
+      "usage_percent": 0.0897,
+      "raw": 11567,
+      "raw_percent": 0.328,
+      "real": 4768,
+      "real_percent": 0.295
+    },
+    {
+      "rank": 198,
+      "pokemon": "Sceptile",
+      "usage_percent": 0.08432,
+      "raw": 9368,
+      "raw_percent": 0.265,
+      "real": 3556,
+      "real_percent": 0.22
+    },
+    {
+      "rank": 199,
+      "pokemon": "Chimecho-Mega",
+      "usage_percent": 0.084,
+      "raw": 13466,
+      "raw_percent": 0.382,
+      "real": 4837,
+      "real_percent": 0.3
+    },
+    {
+      "rank": 200,
+      "pokemon": "Charizard",
+      "usage_percent": 0.07999,
+      "raw": 5218,
+      "raw_percent": 0.148,
+      "real": 2234,
+      "real_percent": 0.138
+    },
+    {
+      "rank": 201,
+      "pokemon": "Floette-Eternal",
+      "usage_percent": 0.07763,
+      "raw": 3883,
+      "raw_percent": 0.11,
+      "real": 1725,
+      "real_percent": 0.107
+    },
+    {
+      "rank": 202,
+      "pokemon": "Clawitzer",
+      "usage_percent": 0.07742,
+      "raw": 15799,
+      "raw_percent": 0.448,
+      "real": 8326,
+      "real_percent": 0.516
+    },
+    {
+      "rank": 203,
+      "pokemon": "Alakazam",
+      "usage_percent": 0.07512,
+      "raw": 15672,
+      "raw_percent": 0.444,
+      "real": 6476,
+      "real_percent": 0.401
+    },
+    {
+      "rank": 204,
+      "pokemon": "Garganacl",
+      "usage_percent": 0.07384,
+      "raw": 21265,
+      "raw_percent": 0.603,
+      "real": 11522,
+      "real_percent": 0.714
+    },
+    {
+      "rank": 205,
+      "pokemon": "Infernape",
+      "usage_percent": 0.07296,
+      "raw": 10468,
+      "raw_percent": 0.297,
+      "real": 5037,
+      "real_percent": 0.312
+    },
+    {
+      "rank": 206,
+      "pokemon": "Gourgeist-Large",
+      "usage_percent": 0.07201,
+      "raw": 479,
+      "raw_percent": 0.014,
+      "real": 162,
+      "real_percent": 0.01
+    },
+    {
+      "rank": 207,
+      "pokemon": "Runerigus",
+      "usage_percent": 0.06978,
+      "raw": 11615,
+      "raw_percent": 0.329,
+      "real": 4596,
+      "real_percent": 0.285
+    },
+    {
+      "rank": 208,
+      "pokemon": "Medicham-Mega",
+      "usage_percent": 0.06745,
+      "raw": 7407,
+      "raw_percent": 0.21,
+      "real": 3582,
+      "real_percent": 0.222
+    },
+    {
+      "rank": 209,
+      "pokemon": "Victreebel",
+      "usage_percent": 0.06468,
+      "raw": 1229,
+      "raw_percent": 0.035,
+      "real": 533,
+      "real_percent": 0.033
+    },
+    {
+      "rank": 210,
+      "pokemon": "Quaquaval",
+      "usage_percent": 0.06464,
+      "raw": 9994,
+      "raw_percent": 0.283,
+      "real": 4717,
+      "real_percent": 0.292
+    },
+    {
+      "rank": 211,
+      "pokemon": "Swampert",
+      "usage_percent": 0.06325,
+      "raw": 10201,
+      "raw_percent": 0.289,
+      "real": 4707,
+      "real_percent": 0.292
+    },
+    {
+      "rank": 212,
+      "pokemon": "Spiritomb",
+      "usage_percent": 0.0629,
+      "raw": 11093,
+      "raw_percent": 0.314,
+      "real": 4290,
+      "real_percent": 0.266
+    },
+    {
+      "rank": 213,
+      "pokemon": "Scovillain",
+      "usage_percent": 0.06284,
+      "raw": 5366,
+      "raw_percent": 0.152,
+      "real": 2263,
+      "real_percent": 0.14
+    },
+    {
+      "rank": 214,
+      "pokemon": "Aurorus",
+      "usage_percent": 0.06238,
+      "raw": 12206,
+      "raw_percent": 0.346,
+      "real": 6010,
+      "real_percent": 0.372
+    },
+    {
+      "rank": 215,
+      "pokemon": "Leafeon",
+      "usage_percent": 0.06148,
+      "raw": 7789,
+      "raw_percent": 0.221,
+      "real": 3428,
+      "real_percent": 0.212
+    },
+    {
+      "rank": 216,
+      "pokemon": "Delphox",
+      "usage_percent": 0.05966,
+      "raw": 1456,
+      "raw_percent": 0.041,
+      "real": 621,
+      "real_percent": 0.038
+    },
+    {
+      "rank": 217,
+      "pokemon": "Musharna",
+      "usage_percent": 0.05715,
+      "raw": 8256,
+      "raw_percent": 0.234,
+      "real": 3389,
+      "real_percent": 0.21
+    },
+    {
+      "rank": 218,
+      "pokemon": "Toxicroak",
+      "usage_percent": 0.05687,
+      "raw": 8381,
+      "raw_percent": 0.237,
+      "real": 3963,
+      "real_percent": 0.246
+    },
+    {
+      "rank": 219,
+      "pokemon": "Dragalge",
+      "usage_percent": 0.05665,
+      "raw": 6749,
+      "raw_percent": 0.191,
+      "real": 3217,
+      "real_percent": 0.199
+    },
+    {
+      "rank": 220,
+      "pokemon": "Dedenne",
+      "usage_percent": 0.05636,
+      "raw": 2634,
+      "raw_percent": 0.075,
+      "real": 1078,
+      "real_percent": 0.067
+    },
+    {
+      "rank": 221,
+      "pokemon": "Meowstic-F-Mega",
+      "usage_percent": 0.05388,
+      "raw": 5010,
+      "raw_percent": 0.142,
+      "real": 1845,
+      "real_percent": 0.114
+    },
+    {
+      "rank": 222,
+      "pokemon": "Diggersby",
+      "usage_percent": 0.05345,
+      "raw": 5105,
+      "raw_percent": 0.145,
+      "real": 2629,
+      "real_percent": 0.163
+    },
+    {
+      "rank": 223,
+      "pokemon": "Meowstic-M-Mega",
+      "usage_percent": 0.05344,
+      "raw": 5350,
+      "raw_percent": 0.152,
+      "real": 2287,
+      "real_percent": 0.142
+    },
+    {
+      "rank": 224,
+      "pokemon": "Emboar-Mega",
+      "usage_percent": 0.05331,
+      "raw": 5852,
+      "raw_percent": 0.166,
+      "real": 2982,
+      "real_percent": 0.185
+    },
+    {
+      "rank": 225,
+      "pokemon": "Slowbro-Galar",
+      "usage_percent": 0.05228,
+      "raw": 7724,
+      "raw_percent": 0.219,
+      "real": 3206,
+      "real_percent": 0.199
+    },
+    {
+      "rank": 226,
+      "pokemon": "Trevenant",
+      "usage_percent": 0.05125,
+      "raw": 8049,
+      "raw_percent": 0.228,
+      "real": 3204,
+      "real_percent": 0.199
+    },
+    {
+      "rank": 227,
+      "pokemon": "Ariados",
+      "usage_percent": 0.04994,
+      "raw": 7603,
+      "raw_percent": 0.215,
+      "real": 2814,
+      "real_percent": 0.174
+    },
+    {
+      "rank": 228,
+      "pokemon": "Torterra",
+      "usage_percent": 0.04755,
+      "raw": 8604,
+      "raw_percent": 0.244,
+      "real": 3799,
+      "real_percent": 0.235
+    },
+    {
+      "rank": 229,
+      "pokemon": "Scolipede",
+      "usage_percent": 0.04676,
+      "raw": 5849,
+      "raw_percent": 0.166,
+      "real": 2500,
+      "real_percent": 0.155
+    },
+    {
+      "rank": 230,
+      "pokemon": "Slowbro",
+      "usage_percent": 0.0465,
+      "raw": 4749,
+      "raw_percent": 0.135,
+      "real": 2195,
+      "real_percent": 0.136
+    },
+    {
+      "rank": 231,
+      "pokemon": "Tyrantrum",
+      "usage_percent": 0.04585,
+      "raw": 5372,
+      "raw_percent": 0.152,
+      "real": 2500,
+      "real_percent": 0.155
+    },
+    {
+      "rank": 232,
+      "pokemon": "Machamp",
+      "usage_percent": 0.04397,
+      "raw": 7776,
+      "raw_percent": 0.22,
+      "real": 3869,
+      "real_percent": 0.24
+    },
+    {
+      "rank": 233,
+      "pokemon": "Watchog",
+      "usage_percent": 0.04145,
+      "raw": 582,
+      "raw_percent": 0.016,
+      "real": 190,
+      "real_percent": 0.012
+    },
+    {
+      "rank": 234,
+      "pokemon": "Tauros-Paldea-Blaze",
+      "usage_percent": 0.04084,
+      "raw": 8687,
+      "raw_percent": 0.246,
+      "real": 4336,
+      "real_percent": 0.269
+    },
+    {
+      "rank": 235,
+      "pokemon": "Starmie",
+      "usage_percent": 0.04074,
+      "raw": 7438,
+      "raw_percent": 0.211,
+      "real": 2739,
+      "real_percent": 0.17
+    },
+    {
+      "rank": 236,
+      "pokemon": "Lycanroc",
+      "usage_percent": 0.04067,
+      "raw": 6259,
+      "raw_percent": 0.177,
+      "real": 2666,
+      "real_percent": 0.165
+    },
+    {
+      "rank": 237,
+      "pokemon": "Goodra",
+      "usage_percent": 0.03952,
+      "raw": 5364,
+      "raw_percent": 0.152,
+      "real": 2345,
+      "real_percent": 0.145
+    },
+    {
+      "rank": 238,
+      "pokemon": "Chesnaught",
+      "usage_percent": 0.03881,
+      "raw": 3817,
+      "raw_percent": 0.108,
+      "real": 1571,
+      "real_percent": 0.097
+    },
+    {
+      "rank": 239,
+      "pokemon": "Golurk",
+      "usage_percent": 0.03868,
+      "raw": 5125,
+      "raw_percent": 0.145,
+      "real": 2369,
+      "real_percent": 0.147
+    },
+    {
+      "rank": 240,
+      "pokemon": "Pikachu",
+      "usage_percent": 0.03773,
+      "raw": 7524,
+      "raw_percent": 0.213,
+      "real": 3215,
+      "real_percent": 0.199
+    },
+    {
+      "rank": 241,
+      "pokemon": "Roserade",
+      "usage_percent": 0.0362,
+      "raw": 3544,
+      "raw_percent": 0.1,
+      "real": 1297,
+      "real_percent": 0.08
+    },
+    {
+      "rank": 242,
+      "pokemon": "Luxray",
+      "usage_percent": 0.03541,
+      "raw": 5408,
+      "raw_percent": 0.153,
+      "real": 2676,
+      "real_percent": 0.166
+    },
+    {
+      "rank": 243,
+      "pokemon": "Passimian",
+      "usage_percent": 0.03475,
+      "raw": 4729,
+      "raw_percent": 0.134,
+      "real": 2051,
+      "real_percent": 0.127
+    },
+    {
+      "rank": 244,
+      "pokemon": "Polteageist",
+      "usage_percent": 0.03467,
+      "raw": 3457,
+      "raw_percent": 0.098,
+      "real": 1602,
+      "real_percent": 0.099
+    },
+    {
+      "rank": 245,
+      "pokemon": "Beartic",
+      "usage_percent": 0.03414,
+      "raw": 6678,
+      "raw_percent": 0.189,
+      "real": 3176,
+      "real_percent": 0.197
+    },
+    {
+      "rank": 246,
+      "pokemon": "Sandaconda",
+      "usage_percent": 0.03269,
+      "raw": 6157,
+      "raw_percent": 0.174,
+      "real": 2658,
+      "real_percent": 0.165
+    },
+    {
+      "rank": 247,
+      "pokemon": "Sharpedo",
+      "usage_percent": 0.03202,
+      "raw": 1824,
+      "raw_percent": 0.052,
+      "real": 825,
+      "real_percent": 0.051
+    },
+    {
+      "rank": 248,
+      "pokemon": "Glalie-Mega",
+      "usage_percent": 0.02997,
+      "raw": 7550,
+      "raw_percent": 0.214,
+      "real": 2771,
+      "real_percent": 0.172
+    },
+    {
+      "rank": 249,
+      "pokemon": "Zoroark",
+      "usage_percent": 0.02967,
+      "raw": 3633,
+      "raw_percent": 0.103,
+      "real": 1195,
+      "real_percent": 0.074
+    },
+    {
+      "rank": 250,
+      "pokemon": "Garbodor",
+      "usage_percent": 0.02932,
+      "raw": 847,
+      "raw_percent": 0.024,
+      "real": 312,
+      "real_percent": 0.019
+    },
+    {
+      "rank": 251,
+      "pokemon": "Abomasnow",
+      "usage_percent": 0.02884,
+      "raw": 3631,
+      "raw_percent": 0.103,
+      "real": 1599,
+      "real_percent": 0.099
+    },
+    {
+      "rank": 252,
+      "pokemon": "Sharpedo-Mega",
+      "usage_percent": 0.02843,
+      "raw": 7525,
+      "raw_percent": 0.213,
+      "real": 3233,
+      "real_percent": 0.2
+    },
+    {
+      "rank": 253,
+      "pokemon": "Morpeko",
+      "usage_percent": 0.02785,
+      "raw": 5624,
+      "raw_percent": 0.159,
+      "real": 2773,
+      "real_percent": 0.172
+    },
+    {
+      "rank": 254,
+      "pokemon": "Lopunny",
+      "usage_percent": 0.02744,
+      "raw": 1460,
+      "raw_percent": 0.041,
+      "real": 557,
+      "real_percent": 0.035
+    },
+    {
+      "rank": 255,
+      "pokemon": "Froslass",
+      "usage_percent": 0.02735,
+      "raw": 2551,
+      "raw_percent": 0.072,
+      "real": 991,
+      "real_percent": 0.061
+    },
+    {
+      "rank": 256,
+      "pokemon": "Florges",
+      "usage_percent": 0.02437,
+      "raw": 4331,
+      "raw_percent": 0.123,
+      "real": 1833,
+      "real_percent": 0.114
+    },
+    {
+      "rank": 257,
+      "pokemon": "Pangoro",
+      "usage_percent": 0.02432,
+      "raw": 5371,
+      "raw_percent": 0.152,
+      "real": 2770,
+      "real_percent": 0.172
+    },
+    {
+      "rank": 258,
+      "pokemon": "Gourgeist-Super",
+      "usage_percent": 0.02421,
+      "raw": 4407,
+      "raw_percent": 0.125,
+      "real": 1886,
+      "real_percent": 0.117
+    },
+    {
+      "rank": 259,
+      "pokemon": "Toucannon",
+      "usage_percent": 0.02316,
+      "raw": 5676,
+      "raw_percent": 0.161,
+      "real": 2616,
+      "real_percent": 0.162
+    },
+    {
+      "rank": 260,
+      "pokemon": "Absol-Mega",
+      "usage_percent": 0.02152,
+      "raw": 5047,
+      "raw_percent": 0.143,
+      "real": 2338,
+      "real_percent": 0.145
+    },
+    {
+      "rank": 261,
+      "pokemon": "Manectric",
+      "usage_percent": 0.02102,
+      "raw": 4651,
+      "raw_percent": 0.132,
+      "real": 2363,
+      "real_percent": 0.146
+    },
+    {
+      "rank": 262,
+      "pokemon": "Flapple",
+      "usage_percent": 0.0203,
+      "raw": 7161,
+      "raw_percent": 0.203,
+      "real": 3511,
+      "real_percent": 0.218
+    },
+    {
+      "rank": 263,
+      "pokemon": "Absol",
+      "usage_percent": 0.01954,
+      "raw": 3605,
+      "raw_percent": 0.102,
+      "real": 1663,
+      "real_percent": 0.103
+    },
+    {
+      "rank": 264,
+      "pokemon": "Hawlucha",
+      "usage_percent": 0.01826,
+      "raw": 5015,
+      "raw_percent": 0.142,
+      "real": 1839,
+      "real_percent": 0.114
+    },
+    {
+      "rank": 265,
+      "pokemon": "Flareon",
+      "usage_percent": 0.01815,
+      "raw": 3511,
+      "raw_percent": 0.099,
+      "real": 1549,
+      "real_percent": 0.096
+    },
+    {
+      "rank": 266,
+      "pokemon": "Bastiodon",
+      "usage_percent": 0.01809,
+      "raw": 3717,
+      "raw_percent": 0.105,
+      "real": 1521,
+      "real_percent": 0.094
+    },
+    {
+      "rank": 267,
+      "pokemon": "Simipour",
+      "usage_percent": 0.01786,
+      "raw": 2379,
+      "raw_percent": 0.067,
+      "real": 1100,
+      "real_percent": 0.068
+    },
+    {
+      "rank": 268,
+      "pokemon": "Emolga",
+      "usage_percent": 0.0163,
+      "raw": 3770,
+      "raw_percent": 0.107,
+      "real": 1459,
+      "real_percent": 0.09
+    },
+    {
+      "rank": 269,
+      "pokemon": "Skarmory",
+      "usage_percent": 0.01517,
+      "raw": 2446,
+      "raw_percent": 0.069,
+      "real": 933,
+      "real_percent": 0.058
+    },
+    {
+      "rank": 270,
+      "pokemon": "Aggron",
+      "usage_percent": 0.01479,
+      "raw": 1776,
+      "raw_percent": 0.05,
+      "real": 622,
+      "real_percent": 0.039
+    },
+    {
+      "rank": 271,
+      "pokemon": "Lycanroc-Midnight",
+      "usage_percent": 0.01457,
+      "raw": 2341,
+      "raw_percent": 0.066,
+      "real": 962,
+      "real_percent": 0.06
+    },
+    {
+      "rank": 272,
+      "pokemon": "Qwilfish",
+      "usage_percent": 0.01453,
+      "raw": 4089,
+      "raw_percent": 0.116,
+      "real": 1495,
+      "real_percent": 0.093
+    },
+    {
+      "rank": 273,
+      "pokemon": "Raichu-Alola",
+      "usage_percent": 0.01386,
+      "raw": 3801,
+      "raw_percent": 0.108,
+      "real": 1874,
+      "real_percent": 0.116
+    },
+    {
+      "rank": 274,
+      "pokemon": "Castform",
+      "usage_percent": 0.01386,
+      "raw": 3014,
+      "raw_percent": 0.085,
+      "real": 1493,
+      "real_percent": 0.093
+    },
+    {
+      "rank": 275,
+      "pokemon": "Falinks",
+      "usage_percent": 0.01374,
+      "raw": 1367,
+      "raw_percent": 0.039,
+      "real": 449,
+      "real_percent": 0.028
+    },
+    {
+      "rank": 276,
+      "pokemon": "Crabominable",
+      "usage_percent": 0.01365,
+      "raw": 2032,
+      "raw_percent": 0.058,
+      "real": 1046,
+      "real_percent": 0.065
+    },
+    {
+      "rank": 277,
+      "pokemon": "Glalie",
+      "usage_percent": 0.01327,
+      "raw": 1286,
+      "raw_percent": 0.036,
+      "real": 650,
+      "real_percent": 0.04
+    },
+    {
+      "rank": 278,
+      "pokemon": "Steelix",
+      "usage_percent": 0.01199,
+      "raw": 3334,
+      "raw_percent": 0.094,
+      "real": 1514,
+      "real_percent": 0.094
+    },
+    {
+      "rank": 279,
+      "pokemon": "Tauros-Paldea-Combat",
+      "usage_percent": 0.01195,
+      "raw": 733,
+      "raw_percent": 0.021,
+      "real": 303,
+      "real_percent": 0.019
+    },
+    {
+      "rank": 280,
+      "pokemon": "Eelektross",
+      "usage_percent": 0.01135,
+      "raw": 3439,
+      "raw_percent": 0.097,
+      "real": 1493,
+      "real_percent": 0.093
+    },
+    {
+      "rank": 281,
+      "pokemon": "Tauros",
+      "usage_percent": 0.01132,
+      "raw": 1815,
+      "raw_percent": 0.051,
+      "real": 718,
+      "real_percent": 0.044
+    },
+    {
+      "rank": 282,
+      "pokemon": "Appletun",
+      "usage_percent": 0.0103,
+      "raw": 4408,
+      "raw_percent": 0.125,
+      "real": 1609,
+      "real_percent": 0.1
+    },
+    {
+      "rank": 283,
+      "pokemon": "Decidueye",
+      "usage_percent": 0.00957,
+      "raw": 3030,
+      "raw_percent": 0.086,
+      "real": 1123,
+      "real_percent": 0.07
+    },
+    {
+      "rank": 284,
+      "pokemon": "Emboar",
+      "usage_percent": 0.00791,
+      "raw": 1575,
+      "raw_percent": 0.045,
+      "real": 685,
+      "real_percent": 0.042
+    },
+    {
+      "rank": 285,
+      "pokemon": "Gourgeist-Small",
+      "usage_percent": 0.00781,
+      "raw": 1277,
+      "raw_percent": 0.036,
+      "real": 533,
+      "real_percent": 0.033
+    },
+    {
+      "rank": 286,
+      "pokemon": "Stunfisk-Galar",
+      "usage_percent": 0.00725,
+      "raw": 1258,
+      "raw_percent": 0.036,
+      "real": 581,
+      "real_percent": 0.036
+    },
+    {
+      "rank": 287,
+      "pokemon": "Avalugg",
+      "usage_percent": 0.00714,
+      "raw": 2712,
+      "raw_percent": 0.077,
+      "real": 1307,
+      "real_percent": 0.081
+    },
+    {
+      "rank": 288,
+      "pokemon": "Arbok",
+      "usage_percent": 0.00654,
+      "raw": 2227,
+      "raw_percent": 0.063,
+      "real": 853,
+      "real_percent": 0.053
+    },
+    {
+      "rank": 289,
+      "pokemon": "Ampharos",
+      "usage_percent": 0.00565,
+      "raw": 1756,
+      "raw_percent": 0.05,
+      "real": 933,
+      "real_percent": 0.058
+    },
+    {
+      "rank": 290,
+      "pokemon": "Furfrou",
+      "usage_percent": 0.00557,
+      "raw": 1560,
+      "raw_percent": 0.044,
+      "real": 598,
+      "real_percent": 0.037
+    },
+    {
+      "rank": 291,
+      "pokemon": "Camerupt",
+      "usage_percent": 0.00541,
+      "raw": 2575,
+      "raw_percent": 0.073,
+      "real": 975,
+      "real_percent": 0.06
+    },
+    {
+      "rank": 292,
+      "pokemon": "Simisage",
+      "usage_percent": 0.00486,
+      "raw": 1248,
+      "raw_percent": 0.035,
+      "real": 476,
+      "real_percent": 0.029
+    },
+    {
+      "rank": 293,
+      "pokemon": "Rotom-Fan",
+      "usage_percent": 0.00486,
+      "raw": 1769,
+      "raw_percent": 0.05,
+      "real": 763,
+      "real_percent": 0.047
+    },
+    {
+      "rank": 294,
+      "pokemon": "Rotom",
+      "usage_percent": 0.00441,
+      "raw": 1309,
+      "raw_percent": 0.037,
+      "real": 545,
+      "real_percent": 0.034
+    },
+    {
+      "rank": 295,
+      "pokemon": "Forretress",
+      "usage_percent": 0.00406,
+      "raw": 1894,
+      "raw_percent": 0.054,
+      "real": 644,
+      "real_percent": 0.04
+    },
+    {
+      "rank": 296,
+      "pokemon": "Slurpuff",
+      "usage_percent": 0.00402,
+      "raw": 1205,
+      "raw_percent": 0.034,
+      "real": 415,
+      "real_percent": 0.026
+    },
+    {
+      "rank": 297,
+      "pokemon": "Heracross",
+      "usage_percent": 0.00376,
+      "raw": 1289,
+      "raw_percent": 0.037,
+      "real": 532,
+      "real_percent": 0.033
+    },
+    {
+      "rank": 298,
+      "pokemon": "Simisear",
+      "usage_percent": 0.00364,
+      "raw": 1420,
+      "raw_percent": 0.04,
+      "real": 543,
+      "real_percent": 0.034
+    },
+    {
+      "rank": 299,
+      "pokemon": "Barbaracle",
+      "usage_percent": 0.00342,
+      "raw": 1966,
+      "raw_percent": 0.056,
+      "real": 800,
+      "real_percent": 0.05
+    },
+    {
+      "rank": 300,
+      "pokemon": "Samurott",
+      "usage_percent": 0.00334,
+      "raw": 1027,
+      "raw_percent": 0.029,
+      "real": 459,
+      "real_percent": 0.028
+    },
+    {
+      "rank": 301,
+      "pokemon": "Stunfisk",
+      "usage_percent": 0.00327,
+      "raw": 1400,
+      "raw_percent": 0.04,
+      "real": 618,
+      "real_percent": 0.038
+    },
+    {
+      "rank": 302,
+      "pokemon": "Gourgeist",
+      "usage_percent": 0.0022,
+      "raw": 738,
+      "raw_percent": 0.021,
+      "real": 245,
+      "real_percent": 0.015
+    },
+    {
+      "rank": 303,
+      "pokemon": "Pinsir",
+      "usage_percent": 0.00201,
+      "raw": 474,
+      "raw_percent": 0.013,
+      "real": 186,
+      "real_percent": 0.012
+    },
+    {
+      "rank": 304,
+      "pokemon": "Meganium",
+      "usage_percent": 0.00186,
+      "raw": 375,
+      "raw_percent": 0.011,
+      "real": 128,
+      "real_percent": 0.008
+    },
+    {
+      "rank": 305,
+      "pokemon": "Pidgeot",
+      "usage_percent": 0.00179,
+      "raw": 349,
+      "raw_percent": 0.01,
+      "real": 129,
+      "real_percent": 0.008
+    },
+    {
+      "rank": 306,
+      "pokemon": "Chimecho",
+      "usage_percent": 0.00168,
+      "raw": 1121,
+      "raw_percent": 0.032,
+      "real": 420,
+      "real_percent": 0.026
+    },
+    {
+      "rank": 307,
+      "pokemon": "Banette",
+      "usage_percent": 0.00132,
+      "raw": 319,
+      "raw_percent": 0.009,
+      "real": 124,
+      "real_percent": 0.008
+    },
+    {
+      "rank": 308,
+      "pokemon": "Mawile",
+      "usage_percent": 0.00124,
+      "raw": 746,
+      "raw_percent": 0.021,
+      "real": 285,
+      "real_percent": 0.018
+    },
+    {
+      "rank": 309,
+      "pokemon": "Pyroar",
+      "usage_percent": 0.0002,
+      "raw": 522,
+      "raw_percent": 0.015,
+      "real": 228,
+      "real_percent": 0.014
+    },
+    {
+      "rank": 310,
+      "pokemon": "Beedrill",
+      "usage_percent": 0.00009,
+      "raw": 509,
+      "raw_percent": 0.014,
+      "real": 179,
+      "real_percent": 0.011
+    }
+  ]
+}
