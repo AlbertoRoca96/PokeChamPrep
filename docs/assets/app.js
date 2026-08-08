@@ -10,6 +10,11 @@ const el = (tag, className, html = '') => {
 const pct = value => `${Number(value || 0).toFixed(2)}%`;
 const chips = values => `<div class="chips">${(values || []).map(v => `<span class="badge type">${v}</span>`).join('')}</div>`;
 const byName = new Map(data.pokemon.map(mon => [mon.name, mon]));
+const sprite = name => {
+  const mon = byName.get(name);
+  if (!mon?.spriteUrl) return '';
+  return `<img class="sprite" src="${mon.spriteUrl}" alt="${name}" loading="lazy" onerror="this.remove()" />`;
+};
 let selectedTeam = [];
 
 const typeChart = {
@@ -54,7 +59,7 @@ function renderTopMeta() {
   for (const mon of data.topMeta.slice(0, 20)) {
     root.append(el('div', 'rank-row', `
       <span class="badge">#${mon.usage.bo3Rank}</span>
-      <div><strong>${mon.name}</strong>${chips(mon.types)}</div>
+      <div class="mon-line">${sprite(mon.name)}<div><strong>${mon.name}</strong>${chips(mon.types)}</div></div>
       <strong>${pct(mon.usage.bo3Percent)}</strong>
     `));
   }
@@ -195,7 +200,7 @@ function renderTeamBuilder(query = '') {
     const name = selectedTeam[i];
     const mon = name ? byName.get(name) : null;
     slots.append(el('div', `slot ${mon ? '' : 'empty'}`, mon ? `
-      <div><strong>${mon.name}</strong>${chips(mon.types)}</div>
+      <div class="mon-line">${sprite(mon.name)}<div><strong>${mon.name}</strong>${chips(mon.types)}</div></div>
       <button class="small ghost" data-remove="${mon.name}">×</button>
     ` : `<span>Slot ${i + 1}</span>`));
   }
@@ -206,7 +211,7 @@ function renderTeamBuilder(query = '') {
     .slice(0, 40);
   $('#teamCandidates').innerHTML = candidates.map(mon => `
     <div class="mini-row">
-      <div><strong>${mon.name}</strong><br><span class="muted">${mon.types.join(' / ')} · ${mon.usage.bo3Rank ? `#${mon.usage.bo3Rank}` : 'unranked'}</span></div>
+      <div class="mon-line">${sprite(mon.name)}<div><strong>${mon.name}</strong><br><span class="muted">${mon.types.join(' / ')} · ${mon.usage.bo3Rank ? `#${mon.usage.bo3Rank}` : 'unranked'}</span></div></div>
       <button class="small" data-add="${mon.name}">Add</button>
     </div>
   `).join('');
@@ -238,7 +243,7 @@ function renderPokemonGrid(query = '') {
   for (const mon of mons) {
     const rank = mon.usage.bo3Rank ? `#${mon.usage.bo3Rank} · ${pct(mon.usage.bo3Percent)}` : 'Unranked';
     const card = el('article', 'mon-card', `
-      <h3>${mon.name}</h3>
+      <div class="mon-line big">${sprite(mon.name)}<h3>${mon.name}</h3></div>
       ${chips(mon.types)}
       <p class="muted">${rank}</p>
       <div class="stats">
@@ -268,7 +273,7 @@ function strategySection(mon) {
 
 function showDetails(mon) {
   $('#details').innerHTML = `
-    <h2>${mon.name}</h2>
+    <div class="mon-line big">${sprite(mon.name)}<h2>${mon.name}</h2></div>
     ${chips(mon.types)}
     <p class="muted">Abilities: ${mon.abilities.join(', ') || '—'} · BO3: ${mon.usage.bo3Rank ? `#${mon.usage.bo3Rank} (${pct(mon.usage.bo3Percent)})` : 'Unranked'}</p>
     <div class="detail-grid">

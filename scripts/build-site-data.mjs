@@ -48,6 +48,17 @@ function getChaos(name) {
   return chaosBo3.pokemon[name] || chaosBo1.pokemon[name] || null;
 }
 
+function spriteSlug(name) {
+  return name
+    .toLowerCase()
+    .replace('-mega-y', '-megay')
+    .replace('-mega-x', '-megax')
+    .replace('-mega', '-mega')
+    .replace('-alola', '-alola')
+    .replace(/[^a-z0-9-]/g, '')
+    .replace(/-+/g, '-');
+}
+
 function mapPokemon(pokemon) {
   const bo3 = usageBo3ByName.get(pokemon.name);
   const bo1 = usageBo1ByName.get(pokemon.name);
@@ -67,6 +78,7 @@ function mapPokemon(pokemon) {
     },
     formats: pokemon.formats || [],
     smogonUrl: pokemon.smogon_url,
+    spriteUrl: `https://play.pokemonshowdown.com/sprites/gen5/${spriteSlug(pokemon.name)}.png`,
     usage: {
       bo3Rank: bo3?.rank ?? null,
       bo3Percent: bo3?.usage_percent ?? 0,

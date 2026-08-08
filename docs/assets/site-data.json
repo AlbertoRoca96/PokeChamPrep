@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T23:27:47.126Z",
+  "generatedAt": "2026-08-08T23:44:19.178Z",
   "sources": {
     "smogonDex": "https://www.smogon.com/dex/champions/pokemon/",
     "bo3Usage": "https://www.smogon.com/stats/2026-07/gen9championsvgc2026regmbbo3-1760.txt",
@@ -31,6 +31,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/kingambit/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/kingambit.png",
       "usage": {
         "bo3Rank": 1,
         "bo3Percent": 49.23769,
@@ -471,6 +472,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/incineroar/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/incineroar.png",
       "usage": {
         "bo3Rank": 2,
         "bo3Percent": 45.45541,
@@ -748,6 +750,7 @@
         "UUBL"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/charizard-mega-y/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/charizard-megay.png",
       "usage": {
         "bo3Rank": 3,
         "bo3Percent": 40.57728,
@@ -942,6 +945,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/garchomp/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/garchomp.png",
       "usage": {
         "bo3Rank": 4,
         "bo3Percent": 37.01186,
@@ -1435,6 +1439,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/basculegion/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/basculegion.png",
       "usage": {
         "bo3Rank": 5,
         "bo3Percent": 31.87054,
@@ -1912,6 +1917,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sinistcha/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sinistcha.png",
       "usage": {
         "bo3Rank": 6,
         "bo3Percent": 29.03739,
@@ -2196,6 +2202,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sneasler/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sneasler.png",
       "usage": {
         "bo3Rank": 7,
         "bo3Percent": 28.11025,
@@ -2692,6 +2699,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/floette-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/floette-mega.png",
       "usage": {
         "bo3Rank": 8,
         "bo3Percent": 23.90983,
@@ -2887,6 +2895,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/whimsicott/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/whimsicott.png",
       "usage": {
         "bo3Rank": 9,
         "bo3Percent": 22.16061,
@@ -3160,6 +3169,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sylveon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sylveon.png",
       "usage": {
         "bo3Rank": 10,
         "bo3Percent": 16.08323,
@@ -3438,6 +3448,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/farigiraf/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/farigiraf.png",
       "usage": {
         "bo3Rank": 11,
         "bo3Percent": 14.77487,
@@ -3733,6 +3744,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/venusaur/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/venusaur.png",
       "usage": {
         "bo3Rank": 12,
         "bo3Percent": 14.14615,
@@ -4126,6 +4138,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/delphox-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/delphox-mega.png",
       "usage": {
         "bo3Rank": 13,
         "bo3Percent": 13.3515,
@@ -4321,6 +4334,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/archaludon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/archaludon.png",
       "usage": {
         "bo3Rank": 14,
         "bo3Percent": 13.13106,
@@ -4885,6 +4899,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/grimmsnarl/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/grimmsnarl.png",
       "usage": {
         "bo3Rank": 15,
         "bo3Percent": 11.55386,
@@ -5159,6 +5174,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/pelipper/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/pelipper.png",
       "usage": {
         "bo3Rank": 16,
         "bo3Percent": 11.27218,
@@ -5493,6 +5509,7 @@
         "Uber"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/blastoise-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/blastoise-mega.png",
       "usage": {
         "bo3Rank": 17,
         "bo3Percent": 11.20449,
@@ -5670,6 +5687,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/staraptor-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/staraptor-mega.png",
       "usage": {
         "bo3Rank": 18,
         "bo3Percent": 11.18333,
@@ -5863,6 +5881,7 @@
         "Uber"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gholdengo/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gholdengo.png",
       "usage": {
         "bo3Rank": 19,
         "bo3Percent": 10.90166,
@@ -6135,6 +6154,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/toxapex/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/toxapex.png",
       "usage": {
         "bo3Rank": 20,
         "bo3Percent": 9.95285,
@@ -6472,6 +6492,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/aerodactyl-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/aerodactyl-mega.png",
       "usage": {
         "bo3Rank": 21,
         "bo3Percent": 8.57216,
@@ -6649,6 +6670,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/swampert-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/swampert-mega.png",
       "usage": {
         "bo3Rank": 22,
         "bo3Percent": 7.75023,
@@ -6817,6 +6839,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/raichu-mega-y/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/raichu-megay.png",
       "usage": {
         "bo3Rank": 23,
         "bo3Percent": 7.4479,
@@ -6995,6 +7018,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/ninetales-alola/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/ninetales-alola.png",
       "usage": {
         "bo3Rank": 24,
         "bo3Percent": 6.03587,
@@ -7264,6 +7288,7 @@
         "UUBL"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/froslass-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/froslass-mega.png",
       "usage": {
         "bo3Rank": 25,
         "bo3Percent": 5.90943,
@@ -7437,6 +7462,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/tyranitar-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/tyranitar-mega.png",
       "usage": {
         "bo3Rank": 26,
         "bo3Percent": 5.62377,
@@ -7626,6 +7652,7 @@
         "Uber"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gengar-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gengar-mega.png",
       "usage": {
         "bo3Rank": 27,
         "bo3Percent": 5.49079,
@@ -7800,6 +7827,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/maushold/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/maushold.png",
       "usage": {
         "bo3Rank": 28,
         "bo3Percent": 5.44064,
@@ -8071,6 +8099,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/milotic/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/milotic.png",
       "usage": {
         "bo3Rank": 29,
         "bo3Percent": 5.3841,
@@ -8261,6 +8290,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/excadrill/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/excadrill.png",
       "usage": {
         "bo3Rank": 30,
         "bo3Percent": 5.0428,
@@ -8643,6 +8673,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/venusaur-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/venusaur-mega.png",
       "usage": {
         "bo3Rank": 31,
         "bo3Percent": 5.03099,
@@ -8812,6 +8843,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/metagross-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/metagross-mega.png",
       "usage": {
         "bo3Rank": 32,
         "bo3Percent": 4.87138,
@@ -8974,6 +9006,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/kommo-o/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/kommo-o.png",
       "usage": {
         "bo3Rank": 33,
         "bo3Percent": 4.54485,
@@ -9224,6 +9257,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/vivillon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/vivillon.png",
       "usage": {
         "bo3Rank": 34,
         "bo3Percent": 4.37197,
@@ -9478,6 +9512,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/dragonite/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/dragonite.png",
       "usage": {
         "bo3Rank": 35,
         "bo3Percent": 4.33644,
@@ -9920,6 +9955,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/annihilape/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/annihilape.png",
       "usage": {
         "bo3Rank": 36,
         "bo3Percent": 4.29748,
@@ -10219,6 +10255,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/hydreigon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/hydreigon.png",
       "usage": {
         "bo3Rank": 37,
         "bo3Percent": 4.10756,
@@ -10635,6 +10672,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/arcanine-hisui/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/arcanine-hisui.png",
       "usage": {
         "bo3Rank": 38,
         "bo3Percent": 3.53977,
@@ -10823,6 +10861,7 @@
         "Uber"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/blaziken-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/blaziken-mega.png",
       "usage": {
         "bo3Rank": 39,
         "bo3Percent": 3.27958,
@@ -10983,6 +11022,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/scovillain-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/scovillain-mega.png",
       "usage": {
         "bo3Rank": 40,
         "bo3Percent": 3.14181,
@@ -11142,6 +11182,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/lycanroc-dusk/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/lycanroc-dusk.png",
       "usage": {
         "bo3Rank": 41,
         "bo3Percent": 3.02879,
@@ -11382,6 +11423,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/politoed/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/politoed.png",
       "usage": {
         "bo3Rank": 42,
         "bo3Percent": 2.95776,
@@ -11636,6 +11678,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/torkoal/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/torkoal.png",
       "usage": {
         "bo3Rank": 43,
         "bo3Percent": 2.89012,
@@ -11830,6 +11873,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/glimmora/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/glimmora.png",
       "usage": {
         "bo3Rank": 44,
         "bo3Percent": 2.76817,
@@ -12182,6 +12226,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/talonflame/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/talonflame.png",
       "usage": {
         "bo3Rank": 45,
         "bo3Percent": 2.39207,
@@ -12436,6 +12481,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/aerodactyl/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/aerodactyl.png",
       "usage": {
         "bo3Rank": 46,
         "bo3Percent": 2.08157,
@@ -12728,6 +12774,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/kangaskhan-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/kangaskhan-mega.png",
       "usage": {
         "bo3Rank": 47,
         "bo3Percent": 2.03892,
@@ -12889,6 +12936,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/ceruledge/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/ceruledge.png",
       "usage": {
         "bo3Rank": 48,
         "bo3Percent": 2.00895,
@@ -13289,6 +13337,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gardevoir-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gardevoir-mega.png",
       "usage": {
         "bo3Rank": 49,
         "bo3Percent": 1.8207,
@@ -13451,6 +13500,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/mamoswine/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/mamoswine.png",
       "usage": {
         "bo3Rank": 50,
         "bo3Percent": 1.58469,
@@ -13639,6 +13689,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/dragonite-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/dragonite-mega.png",
       "usage": {
         "bo3Rank": 51,
         "bo3Percent": 1.50775,
@@ -13799,6 +13850,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/mawile-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/mawile-mega.png",
       "usage": {
         "bo3Rank": 52,
         "bo3Percent": 1.50264,
@@ -13959,6 +14011,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/glimmora-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/glimmora-mega.png",
       "usage": {
         "bo3Rank": 53,
         "bo3Percent": 1.46879,
@@ -14119,6 +14172,7 @@
         "UUBL"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/barbaracle-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/barbaracle-mega.png",
       "usage": {
         "bo3Rank": 54,
         "bo3Percent": 1.38275,
@@ -14280,6 +14334,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/volcarona/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/volcarona.png",
       "usage": {
         "bo3Rank": 55,
         "bo3Percent": 1.0384,
@@ -14524,6 +14579,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/garchomp-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/garchomp-mega.png",
       "usage": {
         "bo3Rank": 56,
         "bo3Percent": 0.96798,
@@ -14684,6 +14740,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/rotom-wash/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/rotom-wash.png",
       "usage": {
         "bo3Rank": 57,
         "bo3Percent": 0.89103,
@@ -15170,6 +15227,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/tyranitar/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/tyranitar.png",
       "usage": {
         "bo3Rank": 58,
         "bo3Percent": 0.855,
@@ -15611,6 +15669,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/camerupt-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/camerupt-mega.png",
       "usage": {
         "bo3Rank": 59,
         "bo3Percent": 0.84153,
@@ -15773,6 +15832,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/dragapult/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/dragapult.png",
       "usage": {
         "bo3Rank": 60,
         "bo3Percent": 0.8187,
@@ -16128,6 +16188,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/meowscarada/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/meowscarada.png",
       "usage": {
         "bo3Rank": 61,
         "bo3Percent": 0.69473,
@@ -16536,6 +16597,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/kleavor/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/kleavor.png",
       "usage": {
         "bo3Rank": 62,
         "bo3Percent": 0.63973,
@@ -16726,6 +16788,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/corviknight/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/corviknight.png",
       "usage": {
         "bo3Rank": 63,
         "bo3Percent": 0.63688,
@@ -17204,6 +17267,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/tsareena/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/tsareena.png",
       "usage": {
         "bo3Rank": 64,
         "bo3Percent": 0.5818,
@@ -17393,6 +17457,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/primarina/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/primarina.png",
       "usage": {
         "bo3Rank": 65,
         "bo3Percent": 0.55204,
@@ -17777,6 +17842,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sableye/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sableye.png",
       "usage": {
         "bo3Rank": 66,
         "bo3Percent": 0.53596,
@@ -18020,6 +18086,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/pyroar-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/pyroar-mega.png",
       "usage": {
         "bo3Rank": 67,
         "bo3Percent": 0.53232,
@@ -18181,6 +18248,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gyarados/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gyarados.png",
       "usage": {
         "bo3Rank": 68,
         "bo3Percent": 0.5309,
@@ -18533,6 +18601,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/scrafty-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/scrafty-mega.png",
       "usage": {
         "bo3Rank": 69,
         "bo3Percent": 0.5047,
@@ -18694,6 +18763,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/vileplume/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/vileplume.png",
       "usage": {
         "bo3Rank": 70,
         "bo3Percent": 0.36013,
@@ -18882,6 +18952,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/rotom-heat/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/rotom-heat.png",
       "usage": {
         "bo3Rank": 71,
         "bo3Percent": 0.35117,
@@ -19241,6 +19312,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gyarados-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gyarados-mega.png",
       "usage": {
         "bo3Rank": 72,
         "bo3Percent": 0.32703,
@@ -19402,6 +19474,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/weavile/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/weavile.png",
       "usage": {
         "bo3Rank": 73,
         "bo3Percent": 0.32376,
@@ -19589,6 +19662,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/raichu-mega-x/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/raichu-megax.png",
       "usage": {
         "bo3Rank": 74,
         "bo3Percent": 0.31508,
@@ -19750,6 +19824,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/altaria/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/altaria.png",
       "usage": {
         "bo3Rank": 75,
         "bo3Percent": 0.31468,
@@ -19938,6 +20013,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/aegislash/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/aegislash.png",
       "usage": {
         "bo3Rank": 76,
         "bo3Percent": 0.30802,
@@ -20427,6 +20503,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/altaria-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/altaria-mega.png",
       "usage": {
         "bo3Rank": 77,
         "bo3Percent": 0.28372,
@@ -20588,6 +20665,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/staraptor/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/staraptor.png",
       "usage": {
         "bo3Rank": 78,
         "bo3Percent": 0.27676,
@@ -20941,6 +21019,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/basculegion-f/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/basculegion-f.png",
       "usage": {
         "bo3Rank": 79,
         "bo3Percent": 0.26895,
@@ -21129,6 +21208,7 @@
         "Uber"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/lucario-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/lucario-mega.png",
       "usage": {
         "bo3Rank": 80,
         "bo3Percent": 0.25633,
@@ -21291,6 +21371,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/hatterene/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/hatterene.png",
       "usage": {
         "bo3Rank": 81,
         "bo3Percent": 0.24946,
@@ -21477,6 +21558,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/araquanid/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/araquanid.png",
       "usage": {
         "bo3Rank": 82,
         "bo3Percent": 0.23647,
@@ -21662,6 +21744,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/abomasnow-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/abomasnow-mega.png",
       "usage": {
         "bo3Rank": 83,
         "bo3Percent": 0.23177,
@@ -21819,6 +21902,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/houndstone/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/houndstone.png",
       "usage": {
         "bo3Rank": 84,
         "bo3Percent": 0.22871,
@@ -22005,6 +22089,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/samurott-hisui/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/samurott-hisui.png",
       "usage": {
         "bo3Rank": 85,
         "bo3Percent": 0.22504,
@@ -22190,6 +22275,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/mimikyu/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/mimikyu.png",
       "usage": {
         "bo3Rank": 86,
         "bo3Percent": 0.22346,
@@ -22376,6 +22462,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/snorlax/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/snorlax.png",
       "usage": {
         "bo3Rank": 87,
         "bo3Percent": 0.22316,
@@ -22562,6 +22649,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/vanilluxe/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/vanilluxe.png",
       "usage": {
         "bo3Rank": 88,
         "bo3Percent": 0.18944,
@@ -22746,6 +22834,7 @@
         "Uber"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/palafin/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/palafin.png",
       "usage": {
         "bo3Rank": 89,
         "bo3Percent": 0.18166,
@@ -22933,6 +23022,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/tinkaton/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/tinkaton.png",
       "usage": {
         "bo3Rank": 90,
         "bo3Percent": 0.17398,
@@ -23118,6 +23208,7 @@
         "UUBL"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/medicham-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/medicham-mega.png",
       "usage": {
         "bo3Rank": 91,
         "bo3Percent": 0.15511,
@@ -23275,6 +23366,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/chandelure-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/chandelure-mega.png",
       "usage": {
         "bo3Rank": 92,
         "bo3Percent": 0.15461,
@@ -23432,6 +23524,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/meganium-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/meganium-mega.png",
       "usage": {
         "bo3Rank": 93,
         "bo3Percent": 0.14948,
@@ -23589,6 +23682,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/zoroark-hisui/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/zoroark-hisui.png",
       "usage": {
         "bo3Rank": 94,
         "bo3Percent": 0.14063,
@@ -23774,6 +23868,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/blastoise/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/blastoise.png",
       "usage": {
         "bo3Rank": 95,
         "bo3Percent": 0.13244,
@@ -23960,6 +24055,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/clefable/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/clefable.png",
       "usage": {
         "bo3Rank": 96,
         "bo3Percent": 0.12714,
@@ -24146,6 +24242,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/kangaskhan/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/kangaskhan.png",
       "usage": {
         "bo3Rank": 97,
         "bo3Percent": 0.12215,
@@ -24330,6 +24427,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/manectric-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/manectric-mega.png",
       "usage": {
         "bo3Rank": 98,
         "bo3Percent": 0.11661,
@@ -24488,6 +24586,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/conkeldurr/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/conkeldurr.png",
       "usage": {
         "bo3Rank": 99,
         "bo3Percent": 0.11459,
@@ -24674,6 +24773,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/mudsdale/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/mudsdale.png",
       "usage": {
         "bo3Rank": 100,
         "bo3Percent": 0.11412,
@@ -24861,6 +24961,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/chandelure/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/chandelure.png",
       "usage": {
         "bo3Rank": 101,
         "bo3Percent": 0.11011,
@@ -25046,6 +25147,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/scizor-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/scizor-mega.png",
       "usage": {
         "bo3Rank": 102,
         "bo3Percent": 0.10933,
@@ -25205,6 +25307,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gallade/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gallade.png",
       "usage": {
         "bo3Rank": 103,
         "bo3Percent": 0.10593,
@@ -25390,6 +25493,7 @@
         "UUBL"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/charizard-mega-x/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/charizard-megax.png",
       "usage": {
         "bo3Rank": 104,
         "bo3Percent": 0.10228,
@@ -25547,6 +25651,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/vaporeon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/vaporeon.png",
       "usage": {
         "bo3Rank": 105,
         "bo3Percent": 0.09641,
@@ -25732,6 +25837,7 @@
         "Uber"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/starmie-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/starmie-mega.png",
       "usage": {
         "bo3Rank": 106,
         "bo3Percent": 0.09615,
@@ -25889,6 +25995,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/dragalge-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/dragalge-mega.png",
       "usage": {
         "bo3Rank": 107,
         "bo3Percent": 0.09249,
@@ -26046,6 +26153,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/hippowdon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/hippowdon.png",
       "usage": {
         "bo3Rank": 108,
         "bo3Percent": 0.08668,
@@ -26233,6 +26341,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/scrafty/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/scrafty.png",
       "usage": {
         "bo3Rank": 109,
         "bo3Percent": 0.08304,
@@ -26418,6 +26527,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/lopunny-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/lopunny-mega.png",
       "usage": {
         "bo3Rank": 110,
         "bo3Percent": 0.08269,
@@ -26575,6 +26685,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/ditto/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/ditto.png",
       "usage": {
         "bo3Rank": 111,
         "bo3Percent": 0.08246,
@@ -26729,6 +26840,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/blaziken/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/blaziken.png",
       "usage": {
         "bo3Rank": 112,
         "bo3Percent": 0.07976,
@@ -26914,6 +27026,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/drampa-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/drampa-mega.png",
       "usage": {
         "bo3Rank": 113,
         "bo3Percent": 0.07889,
@@ -27072,6 +27185,7 @@
         "UUBL"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/espathra/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/espathra.png",
       "usage": {
         "bo3Rank": 114,
         "bo3Percent": 0.07693,
@@ -27258,6 +27372,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/chesnaught/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/chesnaught.png",
       "usage": {
         "bo3Rank": 115,
         "bo3Percent": 0.0768,
@@ -27444,6 +27559,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/typhlosion-hisui/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/typhlosion-hisui.png",
       "usage": {
         "bo3Rank": 116,
         "bo3Percent": 0.07599,
@@ -27631,6 +27747,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/scizor/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/scizor.png",
       "usage": {
         "bo3Rank": 117,
         "bo3Percent": 0.07122,
@@ -27817,6 +27934,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/empoleon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/empoleon.png",
       "usage": {
         "bo3Rank": 118,
         "bo3Percent": 0.07104,
@@ -28001,6 +28119,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/eelektross-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/eelektross-mega.png",
       "usage": {
         "bo3Rank": 119,
         "bo3Percent": 0.07083,
@@ -28158,6 +28277,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/raichu/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/raichu.png",
       "usage": {
         "bo3Rank": 120,
         "bo3Percent": 0.07008,
@@ -28343,6 +28463,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sceptile-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sceptile-mega.png",
       "usage": {
         "bo3Rank": 121,
         "bo3Percent": 0.06841,
@@ -28500,6 +28621,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gengar/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gengar.png",
       "usage": {
         "bo3Rank": 122,
         "bo3Percent": 0.06499,
@@ -28687,6 +28809,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/malamar/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/malamar.png",
       "usage": {
         "bo3Rank": 123,
         "bo3Percent": 0.0568,
@@ -28872,6 +28995,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/ninetales/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/ninetales.png",
       "usage": {
         "bo3Rank": 124,
         "bo3Percent": 0.05642,
@@ -29058,6 +29182,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/armarouge/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/armarouge.png",
       "usage": {
         "bo3Rank": 125,
         "bo3Percent": 0.05576,
@@ -29243,6 +29368,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/malamar-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/malamar-mega.png",
       "usage": {
         "bo3Rank": 126,
         "bo3Percent": 0.05552,
@@ -29400,6 +29526,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/orthworm/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/orthworm.png",
       "usage": {
         "bo3Rank": 127,
         "bo3Percent": 0.05522,
@@ -29587,6 +29714,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/azumarill/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/azumarill.png",
       "usage": {
         "bo3Rank": 128,
         "bo3Percent": 0.05495,
@@ -29774,6 +29902,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/greninja/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/greninja.png",
       "usage": {
         "bo3Rank": 129,
         "bo3Percent": 0.05426,
@@ -29959,6 +30088,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/alcremie/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/alcremie.png",
       "usage": {
         "bo3Rank": 130,
         "bo3Percent": 0.05223,
@@ -30144,6 +30274,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/floette-eternal/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/floette-eternal.png",
       "usage": {
         "bo3Rank": 131,
         "bo3Percent": 0.05034,
@@ -30331,6 +30462,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/heliolisk/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/heliolisk.png",
       "usage": {
         "bo3Rank": 132,
         "bo3Percent": 0.04394,
@@ -30517,6 +30649,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/bellibolt/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/bellibolt.png",
       "usage": {
         "bo3Rank": 134,
         "bo3Percent": 0.03968,
@@ -30702,6 +30835,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/excadrill-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/excadrill-mega.png",
       "usage": {
         "bo3Rank": 135,
         "bo3Percent": 0.03882,
@@ -30861,6 +30995,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/overqwil/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/overqwil.png",
       "usage": {
         "bo3Rank": 136,
         "bo3Percent": 0.03879,
@@ -31046,6 +31181,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/clefable-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/clefable-mega.png",
       "usage": {
         "bo3Rank": 137,
         "bo3Percent": 0.03777,
@@ -31204,6 +31340,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/decidueye-hisui/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/decidueye-hisui.png",
       "usage": {
         "bo3Rank": 138,
         "bo3Percent": 0.03655,
@@ -31388,6 +31525,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/falinks-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/falinks-mega.png",
       "usage": {
         "bo3Rank": 139,
         "bo3Percent": 0.03611,
@@ -31547,6 +31685,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/goodra-hisui/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/goodra-hisui.png",
       "usage": {
         "bo3Rank": 140,
         "bo3Percent": 0.03379,
@@ -31732,6 +31871,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/scolipede-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/scolipede-mega.png",
       "usage": {
         "bo3Rank": 141,
         "bo3Percent": 0.03325,
@@ -31890,6 +32030,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/klefki/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/klefki.png",
       "usage": {
         "bo3Rank": 142,
         "bo3Percent": 0.03284,
@@ -32075,6 +32216,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/crabominable-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/crabominable-mega.png",
       "usage": {
         "bo3Rank": 143,
         "bo3Percent": 0.03232,
@@ -32234,6 +32376,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/oranguru/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/oranguru.png",
       "usage": {
         "bo3Rank": 144,
         "bo3Percent": 0.03145,
@@ -32419,6 +32562,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/chesnaught-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/chesnaught-mega.png",
       "usage": {
         "bo3Rank": 145,
         "bo3Percent": 0.03102,
@@ -32576,6 +32720,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/skarmory-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/skarmory-mega.png",
       "usage": {
         "bo3Rank": 146,
         "bo3Percent": 0.03062,
@@ -32733,6 +32878,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/hawlucha-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/hawlucha-mega.png",
       "usage": {
         "bo3Rank": 147,
         "bo3Percent": 0.03029,
@@ -32890,6 +33036,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/jolteon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/jolteon.png",
       "usage": {
         "bo3Rank": 148,
         "bo3Percent": 0.02996,
@@ -33076,6 +33223,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/metagross/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/metagross.png",
       "usage": {
         "bo3Rank": 149,
         "bo3Percent": 0.02821,
@@ -33261,6 +33409,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/typhlosion/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/typhlosion.png",
       "usage": {
         "bo3Rank": 150,
         "bo3Percent": 0.02804,
@@ -33446,6 +33595,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/greninja-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/greninja-mega.png",
       "usage": {
         "bo3Rank": 151,
         "bo3Percent": 0.02685,
@@ -33603,6 +33753,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/umbreon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/umbreon.png",
       "usage": {
         "bo3Rank": 152,
         "bo3Percent": 0.0267,
@@ -33788,6 +33939,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/victreebel-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/victreebel-mega.png",
       "usage": {
         "bo3Rank": 153,
         "bo3Percent": 0.02629,
@@ -33946,6 +34098,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/skeledirge/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/skeledirge.png",
       "usage": {
         "bo3Rank": 154,
         "bo3Percent": 0.02605,
@@ -34131,6 +34284,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/steelix-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/steelix-mega.png",
       "usage": {
         "bo3Rank": 155,
         "bo3Percent": 0.02507,
@@ -34288,6 +34442,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/rampardos/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/rampardos.png",
       "usage": {
         "bo3Rank": 156,
         "bo3Percent": 0.02502,
@@ -34474,6 +34629,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/swampert/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/swampert.png",
       "usage": {
         "bo3Rank": 157,
         "bo3Percent": 0.02478,
@@ -34659,6 +34815,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/beedrill-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/beedrill-mega.png",
       "usage": {
         "bo3Rank": 158,
         "bo3Percent": 0.02464,
@@ -34816,6 +34973,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/houndoom-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/houndoom-mega.png",
       "usage": {
         "bo3Rank": 159,
         "bo3Percent": 0.02299,
@@ -34975,6 +35133,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/wyrdeer/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/wyrdeer.png",
       "usage": {
         "bo3Rank": 160,
         "bo3Percent": 0.02122,
@@ -35161,6 +35320,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/quaquaval/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/quaquaval.png",
       "usage": {
         "bo3Rank": 161,
         "bo3Percent": 0.02111,
@@ -35346,6 +35506,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/audino-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/audino-mega.png",
       "usage": {
         "bo3Rank": 162,
         "bo3Percent": 0.02053,
@@ -35502,6 +35663,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/banette-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/banette-mega.png",
       "usage": {
         "bo3Rank": 163,
         "bo3Percent": 0.01967,
@@ -35661,6 +35823,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/mr-rime/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/mrrime.png",
       "usage": {
         "bo3Rank": 164,
         "bo3Percent": 0.01882,
@@ -35846,6 +36009,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/glaceon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/glaceon.png",
       "usage": {
         "bo3Rank": 165,
         "bo3Percent": 0.01788,
@@ -36030,6 +36194,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/aggron-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/aggron-mega.png",
       "usage": {
         "bo3Rank": 166,
         "bo3Percent": 0.01759,
@@ -36187,6 +36352,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/rotom-mow/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/rotom-mow.png",
       "usage": {
         "bo3Rank": 167,
         "bo3Percent": 0.0175,
@@ -36372,6 +36538,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/chimecho-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/chimecho-mega.png",
       "usage": {
         "bo3Rank": 168,
         "bo3Percent": 0.01749,
@@ -36531,6 +36698,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/tauros-paldea-aqua/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/tauros-paldea-aqua.png",
       "usage": {
         "bo3Rank": 169,
         "bo3Percent": 0.0172,
@@ -36718,6 +36886,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/golurk/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/golurk.png",
       "usage": {
         "bo3Rank": 170,
         "bo3Percent": 0.01592,
@@ -36904,6 +37073,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/salazzle/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/salazzle.png",
       "usage": {
         "bo3Rank": 171,
         "bo3Percent": 0.01527,
@@ -37091,6 +37261,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/avalugg-hisui/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/avalugg-hisui.png",
       "usage": {
         "bo3Rank": 172,
         "bo3Percent": 0.0149,
@@ -37276,6 +37447,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/pinsir-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/pinsir-mega.png",
       "usage": {
         "bo3Rank": 173,
         "bo3Percent": 0.0148,
@@ -37433,6 +37605,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/ampharos-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/ampharos-mega.png",
       "usage": {
         "bo3Rank": 174,
         "bo3Percent": 0.01372,
@@ -37590,6 +37763,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/heracross-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/heracross-mega.png",
       "usage": {
         "bo3Rank": 175,
         "bo3Percent": 0.01353,
@@ -37746,6 +37920,7 @@
         "UUBL"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/alakazam-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/alakazam-mega.png",
       "usage": {
         "bo3Rank": 176,
         "bo3Percent": 0.01341,
@@ -37905,6 +38080,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/drampa/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/drampa.png",
       "usage": {
         "bo3Rank": 177,
         "bo3Percent": 0.01312,
@@ -38091,6 +38267,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/garganacl/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/garganacl.png",
       "usage": {
         "bo3Rank": 178,
         "bo3Percent": 0.01232,
@@ -38277,6 +38454,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/aurorus/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/aurorus.png",
       "usage": {
         "bo3Rank": 179,
         "bo3Percent": 0.01197,
@@ -38463,6 +38641,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/alakazam/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/alakazam.png",
       "usage": {
         "bo3Rank": 180,
         "bo3Percent": 0.01195,
@@ -38650,6 +38829,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/noivern/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/noivern.png",
       "usage": {
         "bo3Rank": 181,
         "bo3Percent": 0.0106,
@@ -38837,6 +39017,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/rhyperior/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/rhyperior.png",
       "usage": {
         "bo3Rank": 182,
         "bo3Percent": 0.01047,
@@ -39022,6 +39203,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/feraligatr-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/feraligatr-mega.png",
       "usage": {
         "bo3Rank": 183,
         "bo3Percent": 0.01023,
@@ -39179,6 +39361,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sableye-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sableye-mega.png",
       "usage": {
         "bo3Rank": 184,
         "bo3Percent": 0.01001,
@@ -39336,6 +39519,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gallade-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gallade-mega.png",
       "usage": {
         "bo3Rank": 185,
         "bo3Percent": 0.00985,
@@ -39494,6 +39678,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/arcanine/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/arcanine.png",
       "usage": {
         "bo3Rank": 186,
         "bo3Percent": 0.00969,
@@ -39679,6 +39864,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/slowbro-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/slowbro-mega.png",
       "usage": {
         "bo3Rank": 187,
         "bo3Percent": 0.00959,
@@ -39835,6 +40021,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/cofagrigus/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/cofagrigus.png",
       "usage": {
         "bo3Rank": 188,
         "bo3Percent": 0.00949,
@@ -40020,6 +40207,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/serperior/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/serperior.png",
       "usage": {
         "bo3Rank": 189,
         "bo3Percent": 0.00912,
@@ -40207,6 +40395,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/slowking-galar/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/slowking-galar.png",
       "usage": {
         "bo3Rank": 190,
         "bo3Percent": 0.00892,
@@ -40392,6 +40581,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/golurk-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/golurk-mega.png",
       "usage": {
         "bo3Rank": 191,
         "bo3Percent": 0.00867,
@@ -40549,6 +40739,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sharpedo-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sharpedo-mega.png",
       "usage": {
         "bo3Rank": 192,
         "bo3Percent": 0.00851,
@@ -40708,6 +40899,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gliscor/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gliscor.png",
       "usage": {
         "bo3Rank": 193,
         "bo3Percent": 0.00835,
@@ -40894,6 +41086,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/liepard/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/liepard.png",
       "usage": {
         "bo3Rank": 194,
         "bo3Percent": 0.0081,
@@ -41081,6 +41274,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/houndoom/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/houndoom.png",
       "usage": {
         "bo3Rank": 195,
         "bo3Percent": 0.00785,
@@ -41266,6 +41460,7 @@
         "NFE"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/pikachu/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/pikachu.png",
       "usage": {
         "bo3Rank": 196,
         "bo3Percent": 0.00778,
@@ -41452,6 +41647,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/audino/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/audino.png",
       "usage": {
         "bo3Rank": 197,
         "bo3Percent": 0.00758,
@@ -41639,6 +41835,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/hydrapple/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/hydrapple.png",
       "usage": {
         "bo3Rank": 198,
         "bo3Percent": 0.00749,
@@ -41824,6 +42021,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/feraligatr/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/feraligatr.png",
       "usage": {
         "bo3Rank": 199,
         "bo3Percent": 0.00697,
@@ -42011,6 +42209,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/krookodile/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/krookodile.png",
       "usage": {
         "bo3Rank": 200,
         "bo3Percent": 0.00692,
@@ -42197,6 +42396,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/medicham/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/medicham.png",
       "usage": {
         "bo3Rank": 201,
         "bo3Percent": 0.00674,
@@ -42383,6 +42583,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/tyrantrum/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/tyrantrum.png",
       "usage": {
         "bo3Rank": 202,
         "bo3Percent": 0.00652,
@@ -42569,6 +42770,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/watchog/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/watchog.png",
       "usage": {
         "bo3Rank": 203,
         "bo3Percent": 0.00645,
@@ -42754,6 +42956,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/pidgeot-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/pidgeot-mega.png",
       "usage": {
         "bo3Rank": 204,
         "bo3Percent": 0.0061,
@@ -42913,6 +43116,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/heracross/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/heracross.png",
       "usage": {
         "bo3Rank": 205,
         "bo3Percent": 0.00581,
@@ -42944,6 +43148,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/rotom-frost/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/rotom-frost.png",
       "usage": {
         "bo3Rank": 206,
         "bo3Percent": 0.00564,
@@ -43130,6 +43335,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/tauros/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/tauros.png",
       "usage": {
         "bo3Rank": 207,
         "bo3Percent": 0.00554,
@@ -43316,6 +43522,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/lycanroc/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/lycanroc.png",
       "usage": {
         "bo3Rank": 208,
         "bo3Percent": 0.00542,
@@ -43500,6 +43707,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/clawitzer/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/clawitzer.png",
       "usage": {
         "bo3Rank": 209,
         "bo3Percent": 0.00514,
@@ -43687,6 +43895,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/trevenant/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/trevenant.png",
       "usage": {
         "bo3Rank": 210,
         "bo3Percent": 0.00492,
@@ -43874,6 +44083,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/lucario/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/lucario.png",
       "usage": {
         "bo3Rank": 211,
         "bo3Percent": 0.00466,
@@ -44060,6 +44270,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/spiritomb/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/spiritomb.png",
       "usage": {
         "bo3Rank": 212,
         "bo3Percent": 0.00452,
@@ -44245,6 +44456,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/runerigus/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/runerigus.png",
       "usage": {
         "bo3Rank": 213,
         "bo3Percent": 0.00448,
@@ -44431,6 +44643,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/infernape/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/infernape.png",
       "usage": {
         "bo3Rank": 214,
         "bo3Percent": 0.0043,
@@ -44618,6 +44831,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/crabominable/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/crabominable.png",
       "usage": {
         "bo3Rank": 215,
         "bo3Percent": 0.00422,
@@ -44805,6 +45019,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/toxicroak/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/toxicroak.png",
       "usage": {
         "bo3Rank": 216,
         "bo3Percent": 0.00419,
@@ -44992,6 +45207,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gardevoir/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gardevoir.png",
       "usage": {
         "bo3Rank": 217,
         "bo3Percent": 0.00403,
@@ -45179,6 +45395,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/dragalge/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/dragalge.png",
       "usage": {
         "bo3Rank": 218,
         "bo3Percent": 0.0038,
@@ -45364,6 +45581,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sceptile/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sceptile.png",
       "usage": {
         "bo3Rank": 219,
         "bo3Percent": 0.00346,
@@ -45549,6 +45767,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/morpeko/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/morpeko.png",
       "usage": {
         "bo3Rank": 220,
         "bo3Percent": 0.00322,
@@ -45735,6 +45954,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sharpedo/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sharpedo.png",
       "usage": {
         "bo3Rank": 221,
         "bo3Percent": 0.00318,
@@ -45921,6 +46141,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/decidueye/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/decidueye.png",
       "usage": {
         "bo3Rank": 222,
         "bo3Percent": 0.00315,
@@ -45954,6 +46175,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/appletun/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/appletun.png",
       "usage": {
         "bo3Rank": 223,
         "bo3Percent": 0.00312,
@@ -46140,6 +46362,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/victreebel/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/victreebel.png",
       "usage": {
         "bo3Rank": 224,
         "bo3Percent": 0.00296,
@@ -46327,6 +46550,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gourgeist-super/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gourgeist-super.png",
       "usage": {
         "bo3Rank": 225,
         "bo3Percent": 0.00293,
@@ -46514,6 +46738,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/slowking/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/slowking.png",
       "usage": {
         "bo3Rank": 226,
         "bo3Percent": 0.00282,
@@ -46701,6 +46926,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/toucannon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/toucannon.png",
       "usage": {
         "bo3Rank": 227,
         "bo3Percent": 0.00277,
@@ -46887,6 +47113,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/torterra/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/torterra.png",
       "usage": {
         "bo3Rank": 228,
         "bo3Percent": 0.00275,
@@ -47074,6 +47301,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/tauros-paldea-blaze/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/tauros-paldea-blaze.png",
       "usage": {
         "bo3Rank": 229,
         "bo3Percent": 0.00264,
@@ -47259,6 +47487,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/espeon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/espeon.png",
       "usage": {
         "bo3Rank": 230,
         "bo3Percent": 0.00248,
@@ -47445,6 +47674,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/charizard/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/charizard.png",
       "usage": {
         "bo3Rank": 231,
         "bo3Percent": 0.0024,
@@ -47631,6 +47861,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/beartic/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/beartic.png",
       "usage": {
         "bo3Rank": 233,
         "bo3Percent": 0.00234,
@@ -47816,6 +48047,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/passimian/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/passimian.png",
       "usage": {
         "bo3Rank": 232,
         "bo3Percent": 0.00234,
@@ -48002,6 +48234,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sandaconda/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sandaconda.png",
       "usage": {
         "bo3Rank": 234,
         "bo3Percent": 0.00232,
@@ -48188,6 +48421,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/abomasnow/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/abomasnow.png",
       "usage": {
         "bo3Rank": 235,
         "bo3Percent": 0.00216,
@@ -48374,6 +48608,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/manectric/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/manectric.png",
       "usage": {
         "bo3Rank": 236,
         "bo3Percent": 0.00196,
@@ -48560,6 +48795,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/machamp/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/machamp.png",
       "usage": {
         "bo3Rank": 237,
         "bo3Percent": 0.00193,
@@ -48747,6 +48983,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/dedenne/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/dedenne.png",
       "usage": {
         "bo3Rank": 238,
         "bo3Percent": 0.00184,
@@ -48933,6 +49170,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/tauros-paldea-combat/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/tauros-paldea-combat.png",
       "usage": {
         "bo3Rank": 239,
         "bo3Percent": 0.00179,
@@ -49119,6 +49357,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/luxray/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/luxray.png",
       "usage": {
         "bo3Rank": 240,
         "bo3Percent": 0.00175,
@@ -49304,6 +49543,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/leafeon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/leafeon.png",
       "usage": {
         "bo3Rank": 241,
         "bo3Percent": 0.00173,
@@ -49490,6 +49730,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/goodra/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/goodra.png",
       "usage": {
         "bo3Rank": 242,
         "bo3Percent": 0.00171,
@@ -49675,6 +49916,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/aromatisse/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/aromatisse.png",
       "usage": {
         "bo3Rank": 243,
         "bo3Percent": 0.0017,
@@ -49861,6 +50103,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/absol/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/absol.png",
       "usage": {
         "bo3Rank": 244,
         "bo3Percent": 0.00156,
@@ -50047,6 +50290,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/musharna/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/musharna.png",
       "usage": {
         "bo3Rank": 245,
         "bo3Percent": 0.00148,
@@ -50233,6 +50477,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/arbok/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/arbok.png",
       "usage": {
         "bo3Rank": 246,
         "bo3Percent": 0.00146,
@@ -50265,6 +50510,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/lycanroc-midnight/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/lycanroc-midnight.png",
       "usage": {
         "bo3Rank": 247,
         "bo3Percent": 0.00134,
@@ -50450,6 +50696,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/florges/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/florges.png",
       "usage": {
         "bo3Rank": 248,
         "bo3Percent": 0.00127,
@@ -50637,6 +50884,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/diggersby/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/diggersby.png",
       "usage": {
         "bo3Rank": 249,
         "bo3Percent": 0.00125,
@@ -50824,6 +51072,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/slowbro/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/slowbro.png",
       "usage": {
         "bo3Rank": 250,
         "bo3Percent": 0.00112,
@@ -51011,6 +51260,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/starmie/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/starmie.png",
       "usage": {
         "bo3Rank": 251,
         "bo3Percent": 0.00098,
@@ -51198,6 +51448,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/qwilfish/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/qwilfish.png",
       "usage": {
         "bo3Rank": 252,
         "bo3Percent": 0.00095,
@@ -51382,6 +51633,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/eelektross/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/eelektross.png",
       "usage": {
         "bo3Rank": 253,
         "bo3Percent": 0.00094,
@@ -51569,6 +51821,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/scolipede/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/scolipede.png",
       "usage": {
         "bo3Rank": 254,
         "bo3Percent": 0.00091,
@@ -51755,6 +52008,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/emboar/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/emboar.png",
       "usage": {
         "bo3Rank": 255,
         "bo3Percent": 0.0009,
@@ -51788,6 +52042,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/slowbro-galar/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/slowbro-galar.png",
       "usage": {
         "bo3Rank": 256,
         "bo3Percent": 0.00087,
@@ -51972,6 +52227,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/meowstic-f-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/meowstic-f-mega.png",
       "usage": {
         "bo3Rank": 257,
         "bo3Percent": 0.00087,
@@ -52131,6 +52387,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/ariados/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/ariados.png",
       "usage": {
         "bo3Rank": 258,
         "bo3Percent": 0.00085,
@@ -52318,6 +52575,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/flapple/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/flapple.png",
       "usage": {
         "bo3Rank": 259,
         "bo3Percent": 0.00076,
@@ -52505,6 +52763,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/hawlucha/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/hawlucha.png",
       "usage": {
         "bo3Rank": 260,
         "bo3Percent": 0.00075,
@@ -52691,6 +52950,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/reuniclus/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/reuniclus.png",
       "usage": {
         "bo3Rank": 261,
         "bo3Percent": 0.00073,
@@ -52875,6 +53135,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/glalie-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/glalie-mega.png",
       "usage": {
         "bo3Rank": 262,
         "bo3Percent": 0.0006,
@@ -53033,6 +53294,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/froslass/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/froslass.png",
       "usage": {
         "bo3Rank": 263,
         "bo3Percent": 0.00057,
@@ -53218,6 +53480,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/emboar-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/emboar-mega.png",
       "usage": {
         "bo3Rank": 264,
         "bo3Percent": 0.00056,
@@ -53377,6 +53640,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/barbaracle/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/barbaracle.png",
       "usage": {
         "bo3Rank": 265,
         "bo3Percent": 0.00053,
@@ -53407,6 +53671,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/absol-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/absol-mega.png",
       "usage": {
         "bo3Rank": 266,
         "bo3Percent": 0.00051,
@@ -53563,6 +53828,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/meowstic-m-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/meowstic-m-mega.png",
       "usage": {
         "bo3Rank": 267,
         "bo3Percent": 0.00048,
@@ -53720,6 +53986,7 @@
         "UUBL"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/polteageist/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/polteageist.png",
       "usage": {
         "bo3Rank": 268,
         "bo3Percent": 0.00037,
@@ -53906,6 +54173,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/bastiodon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/bastiodon.png",
       "usage": {
         "bo3Rank": 269,
         "bo3Percent": 0.00032,
@@ -54091,6 +54359,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/simipour/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/simipour.png",
       "usage": {
         "bo3Rank": 270,
         "bo3Percent": 0.00031,
@@ -54276,6 +54545,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/simisage/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/simisage.png",
       "usage": {
         "bo3Rank": 271,
         "bo3Percent": 0.00026,
@@ -54309,6 +54579,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/camerupt/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/camerupt.png",
       "usage": {
         "bo3Rank": 272,
         "bo3Percent": 0.0002,
@@ -54342,6 +54613,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/roserade/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/roserade.png",
       "usage": {
         "bo3Rank": 273,
         "bo3Percent": 0.00017,
@@ -54527,6 +54799,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/raichu-alola/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/raichu-alola.png",
       "usage": {
         "bo3Rank": 275,
         "bo3Percent": 0.00015,
@@ -54711,6 +54984,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/zoroark/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/zoroark.png",
       "usage": {
         "bo3Rank": 274,
         "bo3Percent": 0.00015,
@@ -54895,6 +55169,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/castform/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/castform.png",
       "usage": {
         "bo3Rank": 276,
         "bo3Percent": 0.00014,
@@ -55082,6 +55357,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/skarmory/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/skarmory.png",
       "usage": {
         "bo3Rank": 278,
         "bo3Percent": 0.00011,
@@ -55269,6 +55545,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/scovillain/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/scovillain.png",
       "usage": {
         "bo3Rank": 277,
         "bo3Percent": 0.00011,
@@ -55454,6 +55731,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/flareon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/flareon.png",
       "usage": {
         "bo3Rank": 279,
         "bo3Percent": 0.0001,
@@ -55641,6 +55919,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/steelix/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/steelix.png",
       "usage": {
         "bo3Rank": 280,
         "bo3Percent": 0.00009,
@@ -55828,6 +56107,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gourgeist-large/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gourgeist-large.png",
       "usage": {
         "bo3Rank": 281,
         "bo3Percent": 0.00009,
@@ -56013,6 +56293,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/ampharos/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/ampharos.png",
       "usage": {
         "bo3Rank": 283,
         "bo3Percent": 0.00008,
@@ -56044,6 +56325,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/rotom/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/rotom.png",
       "usage": {
         "bo3Rank": 284,
         "bo3Percent": 0.00008,
@@ -56076,6 +56358,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/avalugg/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/avalugg.png",
       "usage": {
         "bo3Rank": 282,
         "bo3Percent": 0.00008,
@@ -56107,6 +56390,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/samurott/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/samurott.png",
       "usage": {
         "bo3Rank": 285,
         "bo3Percent": 0.00007,
@@ -56139,6 +56423,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/emolga/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/emolga.png",
       "usage": {
         "bo3Rank": 286,
         "bo3Percent": 0.00006,
@@ -56325,6 +56610,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/delphox/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/delphox.png",
       "usage": {
         "bo3Rank": 287,
         "bo3Percent": 0.00006,
@@ -56509,6 +56795,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/furfrou/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/furfrou.png",
       "usage": {
         "bo3Rank": 288,
         "bo3Percent": 0.00006,
@@ -56540,6 +56827,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/meganium/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/meganium.png",
       "usage": {
         "bo3Rank": 289,
         "bo3Percent": 0.00005,
@@ -56573,6 +56861,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/pangoro/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/pangoro.png",
       "usage": {
         "bo3Rank": 290,
         "bo3Percent": 0.00004,
@@ -56758,6 +57047,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/slurpuff/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/slurpuff.png",
       "usage": {
         "bo3Rank": 291,
         "bo3Percent": 0.00004,
@@ -56789,6 +57079,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/rotom-fan/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/rotom-fan.png",
       "usage": {
         "bo3Rank": 292,
         "bo3Percent": 0.00003,
@@ -56820,6 +57111,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/simisear/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/simisear.png",
       "usage": {
         "bo3Rank": 293,
         "bo3Percent": 0.00003,
@@ -56852,6 +57144,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/lopunny/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/lopunny.png",
       "usage": {
         "bo3Rank": 295,
         "bo3Percent": 0.00002,
@@ -57039,6 +57332,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/pyroar/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/pyroar.png",
       "usage": {
         "bo3Rank": 294,
         "bo3Percent": 0.00002,
@@ -57071,6 +57365,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/beedrill/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/beedrill.png",
       "usage": {
         "bo3Rank": 296,
         "bo3Percent": 0.00001,
@@ -57103,6 +57398,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/forretress/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/forretress.png",
       "usage": {
         "bo3Rank": 299,
         "bo3Percent": 0.00001,
@@ -57134,6 +57430,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/stunfisk-galar/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/stunfisk-galar.png",
       "usage": {
         "bo3Rank": 298,
         "bo3Percent": 0.00001,
@@ -57165,6 +57462,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/falinks/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/falinks.png",
       "usage": {
         "bo3Rank": 297,
         "bo3Percent": 0.00001,
@@ -57351,6 +57649,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sinistcha-masterpiece/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sinistcha-masterpiece.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -57383,6 +57682,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/pinsir/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/pinsir.png",
       "usage": {
         "bo3Rank": 308,
         "bo3Percent": 0,
@@ -57416,6 +57716,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/pidgeot/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/pidgeot.png",
       "usage": {
         "bo3Rank": 307,
         "bo3Percent": 0,
@@ -57449,6 +57750,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/mawile/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/mawile.png",
       "usage": {
         "bo3Rank": 301,
         "bo3Percent": 0,
@@ -57482,6 +57784,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/aggron/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/aggron.png",
       "usage": {
         "bo3Rank": 302,
         "bo3Percent": 0,
@@ -57668,6 +57971,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/banette/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/banette.png",
       "usage": {
         "bo3Rank": 309,
         "bo3Percent": 0,
@@ -57698,6 +58002,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/chimecho/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/chimecho.png",
       "usage": {
         "bo3Rank": 303,
         "bo3Percent": 0,
@@ -57730,6 +58035,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/glalie/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/glalie.png",
       "usage": {
         "bo3Rank": 306,
         "bo3Percent": 0,
@@ -57916,6 +58222,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/garbodor/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/garbodor.png",
       "usage": {
         "bo3Rank": 300,
         "bo3Percent": 0,
@@ -58103,6 +58410,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/stunfisk/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/stunfisk.png",
       "usage": {
         "bo3Rank": 304,
         "bo3Percent": 0,
@@ -58136,6 +58444,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/vivillon-fancy/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/vivillon-fancy.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58169,6 +58478,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/vivillon-pokeball/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/vivillon-pokeball.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58201,6 +58511,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/meowstic-f/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/meowstic-f.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58233,6 +58544,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/meowstic-m/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/meowstic-m.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58266,6 +58578,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gourgeist/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gourgeist.png",
       "usage": {
         "bo3Rank": 310,
         "bo3Percent": 0,
@@ -58299,6 +58612,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gourgeist-small/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gourgeist-small.png",
       "usage": {
         "bo3Rank": 305,
         "bo3Percent": 0,
@@ -58330,6 +58644,7 @@
         "UUBL"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/polteageist-antique/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/polteageist-antique.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58362,6 +58677,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/maushold-four/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/maushold-four.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58393,6 +58709,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/morpeko-hangry/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/morpeko-hangry.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58423,6 +58740,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/castform-snowy/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/castform-snowy.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58453,6 +58771,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/castform-sunny/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/castform-sunny.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58484,6 +58803,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/mimikyu-busted/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/mimikyu-busted.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58514,6 +58834,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/castform-rainy/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/castform-rainy.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58545,6 +58866,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/aegislash-blade/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/aegislash-blade.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58575,6 +58897,7 @@
         "Uber"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/palafin-hero/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/palafin-hero.png",
       "usage": {
         "bo3Rank": null,
         "bo3Percent": 0,
@@ -58610,6 +58933,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/kingambit/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/kingambit.png",
       "usage": {
         "bo3Rank": 1,
         "bo3Percent": 49.23769,
@@ -59050,6 +59374,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/incineroar/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/incineroar.png",
       "usage": {
         "bo3Rank": 2,
         "bo3Percent": 45.45541,
@@ -59327,6 +59652,7 @@
         "UUBL"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/charizard-mega-y/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/charizard-megay.png",
       "usage": {
         "bo3Rank": 3,
         "bo3Percent": 40.57728,
@@ -59521,6 +59847,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/garchomp/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/garchomp.png",
       "usage": {
         "bo3Rank": 4,
         "bo3Percent": 37.01186,
@@ -60014,6 +60341,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/basculegion/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/basculegion.png",
       "usage": {
         "bo3Rank": 5,
         "bo3Percent": 31.87054,
@@ -60491,6 +60819,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sinistcha/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sinistcha.png",
       "usage": {
         "bo3Rank": 6,
         "bo3Percent": 29.03739,
@@ -60775,6 +61104,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sneasler/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sneasler.png",
       "usage": {
         "bo3Rank": 7,
         "bo3Percent": 28.11025,
@@ -61271,6 +61601,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/floette-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/floette-mega.png",
       "usage": {
         "bo3Rank": 8,
         "bo3Percent": 23.90983,
@@ -61466,6 +61797,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/whimsicott/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/whimsicott.png",
       "usage": {
         "bo3Rank": 9,
         "bo3Percent": 22.16061,
@@ -61739,6 +62071,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/sylveon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/sylveon.png",
       "usage": {
         "bo3Rank": 10,
         "bo3Percent": 16.08323,
@@ -62017,6 +62350,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/farigiraf/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/farigiraf.png",
       "usage": {
         "bo3Rank": 11,
         "bo3Percent": 14.77487,
@@ -62312,6 +62646,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/venusaur/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/venusaur.png",
       "usage": {
         "bo3Rank": 12,
         "bo3Percent": 14.14615,
@@ -62705,6 +63040,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/delphox-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/delphox-mega.png",
       "usage": {
         "bo3Rank": 13,
         "bo3Percent": 13.3515,
@@ -62900,6 +63236,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/archaludon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/archaludon.png",
       "usage": {
         "bo3Rank": 14,
         "bo3Percent": 13.13106,
@@ -63464,6 +63801,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/grimmsnarl/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/grimmsnarl.png",
       "usage": {
         "bo3Rank": 15,
         "bo3Percent": 11.55386,
@@ -63738,6 +64076,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/pelipper/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/pelipper.png",
       "usage": {
         "bo3Rank": 16,
         "bo3Percent": 11.27218,
@@ -64072,6 +64411,7 @@
         "Uber"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/blastoise-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/blastoise-mega.png",
       "usage": {
         "bo3Rank": 17,
         "bo3Percent": 11.20449,
@@ -64249,6 +64589,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/staraptor-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/staraptor-mega.png",
       "usage": {
         "bo3Rank": 18,
         "bo3Percent": 11.18333,
@@ -64442,6 +64783,7 @@
         "Uber"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gholdengo/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gholdengo.png",
       "usage": {
         "bo3Rank": 19,
         "bo3Percent": 10.90166,
@@ -64714,6 +65056,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/toxapex/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/toxapex.png",
       "usage": {
         "bo3Rank": 20,
         "bo3Percent": 9.95285,
@@ -65051,6 +65394,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/aerodactyl-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/aerodactyl-mega.png",
       "usage": {
         "bo3Rank": 21,
         "bo3Percent": 8.57216,
@@ -65228,6 +65572,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/swampert-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/swampert-mega.png",
       "usage": {
         "bo3Rank": 22,
         "bo3Percent": 7.75023,
@@ -65396,6 +65741,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/raichu-mega-y/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/raichu-megay.png",
       "usage": {
         "bo3Rank": 23,
         "bo3Percent": 7.4479,
@@ -65574,6 +65920,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/ninetales-alola/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/ninetales-alola.png",
       "usage": {
         "bo3Rank": 24,
         "bo3Percent": 6.03587,
@@ -65843,6 +66190,7 @@
         "UUBL"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/froslass-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/froslass-mega.png",
       "usage": {
         "bo3Rank": 25,
         "bo3Percent": 5.90943,
@@ -66016,6 +66364,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/tyranitar-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/tyranitar-mega.png",
       "usage": {
         "bo3Rank": 26,
         "bo3Percent": 5.62377,
@@ -66205,6 +66554,7 @@
         "Uber"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gengar-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gengar-mega.png",
       "usage": {
         "bo3Rank": 27,
         "bo3Percent": 5.49079,
@@ -66379,6 +66729,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/maushold/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/maushold.png",
       "usage": {
         "bo3Rank": 28,
         "bo3Percent": 5.44064,
@@ -66650,6 +67001,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/milotic/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/milotic.png",
       "usage": {
         "bo3Rank": 29,
         "bo3Percent": 5.3841,
@@ -66840,6 +67192,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/excadrill/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/excadrill.png",
       "usage": {
         "bo3Rank": 30,
         "bo3Percent": 5.0428,
@@ -67222,6 +67575,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/venusaur-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/venusaur-mega.png",
       "usage": {
         "bo3Rank": 31,
         "bo3Percent": 5.03099,
@@ -67391,6 +67745,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/metagross-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/metagross-mega.png",
       "usage": {
         "bo3Rank": 32,
         "bo3Percent": 4.87138,
@@ -67553,6 +67908,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/kommo-o/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/kommo-o.png",
       "usage": {
         "bo3Rank": 33,
         "bo3Percent": 4.54485,
@@ -67803,6 +68159,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/vivillon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/vivillon.png",
       "usage": {
         "bo3Rank": 34,
         "bo3Percent": 4.37197,
@@ -68057,6 +68414,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/dragonite/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/dragonite.png",
       "usage": {
         "bo3Rank": 35,
         "bo3Percent": 4.33644,
@@ -68499,6 +68857,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/annihilape/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/annihilape.png",
       "usage": {
         "bo3Rank": 36,
         "bo3Percent": 4.29748,
@@ -68798,6 +69157,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/hydreigon/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/hydreigon.png",
       "usage": {
         "bo3Rank": 37,
         "bo3Percent": 4.10756,
@@ -69214,6 +69574,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/arcanine-hisui/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/arcanine-hisui.png",
       "usage": {
         "bo3Rank": 38,
         "bo3Percent": 3.53977,
@@ -69402,6 +69763,7 @@
         "Uber"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/blaziken-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/blaziken-mega.png",
       "usage": {
         "bo3Rank": 39,
         "bo3Percent": 3.27958,
@@ -69562,6 +69924,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/scovillain-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/scovillain-mega.png",
       "usage": {
         "bo3Rank": 40,
         "bo3Percent": 3.14181,
@@ -69721,6 +70084,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/lycanroc-dusk/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/lycanroc-dusk.png",
       "usage": {
         "bo3Rank": 41,
         "bo3Percent": 3.02879,
@@ -69961,6 +70325,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/politoed/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/politoed.png",
       "usage": {
         "bo3Rank": 42,
         "bo3Percent": 2.95776,
@@ -70215,6 +70580,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/torkoal/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/torkoal.png",
       "usage": {
         "bo3Rank": 43,
         "bo3Percent": 2.89012,
@@ -70409,6 +70775,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/glimmora/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/glimmora.png",
       "usage": {
         "bo3Rank": 44,
         "bo3Percent": 2.76817,
@@ -70761,6 +71128,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/talonflame/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/talonflame.png",
       "usage": {
         "bo3Rank": 45,
         "bo3Percent": 2.39207,
@@ -71015,6 +71383,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/aerodactyl/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/aerodactyl.png",
       "usage": {
         "bo3Rank": 46,
         "bo3Percent": 2.08157,
@@ -71307,6 +71676,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/kangaskhan-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/kangaskhan-mega.png",
       "usage": {
         "bo3Rank": 47,
         "bo3Percent": 2.03892,
@@ -71468,6 +71838,7 @@
         "OU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/ceruledge/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/ceruledge.png",
       "usage": {
         "bo3Rank": 48,
         "bo3Percent": 2.00895,
@@ -71868,6 +72239,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/gardevoir-mega/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/gardevoir-mega.png",
       "usage": {
         "bo3Rank": 49,
         "bo3Percent": 1.8207,
@@ -72030,6 +72402,7 @@
         "UU"
       ],
       "smogonUrl": "https://www.smogon.com/dex/champions/pokemon/mamoswine/",
+      "spriteUrl": "https://play.pokemonshowdown.com/sprites/gen5/mamoswine.png",
       "usage": {
         "bo3Rank": 50,
         "bo3Percent": 1.58469,

@@ -44,6 +44,10 @@ input, select { width: min(420px, 100%); border: 1px solid var(--border); backgr
 .rank-list, .cards, .pokemon-grid, .team-slots, .mini-list, .analysis-box { display: grid; gap: 10px; }
 .rank-row, .card, .mon-card, .slot, .mini-row, .analysis-card { background: var(--panel-2); border: 1px solid var(--border); border-radius: 16px; padding: 12px; }
 .rank-row { display: grid; grid-template-columns: 42px 1fr auto; align-items: center; gap: 10px; }
+.mon-line { display: flex; gap: 10px; align-items: center; }
+.mon-line.big { align-items: center; }
+.sprite { width: 42px; height: 42px; object-fit: contain; image-rendering: pixelated; filter: drop-shadow(0 7px 10px rgba(0,0,0,.35)); flex: 0 0 auto; }
+.mon-line.big .sprite { width: 56px; height: 56px; }
 .badge { display: inline-flex; align-items: center; justify-content: center; border-radius: 999px; padding: 4px 9px; background: rgba(125, 211, 252, .12); color: var(--accent-2); font-weight: 800; font-size: .78rem; }
 .type { background: rgba(255, 209, 102, .13); color: var(--accent); }
 .bars { display: grid; gap: 11px; }
