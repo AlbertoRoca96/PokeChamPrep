@@ -1,6 +1,12 @@
 # PokeChamPrep
 
-A small local website to help visualize Pokémon Champions prep while building teams for Master Ball-ish ladder/tournament practice.
+A small local/static website to help visualize Pokémon Champions prep while building teams for Master Ball-ish ladder/tournament practice.
+
+Live site:
+
+```txt
+https://albertoroca96.github.io/PokeChamPrep/
+```
 
 ## What it does
 
