@@ -23,6 +23,26 @@
       <section class="panel highlight-panel">
         <div class="section-head">
           <div>
+            <h2>My Teams + Opponent Advisor</h2>
+            <p class="muted">Your two saved squads, full sets, and a 4v4 bring/lead suggestion tool. Enter the opponent's six and let the sand goblin think.</p>
+          </div>
+          <select id="myTeamSelect" aria-label="Choose my team"></select>
+        </div>
+        <div id="savedTeamView" class="saved-team-view"></div>
+        <div class="advisor-box">
+          <label for="opponentTeamInput"><strong>Opponent team</strong></label>
+          <textarea id="opponentTeamInput" rows="3" placeholder="Example: Charizard, Farigiraf, Garchomp, Whimsicott, Gengar, Staraptor"></textarea>
+          <div class="advisor-actions">
+            <button id="analyzeOpponent" class="primary-button">Suggest my 4</button>
+            <button id="clearOpponent" class="secondary-button">Clear</button>
+          </div>
+        </div>
+        <div id="opponentAdvice" class="advisor-results"></div>
+      </section>
+
+      <section class="panel highlight-panel">
+        <div class="section-head">
+          <div>
             <h2>Top Master Ball / Tournament Team Combos</h2>
             <p class="muted">Top 20 six-Pokémon combos from LabMaus score-ranked aggregate W/L data. Shows observed win rate, not fake crystal-ball nonsense.</p>
           </div>

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T23:57:24.071Z",
+  "generatedAt": "2026-08-11T17:14:55.208Z",
   "sources": {
     "smogonDex": "https://www.smogon.com/dex/champions/pokemon/",
     "bo3Usage": "https://www.smogon.com/stats/2026-07/gen9championsvgc2026regmbbo3-1760.txt",
@@ -73390,6 +73390,350 @@
           "tournament": "Le Laly League #1"
         }
       ]
+    }
+  ],
+  "savedTeams": [
+    {
+      "id": "anti-rain-control",
+      "name": "Anti-Rain Control",
+      "label": "Gholdengo / Sinistcha anti-rain ladder set",
+      "thesis": "Snow + priority denial + Focus Sash Sneasler gives you play into rain, Tailwind, Archaludon, Primarina, and Mega Raichu nonsense.",
+      "pokemon": [
+        "Gholdengo",
+        "Sinistcha",
+        "Ninetales-Alola",
+        "Sneasler",
+        "Farigiraf",
+        "Kingambit"
+      ],
+      "sets": [
+        {
+          "name": "Gholdengo",
+          "item": "Spell Tag",
+          "ability": "Good as Gold",
+          "nature": "Timid",
+          "sps": "28 HP / 11 Def / 12 SpA / 3 SpD / 12 Spe",
+          "moves": [
+            "Make It Rain",
+            "Shadow Ball",
+            "Nasty Plot",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Sinistcha",
+          "item": "Sitrus Berry",
+          "ability": "Hospitality",
+          "nature": "Bold",
+          "sps": "32 HP / 14 Def / 20 SpD",
+          "moves": [
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Life Dew",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Ninetales-Alola",
+          "item": "Light Clay",
+          "ability": "Snow Warning",
+          "nature": "Timid",
+          "sps": "4 HP / 32 SpA / 30 Spe",
+          "moves": [
+            "Freeze-Dry",
+            "Blizzard",
+            "Aurora Veil",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Sneasler",
+          "item": "Focus Sash",
+          "ability": "Poison Touch / Unburden",
+          "nature": "Jolly",
+          "sps": "2 HP / 32 Atk / 32 Spe",
+          "moves": [
+            "Close Combat",
+            "Dire Claw",
+            "Fake Out / Protect",
+            "Protect / Coaching"
+          ]
+        },
+        {
+          "name": "Farigiraf",
+          "item": "Mental Herb",
+          "ability": "Armor Tail",
+          "nature": "Bold",
+          "sps": "30 HP / 24 Def / 12 SpD",
+          "moves": [
+            "Trick Room",
+            "Psychic",
+            "Helping Hand",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Kingambit",
+          "item": "Black Glasses",
+          "ability": "Defiant",
+          "nature": "Adamant",
+          "sps": "32 HP / 32 Atk / 2 SpD",
+          "moves": [
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Iron Head",
+            "Protect"
+          ]
+        }
+      ],
+      "defaultPlans": [
+        {
+          "into": "Rain / Archaludon / Primarina",
+          "bring": [
+            "Farigiraf",
+            "Sinistcha",
+            "Ninetales-Alola",
+            "Sneasler"
+          ],
+          "lead": [
+            "Farigiraf",
+            "Sinistcha"
+          ],
+          "note": "Trick Room punishes Tailwind/rain speed. Ninetales threatens Water/Ground/Dragon boards with Freeze-Dry/Blizzard."
+        },
+        {
+          "into": "Charizard + Garchomp Tailwind",
+          "bring": [
+            "Sneasler",
+            "Farigiraf",
+            "Ninetales-Alola",
+            "Kingambit"
+          ],
+          "lead": [
+            "Sneasler",
+            "Farigiraf"
+          ],
+          "note": "Fake Out or pressure the speed-control slot, then Trick Room. Kingambit handles Ghost/Psychic endgames."
+        },
+        {
+          "into": "Passive status/control",
+          "bring": [
+            "Gholdengo",
+            "Sinistcha",
+            "Farigiraf",
+            "Kingambit"
+          ],
+          "lead": [
+            "Gholdengo",
+            "Sinistcha"
+          ],
+          "note": "Good as Gold + Rage Powder/Life Dew creates Nasty Plot chances."
+        }
+      ]
+    },
+    {
+      "id": "sand-balance-master-prep",
+      "name": "Sand Balance Master Prep",
+      "label": "LabMaus #1 score shell: Gholdengo / Sinistcha / Tyranitar / Milotic / Staraptor / Excadrill",
+      "thesis": "Multiple modes: Tyranitar + Excadrill speed, Milotic + Staraptor anti-Intimidate tempo, and Gholdengo + Sinistcha setup.",
+      "pokemon": [
+        "Gholdengo",
+        "Milotic",
+        "Staraptor-Mega",
+        "Excadrill",
+        "Sinistcha",
+        "Tyranitar-Mega"
+      ],
+      "sets": [
+        {
+          "name": "Gholdengo",
+          "item": "Spell Tag",
+          "ability": "Good as Gold",
+          "nature": "Timid",
+          "sps": "28 HP / 11 Def / 12 SpA / 3 SpD / 12 Spe",
+          "moves": [
+            "Make It Rain",
+            "Shadow Ball",
+            "Nasty Plot",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Milotic",
+          "item": "Leftovers",
+          "ability": "Competitive",
+          "nature": "Calm",
+          "sps": "20 HP / 20 Def / 4 SpA / 8 SpD / 14 Spe",
+          "moves": [
+            "Scald",
+            "Icy Wind",
+            "Ice Beam",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Staraptor-Mega",
+          "item": "Staraptite",
+          "ability": "Intimidate",
+          "nature": "Jolly",
+          "sps": "17 HP / 17 Atk / 32 Spe",
+          "moves": [
+            "Close Combat",
+            "Brave Bird",
+            "Tailwind",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Excadrill",
+          "item": "Focus Sash",
+          "ability": "Sand Rush",
+          "nature": "Adamant",
+          "sps": "2 HP / 32 Atk / 32 Spe",
+          "moves": [
+            "High Horsepower",
+            "Iron Head",
+            "Rock Slide",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Sinistcha",
+          "item": "Sitrus Berry",
+          "ability": "Hospitality",
+          "nature": "Bold",
+          "sps": "32 HP / 14 Def / 20 SpD",
+          "moves": [
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Life Dew",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Tyranitar-Mega",
+          "item": "Tyranitarite",
+          "ability": "Sand Stream",
+          "nature": "Adamant",
+          "sps": "32 HP / 13 Atk / 4 Def / 17 Spe",
+          "moves": [
+            "Rock Slide",
+            "Knock Off",
+            "Low Kick",
+            "Protect"
+          ]
+        }
+      ],
+      "defaultPlans": [
+        {
+          "into": "Unknown offense / weather",
+          "bring": [
+            "Tyranitar-Mega",
+            "Excadrill",
+            "Staraptor-Mega",
+            "Milotic"
+          ],
+          "lead": [
+            "Tyranitar-Mega",
+            "Excadrill"
+          ],
+          "note": "Sand Rush reverses speed. Milotic/Staraptor stabilize if the sand mirror or Garchomp appears."
+        },
+        {
+          "into": "Incineroar balance",
+          "bring": [
+            "Milotic",
+            "Staraptor-Mega",
+            "Gholdengo",
+            "Sinistcha"
+          ],
+          "lead": [
+            "Milotic",
+            "Staraptor-Mega"
+          ],
+          "note": "Competitive punishes Intimidate; Staraptor supplies Tailwind and Fighting/Flying pressure."
+        },
+        {
+          "into": "Passive screens/control",
+          "bring": [
+            "Gholdengo",
+            "Sinistcha",
+            "Tyranitar-Mega",
+            "Excadrill"
+          ],
+          "lead": [
+            "Gholdengo",
+            "Sinistcha"
+          ],
+          "note": "Set up with Nasty Plot behind Rage Powder/Life Dew, then use sand as the closer."
+        }
+      ]
+    }
+  ],
+  "matchupRules": [
+    {
+      "tag": "Rain / Water speed",
+      "triggers": [
+        "Pelipper",
+        "Basculegion",
+        "Archaludon",
+        "Primarina",
+        "Swampert-Mega",
+        "Mega Swampert"
+      ],
+      "advice": "Prioritize weather denial, Trick Room/Icy Wind, and do not let rain stay up for free."
+    },
+    {
+      "tag": "Sun / Charizard",
+      "triggers": [
+        "Charizard-Mega-Y",
+        "Charizard",
+        "Venusaur",
+        "Torkoal"
+      ],
+      "advice": "Reset weather with Tyranitar/Ninetales, pressure Charizard with Rock Slide, and respect boosted Fire spread damage."
+    },
+    {
+      "tag": "Ground pressure",
+      "triggers": [
+        "Garchomp",
+        "Excadrill",
+        "Swampert-Mega",
+        "Landorus-Therian"
+      ],
+      "advice": "Avoid lazy Gholdengo positioning. Use Ninetales, Milotic, Sinistcha, Protect, and redirection/Speed control."
+    },
+    {
+      "tag": "Dark / Ghost pressure",
+      "triggers": [
+        "Kingambit",
+        "Gengar-Mega",
+        "Gengar",
+        "Zoroark-Hisui",
+        "Basculegion",
+        "Tyranitar-Mega"
+      ],
+      "advice": "Bring Kingambit/Fighting pressure; do not rely on Sucker Punch while opposing Farigiraf is active."
+    },
+    {
+      "tag": "Tailwind speed control",
+      "triggers": [
+        "Whimsicott",
+        "Talonflame",
+        "Staraptor-Mega",
+        "Staraptor"
+      ],
+      "advice": "Lead Fake Out/Trick Room or sand speed; if they Tailwind, make it a liability."
+    },
+    {
+      "tag": "Intimidate / pivot balance",
+      "triggers": [
+        "Incineroar",
+        "Staraptor-Mega",
+        "Staraptor",
+        "Arcanine-Hisui"
+      ],
+      "advice": "Milotic becomes premium. Punish Intimidate cycles and avoid over-clicking physical damage into bad boards."
     }
   ],
   "teamShells": [
