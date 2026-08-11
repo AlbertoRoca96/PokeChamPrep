@@ -1,0 +1,90 @@
+{
+  "generated_at": "2026-08-11T16:58:00Z",
+  "as_of": "2026-08-09",
+  "format": "Pokemon Champions VGC 2026 Regulation M-B / doubles BO3 / ranked-ladder-style high ladder",
+  "focus_team": ["Gholdengo", "Milotic", "Staraptor-Mega", "Excadrill", "Sinistcha", "Tyranitar-Mega"],
+  "source_notes": {
+    "serebii_regulation_m_b": {
+      "url": "https://www.serebii.net/pokemonchampions/rankedbattle/regulationm-b.shtml",
+      "observations": [
+        "Regulation M-B dates: June 17 2026 - September 9 2026.",
+        "Doubles: team of 4 to 6 Pokemon, all set to level 50, 7 minute player timer, 90 second team preview, 45 second turns.",
+        "Season M-5 starts August 5 2026 and ends September 9 2026.",
+        "Newly usable Pokemon include Mega Staraptor, Mega Tyranitar-related ecosystem pieces, Gholdengo, Grimmsnarl, Mega Swampert, Mega Metagross, Mega Blaziken, Mega Sceptile, Mega Mawile, etc."
+      ]
+    },
+    "smogon_stats": {
+      "august_2026_status": "https://www.smogon.com/stats/2026-08/ returned 404 during this run; use July 2026 1760 BO3 as the latest available high-ladder/ranked proxy.",
+      "july_2026_bo3_usage_url": "https://www.smogon.com/stats/2026-07/gen9championsvgc2026regmbbo3-1760.txt",
+      "july_2026_bo3_chaos_url": "https://www.smogon.com/stats/2026-07/chaos/gen9championsvgc2026regmbbo3-1760.json"
+    },
+    "labmaus": {
+      "url": "https://labmaus.net/api/top_teams?language=en",
+      "retrieved_at": "2026-08-11T16:52:22Z",
+      "caveat": "LabMaus endpoint is tournament/open-team-sheet aggregation scored by LabMaus score, not pure ranked ladder. It is still highly relevant for top performing public teams."
+    },
+    "limitless": {
+      "url": "https://play.limitlesstcg.com/tournaments/completed?game=VGC",
+      "observations": ["Completed tournament list around Aug 8-10 included many Champions/Reg M-B events: Sketch Academy, VGC Reg M-B Ingame Tour, The Drywalls Series, Intimidators Champions Challenge, Pokepal Smackdown, etc."]
+    }
+  },
+  "smogon_july_2026_bo3_1760_top_usage": [
+    {"rank":1,"pokemon":"Kingambit","usage_percent":49.23769},
+    {"rank":2,"pokemon":"Incineroar","usage_percent":45.45541},
+    {"rank":3,"pokemon":"Charizard-Mega-Y","usage_percent":40.57728},
+    {"rank":4,"pokemon":"Garchomp","usage_percent":37.01186},
+    {"rank":5,"pokemon":"Basculegion","usage_percent":31.87054},
+    {"rank":6,"pokemon":"Sinistcha","usage_percent":29.03739},
+    {"rank":7,"pokemon":"Sneasler","usage_percent":28.11025},
+    {"rank":8,"pokemon":"Floette-Mega","usage_percent":23.90983},
+    {"rank":9,"pokemon":"Whimsicott","usage_percent":22.16061},
+    {"rank":10,"pokemon":"Sylveon","usage_percent":16.08323},
+    {"rank":11,"pokemon":"Farigiraf","usage_percent":14.77487},
+    {"rank":12,"pokemon":"Venusaur","usage_percent":14.14615},
+    {"rank":13,"pokemon":"Delphox-Mega","usage_percent":13.35150},
+    {"rank":14,"pokemon":"Archaludon","usage_percent":13.13106},
+    {"rank":15,"pokemon":"Grimmsnarl","usage_percent":11.55386},
+    {"rank":16,"pokemon":"Pelipper","usage_percent":11.27218},
+    {"rank":17,"pokemon":"Blastoise-Mega","usage_percent":11.20449},
+    {"rank":18,"pokemon":"Staraptor-Mega","usage_percent":11.18333},
+    {"rank":19,"pokemon":"Gholdengo","usage_percent":10.90166},
+    {"rank":26,"pokemon":"Tyranitar-Mega","usage_percent":5.62377},
+    {"rank":29,"pokemon":"Milotic","usage_percent":5.38410},
+    {"rank":30,"pokemon":"Excadrill","usage_percent":5.04280}
+  ],
+  "labmaus_top_six_compositions_by_score": [
+    {"rank":1,"composition":["Gholdengo","Sinistcha","Tyranitar","Milotic","Staraptor","Excadrill"],"score":1303,"wins":961,"losses":478,"win_rate_percent":66.8,"archetype":"sand balance / exact focus team"},
+    {"rank":2,"composition":["Venusaur","Charizard","Archaludon","Pelipper","Grimmsnarl","Basculegion-M"],"score":1119,"wins":773,"losses":378,"win_rate_percent":67.2,"archetype":"rain-sun weather balance with screens"},
+    {"rank":3,"composition":["Charizard","Garchomp","Whimsicott","Floette","Basculegion-M","Kingambit"],"score":1030,"wins":649,"losses":292,"win_rate_percent":69.0,"archetype":"Tailwind Charizard/Garchomp/Floette offense"},
+    {"rank":4,"composition":["Charizard","Aerodactyl","Garchomp","Sylveon","Farigiraf","Kingambit"],"score":733,"wins":551,"losses":277,"win_rate_percent":66.5,"archetype":"Mega Aerodactyl + Charizard/Garchomp with anti-priority/TR"},
+    {"rank":5,"composition":["Froslass","Lycanroc-Dusk","Basculegion-M","Sneasler","Scovillain","Kingambit"],"score":697,"wins":367,"losses":144,"win_rate_percent":71.8,"archetype":"fast physical offense / sash pressure"},
+    {"rank":6,"composition":["Arcanine-Hisui","Dragonite","Whimsicott","Floette","Basculegion-M","Kingambit"],"score":519,"wins":294,"losses":98,"win_rate_percent":75.0,"archetype":"Tailwind/Floette balance with priority and Intimidate-resistant pressure"},
+    {"rank":7,"composition":["Blastoise","Sinistcha","Delphox","Incineroar","Sneasler","Kingambit"],"score":518,"wins":420,"losses":209,"win_rate_percent":66.8,"archetype":"bulky setup/redirection balance"},
+    {"rank":8,"composition":["Staraptor","Garchomp","Whimsicott","Delphox","Glimmora","Kingambit"],"score":507,"wins":398,"losses":215,"win_rate_percent":64.9,"archetype":"Mega Staraptor + Tailwind/Garchomp offense"}
+  ],
+  "focus_team_common_sets_from_public_pastes": {
+    "sample_pastes": ["https://pokepast.es/9cd069ccd073816a", "https://pokepast.es/a5c1698cfde19916"],
+    "Gholdengo": {"item":"Life Orb","ability":"Good as Gold","moves":["Make It Rain","Shadow Ball","Nasty Plot","Protect"]},
+    "Milotic": {"item":"Sitrus Berry","ability":"Competitive","moves_common":["Scald","Icy Wind","Ice Beam or Haze","Protect"]},
+    "Staraptor-Mega": {"item":"Staraptite","ability_pre_mega":"Intimidate","ability_mega":"Contrary","moves":["Brave Bird","Close Combat","Tailwind","Protect"]},
+    "Excadrill": {"item":"Focus Sash","ability":"Sand Rush","moves_common":["Iron Head","Rock Slide","High Horsepower or Earthquake","Protect"]},
+    "Sinistcha": {"item":"Colbur Berry","ability":"Hospitality","moves_common":["Matcha Gotcha","Rage Powder","Protect","Shadow Ball or Strength Sap"]},
+    "Tyranitar-Mega": {"item":"Tyranitarite","ability":"Sand Stream","moves_common":["Rock Slide","Knock Off","Low Kick or High Horsepower","Protect"]}
+  },
+  "primary_archetypes_and_plans": [
+    {"archetype":"Mirror / sand balance","likely_leads":["Staraptor + Tyranitar", "Tyranitar + Excadrill", "Sinistcha + Gholdengo"],"threats":["opposing Excadrill speed ties", "Gholdengo snowball", "Milotic Competitive punishing Intimidate"],"recommended_bring":["Milotic","Staraptor-Mega","Excadrill","Tyranitar-Mega"],"recommended_lead":["Milotic","Staraptor-Mega"],"back":["Tyranitar-Mega","Excadrill"],"plan":"Deny free Intimidate value with Competitive; use Tailwind/Icy Wind to avoid pure sand-speed ties; preserve Tyranitar until Excadrill can clean."},
+    {"archetype":"Charizard-Mega-Y + Garchomp + Whimsicott/Floette/Kingambit offense","likely_leads":["Whimsicott + Charizard", "Whimsicott + Garchomp", "Floette + Garchomp"],"threats":["sun-boosted Charizard", "Tailwind", "Garchomp Ground pressure", "Kingambit endgame"],"recommended_bring":["Tyranitar-Mega","Excadrill","Milotic","Staraptor-Mega"],"recommended_lead":["Tyranitar-Mega","Excadrill"],"back":["Milotic","Staraptor-Mega"],"plan":"Lead weather/speed control immediately: Mega Tyranitar flips sun to sand and enables Sand Rush. Rock Slide pressure threatens Charizard/Whimsicott; Milotic handles Garchomp with Icy Wind/Ice Beam and discourages Incineroar pivots. Keep Gholdengo benched unless they lack Garchomp/Kingambit pressure."},
+    {"archetype":"Rain: Pelipper + Archaludon + Basculegion + Venusaur/Grimmsnarl","likely_leads":["Pelipper + Archaludon", "Grimmsnarl + Archaludon", "Pelipper + Basculegion"],"threats":["rain-boosted Basculegion", "Archaludon bulk/Body Press style snowball", "screens", "weather overwrite"],"recommended_bring":["Tyranitar-Mega","Excadrill","Sinistcha","Gholdengo"],"recommended_lead":["Tyranitar-Mega","Excadrill"],"back":["Sinistcha","Gholdengo"],"plan":"Contest rain at lead. Excadrill threatens Archaludon and Grimmsnarl; Tyranitar removes rain and pressures Pelipper. Sinistcha gives Rage Powder/Hospitality into Basculegion/Archaludon turns. Gholdengo exploits passive screens turns with Nasty Plot and blocks status/control."},
+    {"archetype":"Incineroar + Sneasler + Sinistcha + Kingambit/Delphox/Blastoise balance","likely_leads":["Incineroar + Sneasler", "Sinistcha + Delphox", "Sinistcha + Kingambit"],"threats":["Fake Out/Parting Shot cycling", "Sneasler Fighting pressure", "redirection into setup", "Kingambit sucker/endgame"],"recommended_bring":["Milotic","Staraptor-Mega","Gholdengo","Sinistcha"],"recommended_lead":["Milotic","Staraptor-Mega"],"back":["Gholdengo","Sinistcha"],"plan":"Milotic punishes Incineroar and keeps speed control with Icy Wind. Staraptor threatens Sneasler/Kingambit with Brave Bird/Close Combat and Tailwind. Gholdengo is strong into Sinistcha and ignores many status/control lines; Sinistcha protects it from single-target pressure."},
+    {"archetype":"Mega Aerodactyl / fast physical balance","likely_leads":["Aerodactyl + Charizard", "Aerodactyl + Garchomp", "Farigiraf + Sylveon"],"threats":["Rock Slide flinches", "very high speed before sand/Tailwind", "Farigiraf blocking priority and setting Trick Room", "Kingambit"],"recommended_bring":["Tyranitar-Mega","Excadrill","Milotic","Gholdengo"],"recommended_lead":["Tyranitar-Mega","Excadrill"],"back":["Milotic","Gholdengo"],"plan":"Use sand to reverse speed. Excadrill Iron Head/Rock Slide pressures Aerodactyl/Sylveon/Charizard; Tyranitar checks Charizard and removes items. Milotic covers Garchomp. Gholdengo gives a non-physical route if Intimidate/Farigiraf slows physical endgame."},
+    {"archetype":"Froslass / Lycanroc / Sneasler hyper offense","likely_leads":["Froslass + Sneasler", "Lycanroc + Basculegion", "Sneasler + Kingambit"],"threats":["fast disruption", "Focus Sash trades", "Basculegion priority/water damage", "Kingambit cleanup"],"recommended_bring":["Tyranitar-Mega","Excadrill","Staraptor-Mega","Milotic"],"recommended_lead":["Tyranitar-Mega","Excadrill"],"back":["Staraptor-Mega","Milotic"],"plan":"Do not give them free tempo. Rock Slide/Iron Head chip breaks sashes; sand chip matters. Staraptor handles Sneasler/Kingambit if positioned safely; Milotic stabilizes with Icy Wind/Scald and discourages Intimidate users if present."}
+  ],
+  "general_decision_rules": [
+    "Default bring is often Tyranitar-Mega + Excadrill + Staraptor-Mega + Milotic when the opponent is fast, Charizard/Garchomp-heavy, or weather-dependent.",
+    "Bring Gholdengo + Sinistcha together when the opponent relies on status, redirection wars, passive screens turns, or lacks immediate Ground/Dark pressure.",
+    "Milotic is the anti-Incineroar and anti-Garchomp stabilizer; avoid leaving it home into Incineroar/Garchomp unless rain pressure forces Gholdengo/Sinistcha.",
+    "Staraptor is both Tailwind and immediate Fighting/Flying pressure; it is especially important into Kingambit/Sneasler/Venusaur but must respect Rock Slide and Sash trades.",
+    "Tyranitar should be preserved for weather re-entry against Charizard/Pelipper; do not spend it early if losing sand lets Basculegion/Charizard sweep.",
+    "Excadrill is the clearest closer under sand; protect its Focus Sash from chip/status where possible and use Sinistcha redirection when expecting single-target Fighting/Ground moves."
+  ]
+}
