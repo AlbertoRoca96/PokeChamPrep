@@ -189,6 +189,41 @@ function parseOpponentTeam() {
     .slice(0, 6);
 }
 
+function setOpponentTeam(names) {
+  $('#opponentTeamInput').value = [...new Set(names)].slice(0, 6).join(', ');
+  renderOpponentSpriteSelector($('#opponentSpriteSearch')?.value || '');
+  analyzeOpponentTeam();
+}
+
+function toggleOpponentMon(name) {
+  const selected = parseOpponentTeam();
+  setOpponentTeam(selected.includes(name) ? selected.filter(mon => mon !== name) : [...selected, name]);
+}
+
+function spritePool(query = '') {
+  const selected = parseOpponentTeam();
+  const q = query.toLowerCase();
+  const priority = new Set([...(data.topMeta || []).slice(0, 60).map(mon => mon.name), ...selected]);
+  return data.pokemon
+    .filter(mon => priority.has(mon.name) || q)
+    .filter(mon => matches(mon, q))
+    .sort((a, b) => (selected.includes(b.name) - selected.includes(a.name)) || (a.usage.bo3Rank || 999) - (b.usage.bo3Rank || 999))
+    .slice(0, q ? 90 : 72);
+}
+
+function renderOpponentSpriteSelector(query = '') {
+  const selected = parseOpponentTeam();
+  $('#opponentSelectedSprites').innerHTML = selected.length
+    ? selected.map(name => `<button class="sprite-pill" data-opp="${name}">${sprite(name)}<span>${name}</span><b>×</b></button>`).join('')
+    : '<p class="muted">No opponent Pokémon selected yet.</p>';
+  $('#opponentSpriteGrid').innerHTML = spritePool(query).map(mon => `
+    <button class="sprite-pick ${selected.includes(mon.name) ? 'selected' : ''}" data-opp="${mon.name}" title="${mon.name}">
+      ${sprite(mon.name)}<span>${mon.name}</span>
+    </button>
+  `).join('');
+  document.querySelectorAll('[data-opp]').forEach(button => button.addEventListener('click', () => toggleOpponentMon(button.dataset.opp)));
+}
+
 function hasAny(names, targets) {
   return targets.some(target => names.includes(target));
 }
@@ -270,7 +305,7 @@ function analyzeOpponentTeam() {
   const foes = parseOpponentTeam();
   const root = $('#opponentAdvice');
   if (!team || !foes.length) {
-    root.innerHTML = '<p class="muted">Enter 4-6 opposing Pokémon to get a bring/lead plan.</p>';
+    root.innerHTML = '<p class="muted">Enter or click 4-6 opposing Pokémon to get a bring/lead plan.</p>';
     return;
   }
   const result = planForOpponent(team, foes);
@@ -511,6 +546,7 @@ function boot() {
   renderTypeChart();
   renderTopTeams();
   renderSavedTeamAdvisor();
+  renderOpponentSpriteSelector();
   renderTeamBuilder();
   renderAntiMeta();
   renderGholdengoLab();
@@ -522,8 +558,9 @@ function boot() {
   $('#teamSearch').addEventListener('input', event => renderTeamBuilder(event.target.value));
   $('#search').addEventListener('input', event => renderPokemonGrid(event.target.value));
   $('#analyzeOpponent').addEventListener('click', analyzeOpponentTeam);
-  $('#opponentTeamInput').addEventListener('input', analyzeOpponentTeam);
-  $('#clearOpponent').addEventListener('click', () => { $('#opponentTeamInput').value = ''; analyzeOpponentTeam(); });
+  $('#opponentTeamInput').addEventListener('input', () => { renderOpponentSpriteSelector($('#opponentSpriteSearch').value); analyzeOpponentTeam(); });
+  $('#opponentSpriteSearch').addEventListener('input', event => renderOpponentSpriteSelector(event.target.value));
+  $('#clearOpponent').addEventListener('click', () => setOpponentTeam([]));
   $('#closeDialog').addEventListener('click', () => $('#detailsDialog').close());
 }
 
